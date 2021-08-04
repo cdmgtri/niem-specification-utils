@@ -1,11 +1,12 @@
 
 let utils = require("./utils");
-let { parseSpecification } = require("./parser");
+let Parser = require("./parser");
+let { parseSpecification } = Parser;
 
 class Specification {
 
   /**
-   * @param {SpecificationClass} specificationClass - The class object for this spec
+   * @param {Suite} suite - The series or suite that this versioned specification is a member of
    * @param {String} version - Version number (e.g., "3.0")
    * @param {String} url - URL for reading the spec
    * @param {String} year - Year the spec was published
@@ -16,9 +17,9 @@ class Specification {
    * @param {"current"|"draft"|"archived"|""} status - current, draft, archived, or blank for a previous version
    * @param {String} html - The HTML text of the specification.
    */
-  constructor(specificationClass, version="", url="", year="", applicableReleases="", changeHistory, resources="", examples="", status="", html="") {
+  constructor(suite, version="", url="", year="", applicableReleases="", changeHistory, resources="", examples="", status="", html="") {
 
-    this.specificationClass = specificationClass;
+    this.suite = suite;
     this.version = version;
     this.url = url;
     this.year = year;
@@ -63,19 +64,19 @@ class Specification {
    * Adds support for the legacy "MPD" name.
    */
   get name() {
-    if (!this.specificationClass) return "";
+    if (!this.suite) return "";
 
-    if (this.specificationClass.id == "IEPD" && this.version.startsWith("3.0")) {
+    if (this.suite.id == "IEPD" && this.version.startsWith("3.0")) {
       return "Model Package Description";
     }
-    return this.specificationClass.name;
+    return this.suite.name;
   }
 
   /**
-   * Gets the identifier for the general class of this specification (e.g., "NDR", "IEPD")
+   * Gets the identifier for the suite this specification belongs to (e.g., "NDR", "IEPD")
    */
-  get classID() {
-    return this.specificationClass.id;
+  get suiteID() {
+    return this.suite.id;
   }
 
   /**
@@ -83,12 +84,29 @@ class Specification {
    * Adds support for the legacy "MPD" abbreviation.
    */
   get customID() {
-    if (!this.specificationClass) return "";
+    if (!this.suite) return;
 
-    if (this.specificationClass.id == "IEPD" && this.version.startsWith("3.0")) {
+    if (this.suiteID == "IEPD" && this.version.startsWith("3.0")) {
       return "MPD";
     }
-    return this.specificationClass.id;
+    return this.suiteID;
+  }
+
+  /**
+   * Gets the rule with the given rule number
+   * @param {string} ruleNumber
+   */
+  rule(ruleNumber) {
+    return this.rules.find( rule => rule.number == ruleNumber );
+  }
+
+  /**
+   * Gets the url of the rule with the given rule number
+   * @param {string} ruleNumber
+   */
+  ruleURL(ruleNumber) {
+    let rule = this.rule(ruleNumber);
+    return rule.url;
   }
 
   /**
@@ -123,12 +141,12 @@ class Specification {
   toJSON() {
     return {
       id: this.id,
-      classID: this.specificationClass.id,
-      className: this.specificationClass.name,
-      classRepo: this.specificationClass.repo,
-      classLandingPage: this.specificationClass.landingPage,
-      classIssueTracker: this.specificationClass.issueTracker,
-      classDescription: this.specificationClass.description,
+      suiteID: this.suite.id,
+      suiteName: this.suite.name,
+      suiteRepo: this.suite.repo,
+      suiteLandingPage: this.suite.landingPage,
+      suiteIssueTracker: this.suite.issueTracker,
+      suiteDescription: this.suite.description,
       specID: this.id,
       specCustomID: this.customID,
       specName: this.name,
@@ -147,21 +165,11 @@ class Specification {
     }
   }
 
-  /**
-   * Formats text to remove leading, trailing, and double spaces.
-   */
-  static formatText(text) {
-    return text
-    .trim()
-    .replace(/  /g, " ")
-    .replace(/^xs(:)(?=\w)/, ": ");
-  }
-
 }
 
 let Rule = require("./rule");
 let Definition = require("./definition");
 let Target = require("./target");
-let SpecificationClass = require("./specification-class");
+let Suite = require("./suite");
 
 module.exports = Specification;

@@ -2,7 +2,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9.1",
     "sectionLabel": "Section 10.9.1. The NIEM appinfo namespace",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9.1",
@@ -17,7 +17,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9",
     "sectionLabel": "Section 10.9. Machine-readable annotations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9",
@@ -32,7 +32,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.3",
@@ -47,7 +47,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.3",
@@ -62,7 +62,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.3",
@@ -77,7 +77,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.1",
     "sectionLabel": "Section 10.4.1. Augmentable types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.1",
@@ -92,7 +92,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4",
     "sectionLabel": "Section 10.4. Augmentations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4",
@@ -107,7 +107,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.4",
     "sectionLabel": "Section 10.4.4. Augmentation types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.4",
@@ -122,7 +122,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.4",
     "sectionLabel": "Section 10.4.4. Augmentation types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.4",
@@ -137,7 +137,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1",
@@ -152,7 +152,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_11.1.2.3",
     "sectionLabel": "Section 11.1.2.3. Code simple types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_11.1.2.3",
@@ -167,7 +167,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.4",
     "sectionLabel": "Section 10.2.4. Code types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.4",
@@ -182,7 +182,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1",
@@ -197,7 +197,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6",
@@ -212,7 +212,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6",
@@ -227,7 +227,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.4",
     "sectionLabel": "Section 4.1.4. Instance documents and elements",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.4",
@@ -242,7 +242,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.4",
     "sectionLabel": "Section 4.1.4. Instance documents and elements",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.4",
@@ -257,7 +257,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.3",
     "sectionLabel": "Section 4.1.3. Schema document set",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.3",
@@ -272,7 +272,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4.1",
     "sectionLabel": "Section 2.4.1. Rules",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4.1",
@@ -287,7 +287,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_12.1",
     "sectionLabel": "Section 12.1. Content elements",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_12.1",
@@ -302,7 +302,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_7.4",
     "sectionLabel": "Section 7.4. ISO 11179 Part 4",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_7.4",
@@ -317,7 +317,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9.1.1",
     "sectionLabel": "Section 10.9.1.1. Deprecation",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9.1.1",
@@ -332,7 +332,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_7.4",
     "sectionLabel": "Section 7.4. ISO 11179 Part 4",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_7.4",
@@ -347,7 +347,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6",
@@ -362,7 +362,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.3",
@@ -377,7 +377,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1",
@@ -392,7 +392,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.2",
     "sectionLabel": "Section 4.1.2. Extension schema document",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.2",
@@ -407,7 +407,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.3.2",
     "sectionLabel": "Section 10.2.3.2. External adapter types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.3.2",
@@ -422,7 +422,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.3",
     "sectionLabel": "Section 10.2.3. External adapter types and external components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.3",
@@ -437,7 +437,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4",
     "sectionLabel": "Section 2.4. Normative and informative content",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4",
@@ -452,7 +452,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -467,7 +467,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4.1",
     "sectionLabel": "Section 2.4.1. Rules",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4.1",
@@ -482,7 +482,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.8.2.1",
     "sectionLabel": "Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.8.2.1",
@@ -497,7 +497,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.8.2.1",
     "sectionLabel": "Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.8.2.1",
@@ -512,7 +512,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9",
     "sectionLabel": "Section 10.9. Machine-readable annotations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9",
@@ -527,7 +527,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.5.2",
     "sectionLabel": "Section 10.5.2. Metadata element declarations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.5.2",
@@ -542,7 +542,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.5.1",
     "sectionLabel": "Section 10.5.1. Metadata types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.5.1",
@@ -557,7 +557,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4",
     "sectionLabel": "Section 2.4. Normative and informative content",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4",
@@ -572,7 +572,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.1",
     "sectionLabel": "Section 10.2.1. General object types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.1",
@@ -587,7 +587,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_12.2",
     "sectionLabel": "Section 12.2. Reference elements",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_12.2",
@@ -602,7 +602,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.1",
     "sectionLabel": "Section 4.1.1. Reference schema document",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.1",
@@ -617,7 +617,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10",
     "sectionLabel": "Section 10. Rules for NIEM modeling, by NIEM concept",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10",
@@ -632,7 +632,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_5.6.4",
     "sectionLabel": "Section 5.6.4. Resolved element",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_5.6.4",
@@ -647,7 +647,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.2",
     "sectionLabel": "Section 10.2.2. Role types and roles",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.2",
@@ -662,7 +662,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.2",
     "sectionLabel": "Section 10.2.2. Role types and roles",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.2",
@@ -677,7 +677,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -692,7 +692,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -707,7 +707,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1",
@@ -722,7 +722,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.10",
     "sectionLabel": "Section 10.10. NIEM structural facilities",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.10",
@@ -737,7 +737,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -752,7 +752,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.2",
     "sectionLabel": "Section 3.2. XML terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.2",
@@ -767,7 +767,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -782,7 +782,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -797,7 +797,7 @@
   {
     "specificationID": "NDR-3.0",
     "specificationSelector": "NDR-3_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4",
@@ -812,7 +812,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9.1",
     "sectionLabel": "Section 10.9.1. The NIEM appinfo namespace",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9.1",
@@ -827,7 +827,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9",
     "sectionLabel": "Section 10.9. Machine-readable annotations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9",
@@ -842,7 +842,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3",
@@ -857,7 +857,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3",
@@ -872,7 +872,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3",
@@ -887,7 +887,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3",
@@ -902,7 +902,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.1",
     "sectionLabel": "Section 10.4.1. Augmentable types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.1",
@@ -917,7 +917,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4",
     "sectionLabel": "Section 10.4. Augmentations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4",
@@ -932,7 +932,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.4",
     "sectionLabel": "Section 10.4.4. Augmentation types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.4",
@@ -947,7 +947,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.4",
     "sectionLabel": "Section 10.4.4. Augmentation types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.4",
@@ -962,7 +962,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1",
@@ -977,7 +977,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_11.1.2.3",
     "sectionLabel": "Section 11.1.2.3. Code simple types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_11.1.2.3",
@@ -992,7 +992,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.4",
     "sectionLabel": "Section 10.2.4. Code types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.4",
@@ -1007,7 +1007,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1",
@@ -1022,7 +1022,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6",
@@ -1037,7 +1037,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6",
@@ -1052,7 +1052,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.4",
     "sectionLabel": "Section 4.1.4. Instance documents and elements",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.4",
@@ -1067,7 +1067,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.4",
     "sectionLabel": "Section 4.1.4. Instance documents and elements",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.4",
@@ -1082,7 +1082,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.3",
     "sectionLabel": "Section 4.1.3. Schema document set",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.3",
@@ -1097,7 +1097,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4.1",
     "sectionLabel": "Section 2.4.1. Rules",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4.1",
@@ -1112,7 +1112,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_7.4",
     "sectionLabel": "Section 7.4. ISO 11179 Part 4",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_7.4",
@@ -1127,7 +1127,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9.1.1",
     "sectionLabel": "Section 10.9.1.1. Deprecation",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9.1.1",
@@ -1142,7 +1142,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3",
@@ -1157,7 +1157,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_7.4",
     "sectionLabel": "Section 7.4. ISO 11179 Part 4",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_7.4",
@@ -1172,7 +1172,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6",
@@ -1187,7 +1187,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3",
@@ -1202,7 +1202,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1",
@@ -1217,7 +1217,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.2",
     "sectionLabel": "Section 4.1.2. Extension schema document",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.2",
@@ -1232,7 +1232,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.3.2",
     "sectionLabel": "Section 10.2.3.2. External adapter types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.3.2",
@@ -1247,7 +1247,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.3",
     "sectionLabel": "Section 10.2.3. External adapter types and external components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.3",
@@ -1262,7 +1262,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4",
     "sectionLabel": "Section 2.4. Normative and informative content",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4",
@@ -1277,7 +1277,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1292,7 +1292,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4.1",
     "sectionLabel": "Section 2.4.1. Rules",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4.1",
@@ -1307,7 +1307,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.8.2.1",
     "sectionLabel": "Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.8.2.1",
@@ -1322,7 +1322,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9",
     "sectionLabel": "Section 10.9. Machine-readable annotations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9",
@@ -1337,7 +1337,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.5.2",
     "sectionLabel": "Section 10.5.2. Metadata element declarations",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.5.2",
@@ -1352,7 +1352,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.5.1",
     "sectionLabel": "Section 10.5.1. Metadata types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.5.1",
@@ -1367,7 +1367,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4",
     "sectionLabel": "Section 2.4. Normative and informative content",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4",
@@ -1382,7 +1382,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.1",
     "sectionLabel": "Section 10.2.1. General object types",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.1",
@@ -1397,7 +1397,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.1",
     "sectionLabel": "Section 4.1.1. Reference schema document",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.1",
@@ -1412,7 +1412,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.7",
     "sectionLabel": "Section 10.7. The Representation pattern",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.7",
@@ -1427,7 +1427,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.2",
     "sectionLabel": "Section 10.2.2. Role types and roles",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.2",
@@ -1442,7 +1442,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.2",
     "sectionLabel": "Section 10.2.2. Role types and roles",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.2",
@@ -1457,7 +1457,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1472,7 +1472,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1487,7 +1487,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1",
@@ -1502,7 +1502,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.10",
     "sectionLabel": "Section 10.10. NIEM structural facilities",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.10",
@@ -1517,7 +1517,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1532,7 +1532,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.2",
     "sectionLabel": "Section 3.2. XML terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.2",
@@ -1547,7 +1547,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1562,7 +1562,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1577,7 +1577,7 @@
   {
     "specificationID": "NDR-4.0",
     "specificationSelector": "NDR-4_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4",
@@ -1592,7 +1592,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9.1",
     "sectionLabel": "Section 10.9.1. The NIEM appinfo namespace",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9.1",
@@ -1607,7 +1607,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9",
     "sectionLabel": "Section 10.9. Machine-readable annotations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9",
@@ -1622,7 +1622,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3",
@@ -1637,7 +1637,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3",
@@ -1652,7 +1652,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.3",
     "sectionLabel": "Section 10.3. Associations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3",
@@ -1667,7 +1667,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3",
@@ -1682,7 +1682,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.1",
     "sectionLabel": "Section 10.4.1. Augmentable types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.1",
@@ -1697,7 +1697,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4",
     "sectionLabel": "Section 10.4. Augmentations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4",
@@ -1712,7 +1712,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.4",
     "sectionLabel": "Section 10.4.4. Augmentation types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.4",
@@ -1727,7 +1727,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.4.4",
     "sectionLabel": "Section 10.4.4. Augmentation types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.4",
@@ -1742,7 +1742,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1",
@@ -1757,7 +1757,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_11.1.2.3",
     "sectionLabel": "Section 11.1.2.3. Code simple types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_11.1.2.3",
@@ -1772,7 +1772,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.4",
     "sectionLabel": "Section 10.2.4. Code types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.4",
@@ -1787,7 +1787,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1",
@@ -1802,7 +1802,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6",
@@ -1817,7 +1817,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6",
@@ -1832,7 +1832,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.4",
     "sectionLabel": "Section 4.1.4. Instance documents and elements",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.4",
@@ -1847,7 +1847,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.4",
     "sectionLabel": "Section 4.1.4. Instance documents and elements",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.4",
@@ -1862,7 +1862,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.3",
     "sectionLabel": "Section 4.1.3. Schema document set",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.3",
@@ -1877,7 +1877,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4.1",
     "sectionLabel": "Section 2.4.1. Rules",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4.1",
@@ -1892,7 +1892,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_7.4",
     "sectionLabel": "Section 7.4. ISO 11179 Part 4",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_7.4",
@@ -1907,7 +1907,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9.1.1",
     "sectionLabel": "Section 10.9.1.1. Deprecation",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9.1.1",
@@ -1922,7 +1922,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3",
@@ -1937,7 +1937,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_7.4",
     "sectionLabel": "Section 7.4. ISO 11179 Part 4",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_7.4",
@@ -1952,7 +1952,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.6",
     "sectionLabel": "Section 3.6. Conformance Targets Attribute Specification terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6",
@@ -1967,7 +1967,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.3",
     "sectionLabel": "Section 3.3. XML Information Set terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3",
@@ -1982,7 +1982,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1",
@@ -1997,7 +1997,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.2",
     "sectionLabel": "Section 4.1.2. Extension schema document",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.2",
@@ -2012,7 +2012,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.3.2",
     "sectionLabel": "Section 10.2.3.2. External adapter types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.3.2",
@@ -2027,7 +2027,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.3",
     "sectionLabel": "Section 10.2.3. External adapter types and external components",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.3",
@@ -2042,7 +2042,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4",
     "sectionLabel": "Section 2.4. Normative and informative content",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4",
@@ -2057,7 +2057,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",
@@ -2072,7 +2072,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4.1",
     "sectionLabel": "Section 2.4.1. Rules",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4.1",
@@ -2087,7 +2087,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.8.2.1",
     "sectionLabel": "Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.8.2.1",
@@ -2102,7 +2102,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.9",
     "sectionLabel": "Section 10.9. Machine-readable annotations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9",
@@ -2117,7 +2117,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.5.2",
     "sectionLabel": "Section 10.5.2. Metadata element declarations",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.5.2",
@@ -2132,7 +2132,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.5.1",
     "sectionLabel": "Section 10.5.1. Metadata types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.5.1",
@@ -2147,7 +2147,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_2.4",
     "sectionLabel": "Section 2.4. Normative and informative content",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4",
@@ -2162,7 +2162,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.1",
     "sectionLabel": "Section 10.2.1. General object types",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.1",
@@ -2177,7 +2177,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_4.1.1",
     "sectionLabel": "Section 4.1.1. Reference schema document",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.1",
@@ -2192,7 +2192,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.7",
     "sectionLabel": "Section 10.7. The Representation pattern",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.7",
@@ -2207,7 +2207,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.2",
     "sectionLabel": "Section 10.2.2. Role types and roles",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.2",
@@ -2222,7 +2222,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.2.2",
     "sectionLabel": "Section 10.2.2. Role types and roles",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.2",
@@ -2237,7 +2237,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",
@@ -2252,7 +2252,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",
@@ -2267,7 +2267,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4.1",
     "sectionLabel": "Section 3.4.1. Schema components",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1",
@@ -2282,7 +2282,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_10.10",
     "sectionLabel": "Section 10.10. NIEM structural facilities",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.10",
@@ -2297,7 +2297,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",
@@ -2312,7 +2312,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.2",
     "sectionLabel": "Section 3.2. XML terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.2",
@@ -2327,7 +2327,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",
@@ -2342,7 +2342,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",
@@ -2357,7 +2357,7 @@
   {
     "specificationID": "NDR-5.0",
     "specificationSelector": "NDR-5_0",
-    "classID": "NDR",
+    "suiteID": "NDR",
     "sectionID": "section_3.4",
     "sectionLabel": "Section 3.4. XML Schema terminology",
     "sectionURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4",

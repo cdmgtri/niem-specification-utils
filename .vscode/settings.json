@@ -24,6 +24,7 @@
     "hlva",
     "keyref",
     "rdfs",
-    "subsetting"
+    "subsetting",
+    "tsimport"
   ]
 }

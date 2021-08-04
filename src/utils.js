@@ -12,6 +12,16 @@ let yaml = require("yamljs");
 class Utils {
 
   /**
+   * Formats text to remove leading, trailing, and double spaces.
+   */
+   static formatText(text) {
+    return text
+    .trim()
+    .replace(/  /g, " ")
+    .replace(/^xs(:)(?=\w)/, ": ");
+  }
+
+  /**
    * Flattens an array of arrays
    * @template T
    * @param {T[][]} arrays - An array of arrays
@@ -25,18 +35,17 @@ class Utils {
    * Saves given data as JSON and YAML to the default or given output directory.
    * Also constructs the file name from the given fields.
    *
-   * @param {"all"|"class"|"spec"} scope
-   * @param {"rules"|"defs"|"classes"|"specs"} style
-   * @param {"NDR"|"IEPD"|"MPD"|"CodeLists"|"CTAS"} label - Specification class ID or tag
-   * @param {String} version
+   * @param {"all"|"suite"|"spec"} scope
+   * @param {"rules"|"defs"|"suites"|"specs"|"targets"} style
+   * @param {string} [label] - Suite ID or tag, e.g,. "NDR" or "IEPD"
+   * @param {String} [version]
    */
   static nameFile(scope, style, label, version) {
 
     if (scope == "all") {
-      style = style.replace("classes", "spec-classes");
       return `niem-${style}`.toLowerCase();
     }
-    else if (scope == "class") {
+    else if (scope == "suite") {
       return `${label.replace("MPD", "IEPD")}-${style}`.toLowerCase();
     }
     else if (scope == "spec") {
@@ -52,9 +61,9 @@ class Utils {
    * Saves given data as JSON and YAML to the default or given output directory.
    * Also constructs the file name from the given fields.
    *
-   * @param {"all"|"class"|"spec"} scope
-   * @param {"rules"|"defs"|"targets"|"classes"|"specs"} style
-   * @param {"NDR"|"IEPD"|"MPD"|"CodeLists"|"CTAS"} label - Specification class ID or tag
+   * @param {"all"|"suite"|"spec"} scope
+   * @param {"rules"|"defs"|"targets"|"suites"|"specs"} style
+   * @param {string} label - Suite ID or tag, e.g., "NDR" or "IEPD"
    * @param {String} version
    */
   static nameFileAndSave(scope, style, label, version, data, folder="./output/") {
@@ -66,7 +75,7 @@ class Utils {
    * Reads the specification html file in the specifications directory with the given tag and version
    */
   static readSpecificationHTMLText(tag, version) {
-    let filePath = `specifications/${tag}-${version}.html`;
+    let filePath = path.resolve(__dirname, `../specifications/${tag}-${version}.html`);
     try {
       let html = fs.readFileSync(filePath, {encoding: "utf8"});
       return html;
@@ -93,7 +102,7 @@ class Utils {
    * @param {String} fileName - Base file name, no extension or path
    * @param {Object} data - Data to save
    * @param {String} [folder='./output/'] - Folder to save output files.  Defaults to /output.
-   * @param {"rules"|"defs"|"targets"|"classes"|"specs"} style - Used to generate additional XML tags to wrap the data
+   * @param {"rules"|"defs"|"targets"|"suites"|"specs"} [style] - Used to generate additional XML tags to wrap the data
    */
   static save(fileName, data, folder="./output/", style) {
 
@@ -144,7 +153,7 @@ function convertObjectToXML(dataArray, rootTag) {
   let xmlObject = {};
 
   // Adjust tag name
-  if (rootTag == "classes") rootTag = "specificationClasses";
+  if (rootTag == "suites") rootTag = "suites";
   if (rootTag == "specs" ) rootTag = "specifications";
   if (rootTag == "defs") rootTag = "definitions";
 
@@ -152,7 +161,7 @@ function convertObjectToXML(dataArray, rootTag) {
   xmlObject[rootTag] = {};
 
   // Generate a tag name to use for the anonymous array elements
-  let elementTag = rootTag.replace(/s$/, "").replace(/Classe$/, "Class");
+  let elementTag = rootTag.replace(/s$/, "");
   xmlObject[rootTag][elementTag] = dataArray;
 
   // Convert XML-formatted object to an XML string

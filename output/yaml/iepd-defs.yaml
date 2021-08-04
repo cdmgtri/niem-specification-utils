@@ -1,7 +1,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.3
     sectionLabel: 'Section 2.3. Artifacts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.3'
@@ -15,7 +15,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.3
     sectionLabel: 'Section 2.3. Artifacts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.3'
@@ -29,7 +29,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.2
     sectionLabel: 'Section 6.2. Business Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.2'
@@ -43,7 +43,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.2
     sectionLabel: 'Section 6.2. Business Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.2'
@@ -57,7 +57,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.3
     sectionLabel: 'Section 5.3. Change Log'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.3'
@@ -71,7 +71,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.7
     sectionLabel: 'Section 5.7. Conformance Assertion'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.7'
@@ -85,7 +85,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Terminology'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.1'
@@ -99,7 +99,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Terminology'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.1'
@@ -113,7 +113,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.9
     sectionLabel: 'Section 2.9. Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.9'
@@ -127,7 +127,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.5
     sectionLabel: 'Section 4.5. Constraint Schema Document Sets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.5'
@@ -141,7 +141,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. Harmonization'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.6'
@@ -155,7 +155,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.3
     sectionLabel: 'Section 4.3. Extension Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.3'
@@ -169,7 +169,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.4
     sectionLabel: 'Section 4.4. External Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.4'
@@ -183,7 +183,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.4
     sectionLabel: 'Section 4.4. External Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.4'
@@ -197,7 +197,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.3
     sectionLabel: 'Section 3.2.3. IEP Conformance Targets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.3'
@@ -211,7 +211,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. Harmonization'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.6'
@@ -225,7 +225,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.6
     sectionLabel: 'Section 5.6. Defining Information Exchange Packages'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6'
@@ -239,7 +239,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.3
     sectionLabel: 'Section 3.2.3. IEP Conformance Targets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.3'
@@ -253,7 +253,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.2
     sectionLabel: 'Section 3.2.2. IEPD Conformance Target'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.2'
@@ -267,7 +267,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.2
     sectionLabel: 'Section 3.2.2. IEPD Conformance Target'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.2'
@@ -281,7 +281,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.9
     sectionLabel: 'Section 2.9. Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.9'
@@ -295,7 +295,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.1
     sectionLabel: 'Section 3.2.1. The Model Package Description Conformance Target'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.1'
@@ -309,7 +309,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.1
     sectionLabel: 'Section 5.1. NIEM MPD Catalog'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1'
@@ -323,7 +323,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Terminology'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.1'
@@ -337,7 +337,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_7
     sectionLabel: 'Section 7. Organization, Packaging, and Other Criteria'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7'
@@ -351,7 +351,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.1
     sectionLabel: 'Section 6.1. NIEM Wantlist'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.1'
@@ -365,7 +365,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.2.4
     sectionLabel: 'Section 5.2.4. URI Schemes'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4'
@@ -379,7 +379,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.4
     sectionLabel: 'Section 5.4. ReadMe Artifact'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.4'
@@ -393,7 +393,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.2.4.6
     sectionLabel: 'Section 5.2.4.6. URI Resolution Involving Reference Elements'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.6'
@@ -407,7 +407,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.8
     sectionLabel: 'Section 2.8. Reference Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.8'
@@ -421,7 +421,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.8
     sectionLabel: 'Section 2.8. Reference Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.8'
@@ -435,7 +435,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.2.4
     sectionLabel: 'Section 5.2.4. URI Schemes'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4'
@@ -449,7 +449,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7'
@@ -463,7 +463,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.2.1
     sectionLabel: 'Section 4.2.1. Basic Subset Concepts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.2.1'
@@ -477,7 +477,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.2
     sectionLabel: 'Section 6.2. Business Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.2'
@@ -491,7 +491,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.2.1
     sectionLabel: 'Section 4.2.1. Basic Subset Concepts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.2.1'
@@ -505,7 +505,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.6.1
     sectionLabel: 'Section 5.6.1. Validity Context and Constraints'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.1'
@@ -519,7 +519,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.5
     sectionLabel: 'Section 5.5. XML Catalogs'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.5'
@@ -533,7 +533,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7'
@@ -547,7 +547,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7'
@@ -561,7 +561,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7'
@@ -575,7 +575,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7'
@@ -589,7 +589,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7'
@@ -603,7 +603,7 @@
 -
     specificationID: MPD-3.0.1
     specificationSelector: MPD-3_0_1
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2
     sectionLabel: 'Section 3.2. MPD Conformance Targets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2'
@@ -617,7 +617,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.3
     sectionLabel: 'Section 2.3. Artifacts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.3'
@@ -631,7 +631,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.3
     sectionLabel: 'Section 2.3. Artifacts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.3'
@@ -645,7 +645,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.2
     sectionLabel: 'Section 6.2. Business Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.2'
@@ -659,7 +659,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.2
     sectionLabel: 'Section 6.2. Business Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.2'
@@ -673,7 +673,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.3
     sectionLabel: 'Section 5.3. Change Log'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.3'
@@ -687,7 +687,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.7
     sectionLabel: 'Section 5.7. Conformance Assertion'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.7'
@@ -701,7 +701,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Terminology'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.1'
@@ -715,7 +715,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Terminology'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.1'
@@ -729,7 +729,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.8
     sectionLabel: 'Section 2.8. Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.8'
@@ -743,7 +743,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.5
     sectionLabel: 'Section 4.5. Constraint Schema Document Sets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.5'
@@ -757,7 +757,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. Reference Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.7'
@@ -771,7 +771,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.3
     sectionLabel: 'Section 4.3. Extension Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.3'
@@ -785,7 +785,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.4
     sectionLabel: 'Section 4.4. External Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.4'
@@ -799,7 +799,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.4
     sectionLabel: 'Section 4.4. External Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.4'
@@ -813,7 +813,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.2
     sectionLabel: 'Section 3.2.2. IEP Conformance Targets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.2'
@@ -827,7 +827,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.6
     sectionLabel: 'Section 5.6. Defining Information Exchange Packages'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6'
@@ -841,7 +841,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.1
     sectionLabel: 'Section 5.1. NIEM IEPD Catalog'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1'
@@ -855,7 +855,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Terminology'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.1'
@@ -869,7 +869,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_7
     sectionLabel: 'Section 7. Organization, Packaging, and Other Criteria'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7'
@@ -883,7 +883,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.2
     sectionLabel: 'Section 3.2.2. IEP Conformance Targets'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.2'
@@ -897,7 +897,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.1
     sectionLabel: 'Section 3.2.1. Information Exchange Package Documentation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1'
@@ -911,7 +911,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.1
     sectionLabel: 'Section 3.2.1. Information Exchange Package Documentation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1'
@@ -925,7 +925,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.8
     sectionLabel: 'Section 2.8. Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.8'
@@ -939,7 +939,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.1
     sectionLabel: 'Section 6.1. NIEM Wantlist'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.1'
@@ -953,7 +953,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.2.4
     sectionLabel: 'Section 5.2.4. URI Schemes'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4'
@@ -967,7 +967,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.4
     sectionLabel: 'Section 5.4. ReadMe Artifact'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.4'
@@ -981,7 +981,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. Reference Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.7'
@@ -995,7 +995,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.7
     sectionLabel: 'Section 2.7. Reference Schema Documents'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.7'
@@ -1009,7 +1009,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.2.4
     sectionLabel: 'Section 5.2.4. URI Schemes'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4'
@@ -1023,7 +1023,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6'
@@ -1037,7 +1037,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.2.1
     sectionLabel: 'Section 4.2.1. Basic Subset Concepts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.2.1'
@@ -1051,7 +1051,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_6.2
     sectionLabel: 'Section 6.2. Business Rules'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.2'
@@ -1065,7 +1065,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_4.2.1
     sectionLabel: 'Section 4.2.1. Basic Subset Concepts'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.2.1'
@@ -1079,7 +1079,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.6.1
     sectionLabel: 'Section 5.6.1. Validity Context and Constraints'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.1'
@@ -1093,7 +1093,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.1.1
     sectionLabel: 'Section 3.2.1.1. Well-Formed IEPD'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1.1'
@@ -1107,7 +1107,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_5.5
     sectionLabel: 'Section 5.5. XML Catalogs'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.5'
@@ -1121,7 +1121,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6'
@@ -1135,7 +1135,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6'
@@ -1149,7 +1149,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6'
@@ -1163,7 +1163,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6'
@@ -1177,7 +1177,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_2.6
     sectionLabel: 'Section 2.6. XML Validation'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6'
@@ -1191,7 +1191,7 @@
 -
     specificationID: IEPD-5.0
     specificationSelector: IEPD-5_0
-    classID: IEPD
+    suiteID: IEPD
     sectionID: section_3.2.1.1
     sectionLabel: 'Section 3.2.1.1. Well-Formed IEPD'
     sectionURL: 'https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1.1'

@@ -1,7 +1,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_3.4
     sectionLabel: 'Section 3.4. Code list-enabled schema document'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.4'
@@ -20,7 +20,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_3.4
     sectionLabel: 'Section 3.4. Code list-enabled schema document'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.4'
@@ -39,7 +39,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.4.1
     sectionLabel: 'Section 4.4.1. Syntax for run-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1'
@@ -58,7 +58,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.4.1
     sectionLabel: 'Section 4.4.1. Syntax for run-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1'
@@ -77,7 +77,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.4.1
     sectionLabel: 'Section 4.4.1. Syntax for run-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1'
@@ -96,7 +96,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.4.1
     sectionLabel: 'Section 4.4.1. Syntax for run-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1'
@@ -115,7 +115,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.4.2
     sectionLabel: 'Section 4.4.2. Run-time effective code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.2'
@@ -134,7 +134,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.1
     sectionLabel: 'Section 4.5.1. Syntax for schema-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1'
@@ -153,7 +153,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.1
     sectionLabel: 'Section 4.5.1. Syntax for schema-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1'
@@ -172,7 +172,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.1
     sectionLabel: 'Section 4.5.1. Syntax for schema-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1'
@@ -191,7 +191,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.1
     sectionLabel: 'Section 4.5.1. Syntax for schema-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1'
@@ -210,7 +210,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.1
     sectionLabel: 'Section 4.5.1. Syntax for schema-time code list binding'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1'
@@ -229,7 +229,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.2
     sectionLabel: 'Section 4.5.2. Simple binding of schema components'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.2'
@@ -248,7 +248,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.2
     sectionLabel: 'Section 4.5.2. Simple binding of schema components'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.2'
@@ -267,7 +267,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.2
     sectionLabel: 'Section 4.5.2. Simple binding of schema components'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.2'
@@ -286,7 +286,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.3
     sectionLabel: 'Section 4.5.3. Complex binding of schema components'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.3'
@@ -305,7 +305,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.5.3
     sectionLabel: 'Section 4.5.3. Complex binding of schema components'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.3'
@@ -324,7 +324,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.6
     sectionLabel: 'Section 4.6. Matches for code list bindings'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.6'
@@ -343,7 +343,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.6
     sectionLabel: 'Section 4.6. Matches for code list bindings'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.6'
@@ -362,7 +362,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_4.6
     sectionLabel: 'Section 4.6. Matches for code list bindings'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.6'
@@ -381,7 +381,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_5
     sectionLabel: 'Section 5. Comma-separated values (CSV) code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5'
@@ -400,7 +400,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_5
     sectionLabel: 'Section 5. Comma-separated values (CSV) code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5'
@@ -419,7 +419,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_5
     sectionLabel: 'Section 5. Comma-separated values (CSV) code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5'
@@ -438,7 +438,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_5
     sectionLabel: 'Section 5. Comma-separated values (CSV) code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5'
@@ -457,7 +457,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_6
     sectionLabel: 'Section 6. Genericode code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6'
@@ -476,7 +476,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_6
     sectionLabel: 'Section 6. Genericode code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6'
@@ -495,7 +495,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_6
     sectionLabel: 'Section 6. Genericode code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6'
@@ -514,7 +514,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_6
     sectionLabel: 'Section 6. Genericode code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6'
@@ -533,7 +533,7 @@
 -
     specificationID: CodeLists-4.0
     specificationSelector: CodeLists-4_0
-    classID: CodeLists
+    suiteID: CodeLists
     sectionID: section_6
     sectionLabel: 'Section 6. Genericode code lists'
     sectionURL: 'https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6'

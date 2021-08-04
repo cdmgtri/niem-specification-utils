@@ -1,10 +1,12 @@
 
 let fs = require("fs-extra");
-let { NIEMSpecifications, Utils } = require("../index");
+
+let NIEMSpecificationLibrary = require("../src/index");
+let Utils = require("../src/utils");
 
 
-/** @type {NIEMSpecifications} */
-let niem;
+/** @type {NIEMSpecificationLibrary} */
+let specLib;
 
 /**
  * Test that the newly-generated rule and definition files match the expected ones in the output directory
@@ -12,13 +14,14 @@ let niem;
 describe("Specification checks", () => {
 
   beforeAll( () => {
-    niem = NIEMSpecifications.parse("./test/output");
+    specLib = NIEMSpecificationLibrary.parse("./test/output");
   });
 
   test("#compare files", () => {
-    checkSpecificationFiles("NDR", ["3.0", "4.0", "5.0"]);
-    checkSpecificationFiles("MPD", ["3.0.1"]);
-    checkSpecificationFiles("CodeLists", ["4.0"]);
+    checkSpecificationFiles("NDR");
+    // @ts-ignore
+    checkSpecificationFiles("MPD");
+    checkSpecificationFiles("CodeLists");
     checkOutput("niem-rules");
     checkOutput("niem-defs");
   });
@@ -42,10 +45,10 @@ describe("Specification checks", () => {
    */
   test("#check for truncated text", () => {
 
-    let ruleErrors = niem.rules.filter( rule => rule.text.endsWith(":") );
+    let ruleErrors = specLib.rules.filter( rule => rule.text.endsWith(":") );
     expect(ruleErrors.length).toBe(0);
 
-    let defErrors = niem.definitions.filter( def => def.text.endsWith(":") );
+    let defErrors = specLib.definitions.filter( def => def.text.endsWith(":") );
     expect(defErrors.length).toBe(0);
 
   });
@@ -55,7 +58,7 @@ describe("Specification checks", () => {
    */
   test("#check for invalid IDs", () => {
 
-    niem.specifications.filter( spec => spec.html ).forEach( spec => {
+    specLib.specifications.filter( spec => spec.html ).forEach( spec => {
       // Combine all parsed rule and definition IDs
       let parsedIDs = [...spec.rules.map( rule => rule.id ), ...spec.defs.map( def => def.id )];
 
@@ -69,18 +72,25 @@ describe("Specification checks", () => {
 
   });
 
+  test("#load", () => {
+    let lib = new NIEMSpecificationLibrary();
+    lib.load();
+    expect(lib.rules.length).toBeGreaterThan(100);
+    expect(lib.definitions.length).toBeGreaterThan(50);
+    expect(lib.targets.length).toBeGreaterThan(15);
+  });
+
 });
 
 /**
  * Compares the generated specification and specification class rule and definitions files with
  * those in the output directory.
  *
- * @param {String} tag
- * @param {String[]} versions
+ * @param {import("../src/suite").SuiteIDType} tag
  */
-function checkSpecificationFiles(tag, versions) {
-  checkOutput( Utils.nameFile("class", "rules", tag) );
-  checkOutput( Utils.nameFile("class", "defs", tag) );
+function checkSpecificationFiles(tag) {
+  checkOutput( Utils.nameFile("suite", "rules", tag) );
+  checkOutput( Utils.nameFile("suite", "defs", tag) );
 }
 
 /**
@@ -92,7 +102,7 @@ function checkSpecificationFiles(tag, versions) {
  * @param {Number} expectedDefinitionCount
  */
 function checkCounts(specificationID, expectedRuleCount, expectedDefinitionCount) {
-  let spec = niem.specification(specificationID);
+  let spec = specLib.specification(specificationID);
   expect(spec.rules.length).toBe(expectedRuleCount);
   expect(spec.defs.length).toBe(expectedDefinitionCount);
 }

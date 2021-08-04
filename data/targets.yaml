@@ -1,6 +1,6 @@
 # -
-#   classID:
-#   specID:    # Use instead of classID, only for specific versions of a spec that override the default class targets
+#   suiteID:
+#   specID:    # Use instead of suiteID, only for specific versions of a spec that override the default class targets
 #   code:
 #   target:
 #   tutorial:
@@ -8,28 +8,28 @@
 #   description:
 
 -
-  classID: NDR
+  suiteID: NDR
   code: REF
   target: Reference Schema Document
   tutorial: /reference/specifications/ndr/#reference-schema-document-ref
   definitionFragment: definition_reference_schema_document
   description: A NIEM schema that provides authoritative definitions of broadly reusable schema components and follows a stricter syntax. NIEM release schemas are REFs.
 -
-  classID: NDR
+  suiteID: NDR
   code: EXT
   target: Extension Schema Document
   tutorial: /reference/specifications/ndr/#extension-schema-document-ext
   definitionFragment: definition_extension_schema_document
   description: A NIEM schema for special-purpose content with little reuse expected. EXTs may thus follow a slightly more relaxed syntax. IEPD extension schemas are often EXTs.
 -
-  classID: NDR
+  suiteID: NDR
   code: SET
   target: Conformant Schema Document Set
   tutorial: /reference/specifications/ndr/#conformant-schema-document-set-set
   definitionFragment: definition_conformant_schema_document_set
   description: A single conceptual XML schema that represents the sum of all rules and definitions within a collection of NIEM REF and EXT schemas, such as an IEPD.
 -
-  classID: NDR
+  suiteID: NDR
   code: INS
   target: Conformant Instance Document
   tutorial: /reference/specifications/ndr/#conformant-instance-document-ins
@@ -72,91 +72,91 @@
   definitionFragment: definition_XML_catalog_document
   description: A XML file that maps namespaces to file locations.
 -
-  classID: IEPD
+  suiteID: IEPD
   code: IEPD
   target: Information Exchange Package Documentation
   definitionFragment: definition_information_exchange_package_documentation
   description: A set of artifacts that define the content, structure, and meaning of an information exchange message.  The schemas contained by the IEPD must conform to the NIEM Naming and Design Rules (NDR).
 -
-  classID: IEPD
+  suiteID: IEPD
   code: WF-IEPD
   target: Well-formed IEPD
   definitionFragment: definition_well-formed_IEPD
   description: An IEPD with a less-strict set of requirements.  A well-formed IEPD focuses on the format and structure of the package, includes a valid IEPD catalog with no broken links, and includes and uses other general IEPD artifacts correctly; however, schema conformance to the NIEM Naming and Design Rules (NDR) is not required.
 -
-  classID: IEPD
+  suiteID: IEPD
   code: IEP
   target: Information Exchange Package
   definitionFragment: definition_information_exchange_package
   description: An information exchange message, as an XML instance document.  The use of NIEM-defined elements is not required.
 -
-  classID: IEPD
+  suiteID: IEPD
   code: FN-IEP
   target: Full NIEM IEP
   definitionFragment: definition_full_NIEM_information_exchange_package
   description: An information exchange message, as an XML instance document.  Ths use of elements defined by NIEM reference or extension schemas is required.
 -
-  classID: IEPD
+  suiteID: IEPD
   code: Schema-subset
   target: Schema document subset
   definitionFragment: definition_schema_document_subset
   description: A set of schemas, corresponding to a set of full reference schemas, that have been reduced and constrained to include only the files and components needed for an information exchange.
 -
-  classID: IEPD
+  suiteID: IEPD
   code: IEPD-catalog
   target: IEPD catalog document
   definitionFragment: definition_IEPD_catalog_document
   description: A XML file that contains metadata about the IEPD, including descriptive information and an index of the files it contains.
 -
-  classID: IEPD
+  suiteID: IEPD
   code: XML-catalog
   target: XML catalog document
   definitionFragment: definition_XML_catalog_document
   description: A XML file that maps namespaces to file locations.
 -
-  classID: CodeLists
+  suiteID: CodeLists
   code: CLD
   target: code list document
   definitionFragment: definition_code_list_document
   description: A file or resource that contains one or more code lists.
 -
-  classID: CodeLists
+  suiteID: CodeLists
   code: GC-CLD
   target: Genericode code list document
   definitionFragment: definition_Genericode_code_list_document
   description: A code list document with codes represented as Genericode.
 -
-  classID: CodeLists
+  suiteID: CodeLists
   code: CSV-CLD
   target: CSV code list document
   definitionFragment: definition_CSV_code_list_document
   description: A code list document with codes represented as Comma-separated values (CSV).
 -
-  classID: CodeLists
+  suiteID: CodeLists
   code: XSD
   target: code list-enabled schema document
   definitionFragment: definition_code_list-enabled_schema_document
   description: An XML Schema document that supports the use of code list documents for validation and meaning.
 -
-  classID: CodeLists
+  suiteID: CodeLists
   code: INS
   target: code list-enabled instance document
   definitionFragment: definition_code_list-enabled_instance_document
   description: An XML document that leverages the Code Lists Specification to connect data values with code lists.
 -
-  classID: CodeLists
+  suiteID: CodeLists
   code: VSET
   target: code list validation set
   definitionFragment: definition_code_list_validation_set
   description: An abstract concept that brings together the necessary components to define validity of XML documents with respect to code lists, and to identify correspondences between XML data and code list distinct entries.
 -
-  classID: JSON
+  suiteID: JSON
   code: STRICT
   target: NIEM JSON document strictly conformant to a schema
   definitionFragment: definition_NIEM_JSON_document_strictly_conformant_to_a_schema
   description: A NIEM JSON document strictly conformant to a schema is a JSON-LD document that may be assigned a one-to-one correspondence to a conformant instance XML document valid against a conformant schema document set.
 -
-  classID: JSON
+  suiteID: JSON
   code: LAX
   target: NIEM JSON document laxly conformant to a schema
   definitionFragment: definition_NIEM_JSON_document_laxly_conformant_to_a_schema

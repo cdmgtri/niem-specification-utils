@@ -3,7 +3,7 @@
   <rule>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
@@ -24,7 +24,7 @@
   <rule>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
@@ -44,7 +44,7 @@
   <rule>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
@@ -67,7 +67,7 @@
   <rule>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
@@ -88,7 +88,7 @@
   <rule>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
@@ -109,7 +109,7 @@
   <rule>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
@@ -129,7 +129,7 @@
   <rule>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
@@ -152,7 +152,7 @@
   <rule>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5</sectionID>
     <sectionLabel>Section 5. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>

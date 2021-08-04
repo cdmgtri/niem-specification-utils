@@ -3,7 +3,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Defined</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1</sectionURL>
@@ -18,7 +18,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Defined</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1</sectionURL>
@@ -33,7 +33,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance to this Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.2</sectionURL>
@@ -48,7 +48,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_4</sectionID>
     <sectionLabel>Section 4. Semantics and Use</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4</sectionURL>
@@ -63,7 +63,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_4</sectionID>
     <sectionLabel>Section 4. Semantics and Use</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4</sectionURL>

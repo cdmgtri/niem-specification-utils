@@ -7,11 +7,9 @@ let Definition = require("./definition");
 let Section = require("./section");
 let Target = require("./target");
 
-let { root } = cheerio;
-
 /**
  * @private
- * @type {root}
+ * @type {cheerio.Root}
  */
 let $;
 
@@ -86,7 +84,6 @@ class Parser {
 
   /**
    * Generates the JSON rules file from the specification HTML.
-   * @returns {Definition[]}
    */
   parseDefinitions() {
 
@@ -100,7 +97,7 @@ class Parser {
       let def = new Definition(this.spec, section);
       def.local = false;
 
-      def.id = defIDNode.attribs["name"];
+      def.id = defIDNode["attribs"]["name"];
 
       // Parse the definition term and descriptive text
       let defNormativeNode = $(defIDNode).closest(".normativeHead");
@@ -132,7 +129,7 @@ class Parser {
       this.appendTextFollowup(defPNode, def);
 
       this.spec.defs.push(def);
-      debug("%s %s %s %s %s", index, this.spec.id, def.id, def.name, def.title);
+      debug("%s %s %s %s %s", index, this.spec.id, def.id, def.term, def.text);
     });
 
     // Sort definitions by term
@@ -143,7 +140,7 @@ class Parser {
   /**
    * Parses a node for the definition term inside the <dfn></dfn> tags.
    *
-   * @param {CheerioElement} parentNode
+   * @param {cheerio.Cheerio} parentNode
    * @returns {string}
    */
   parseDefinitionTerm(parentNode) {
@@ -154,7 +151,7 @@ class Parser {
   /**
    * Appends rule or definition text that follows the main paragraph node in a list or blockquote.
    *
-   * @param {CheerioElement} node
+   * @param {cheerio.Cheerio} node
    * @param {{text: String}} object - A definition or rule
    */
   appendTextFollowup(node, object) {
@@ -180,7 +177,7 @@ class Parser {
    * Parses the rule id, name, and title, if available.
    *
    * @param {Rule} rule
-   * @param {CheerioElement} ruleSectionNode
+   * @param {cheerio.Element} ruleSectionNode
    */
   parseRuleHeading(rule, ruleSectionNode) {
 
@@ -194,7 +191,7 @@ class Parser {
     // Parse the rule id and name
     ruleNameNodes.each( (i, ruleNameNode) => {
 
-      let val = ruleNameNode.attribs["name"];
+      let val = ruleNameNode["attribs"]["name"];
 
       // Not all rules have names.  Set default value.
       // rule.name = "";
@@ -215,7 +212,7 @@ class Parser {
    * Sets the rule applicability and classification fields.
    *
    * @param {Rule} rule
-   * @param {CheerioElement} ruleSectionNode
+   * @param {cheerio.Element} ruleSectionNode
    */
   parseRuleLabel(rule, ruleSectionNode) {
 
@@ -232,19 +229,19 @@ class Parser {
    * @param {string} label - Example: "[Rule 4-3] (REF, EXT) (Constraint)"
    * @returns {string[]}
    */
-  parseRuleTargets(label) {
+  parseRuleTargets(label="") {
     let re = /] \(([^)]*)\)/;
     // let targetsText = label.match(re)[1];
 
     let results = label.match(re);
-    return results ? results[1].split(", ") : ""
+    return results ? results[1].split(", ") : []
   }
 
   /**
    * Parses the rule label for the rule classification string.
    *
    * @param {string} label
-   * @returns {string}
+   * @returns {"Constraint"|"Interpretation"}
    */
   parseRuleClassification(label) {
     if (label.includes("(Constraint)")) {
@@ -253,14 +250,13 @@ class Parser {
     else if (label.includes("(Interpretation)")) {
       return "Interpretation";
     }
-    return "";
   }
 
   /**
    * Sets the rule description field from text that may precede the rule box.
    *
    * @param {Rule} rule
-   * @param {CheerioElement} ruleSectionNode
+   * @param {cheerio.Element} ruleSectionNode
    */
   parseRuleDescription(rule, ruleSectionNode) {
 
@@ -291,7 +287,7 @@ class Parser {
   /**
    * Sets the information about the section that the rule or definition appears under.
    *
-   * @param {CheerioElement} childNode
+   * @param {cheerio.Element} childNode
    */
   parseSection(childNode) {
 
@@ -305,7 +301,7 @@ class Parser {
     $(sectionHeadingNode)
       .find("a")
       .each( (i, aNode) => {
-        let name = aNode.attribs["name"];
+        let name = aNode["attribs"]["name"];
         if (name.startsWith("section_")) {
           id = name;
         }

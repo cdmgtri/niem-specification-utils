@@ -1,4 +1,6 @@
 
+let Utils = require("./utils");
+
 /**
  * Information about a rule in a NIEM specification.
  */
@@ -19,7 +21,7 @@ class Rule {
    * @param {string} [text=""] Rule text
    * @param {string} [schematron=""] Rule schematron snippet
    */
-  constructor(specification, section, number="", title="", name="", targets=[], classification="", style="", text="", schematron="") {
+  constructor(specification, section, number="", title="", name="", targets=[], classification, style, text="", schematron="") {
 
     this.specification = specification;
     this.section = section;
@@ -69,12 +71,10 @@ class Rule {
 
   toJSON() {
 
-    let Specification = require("./specification");
-
     return {
       specificationID: this.specification.id,
       specificationSelector: this.specification.selector,
-      classID: this.specification.classID,
+      suiteID: this.specification.suiteID,
       sectionID: this.section.id,
       sectionLabel: this.section.label,
       sectionURL: this.section.url,
@@ -85,9 +85,9 @@ class Rule {
       ruleUID: this.uid,
       ruleURL: this.url,
       ruleTargets: this.targets,
-      ruleClassification: this.classification,
+      ruleClassification: this.classification || "",
       ruleStyle: this.style,
-      ruleText: Specification.formatText(this.text),
+      ruleText: Utils.formatText(this.text),
       ruleStatus: this.specification.status,
       ruleSelector: this.selector
     }

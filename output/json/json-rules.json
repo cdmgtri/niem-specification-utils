@@ -2,7 +2,7 @@
   {
     "specificationID": "JSON-4.0",
     "specificationSelector": "JSON-4_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5",
@@ -25,7 +25,7 @@
   {
     "specificationID": "JSON-4.0",
     "specificationSelector": "JSON-4_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5",
@@ -47,7 +47,7 @@
   {
     "specificationID": "JSON-4.0",
     "specificationSelector": "JSON-4_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5",
@@ -70,7 +70,7 @@
   {
     "specificationID": "JSON-4.0",
     "specificationSelector": "JSON-4_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5",
@@ -93,7 +93,7 @@
   {
     "specificationID": "JSON-5.0",
     "specificationSelector": "JSON-5_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5",
@@ -116,7 +116,7 @@
   {
     "specificationID": "JSON-5.0",
     "specificationSelector": "JSON-5_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5",
@@ -138,7 +138,7 @@
   {
     "specificationID": "JSON-5.0",
     "specificationSelector": "JSON-5_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5",
@@ -161,7 +161,7 @@
   {
     "specificationID": "JSON-5.0",
     "specificationSelector": "JSON-5_0",
-    "classID": "JSON",
+    "suiteID": "JSON",
     "sectionID": "section_5",
     "sectionLabel": "Section 5. Rules",
     "sectionURL": "https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5",

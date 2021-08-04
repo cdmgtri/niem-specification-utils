@@ -4,12 +4,8 @@
 Extracts rule and definition information from NIEM specifications into XML, JSON, YAML, and CSV files.
 
 **Branch status**:
-master:
-[![Master Build Status](https://github.com/cdmgtri/niem-specification-utils/workflows/build/badge.svg?branch=master)](https://github.com/cdmgtri/niem-specification-utils/actions)
-[![Master Coverage Status](https://coveralls.io/repos/github/cdmgtri/niem-specification-utils/badge.svg?branch=master)](https://coveralls.io/github/cdmgtri/niem-specification-utils?branch=master)
-dev:
-[![Dev Build Status](https://github.com/cdmgtri/niem-specification-utils/workflows/build/badge.svg?branch=dev)](https://github.com/cdmgtri/niem-specification-utils/actions)
-[![Dev Coverage Status](https://coveralls.io/repos/github/cdmgtri/niem-specification-utils/badge.svg?branch=dev)](https://coveralls.io/github/cdmgtri/niem-specification-utils?branch=dev)
+[![Build Status](https://github.com/cdmgtri/niem-specification-utils/workflows/build/badge.svg?branch=dev)](https://github.com/cdmgtri/niem-specification-utils/actions)
+[![Coverage Status](https://coveralls.io/repos/github/cdmgtri/niem-specification-utils/badge.svg?branch=dev)](https://coveralls.io/github/cdmgtri/niem-specification-utils?branch=dev)
 
 This project parses [NIEM HTML specifications](https://reference.niem.gov/niem/specification/) to extract rule and definition information that is used on <https://niem.github.io>.
 

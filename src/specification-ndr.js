@@ -24,7 +24,9 @@ class NDRSpecification extends Specification {
   postProcessData() {
     if (this.version === "3.0") {
       let rule = this.rules.find( rule => rule.number === "9-83" );
-      rule.text = "The value of the attribute targetNamespace MUST match the production <absolute-URI> as defined by RFC 3986.";
+      if (rule) {
+        rule.text = "The value of the attribute targetNamespace MUST match the production <absolute-URI> as defined by RFC 3986.";
+      }
     }
   }
 

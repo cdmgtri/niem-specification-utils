@@ -1,4 +1,6 @@
 
+let Utils = require("./utils");
+
 class Definition {
 
   /**
@@ -29,12 +31,10 @@ class Definition {
 
   toJSON() {
 
-    let Specification = require("./specification");
-
     return {
       specificationID: this.specification.id,
       specificationSelector: this.specification.selector,
-      classID: this.specification.classID,
+      suiteID: this.specification.suiteID,
       sectionID: this.section.id,
       sectionLabel: this.section.label,
       sectionURL: this.section.url,
@@ -42,7 +42,7 @@ class Definition {
       definitionUID: this.specification.id + "-" + this.id,
       definitionURL: this.url,
       definitionTerm: this.term,
-      definitionText: Specification.formatText(this.text),
+      definitionText: Utils.formatText(this.text),
       definitionLocal: this.local,
       definitionStatus: this.specification.status,
     }

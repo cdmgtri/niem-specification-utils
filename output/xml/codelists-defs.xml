@@ -3,7 +3,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -18,7 +18,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.8</sectionURL>
@@ -33,7 +33,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.5</sectionID>
     <sectionLabel>Section 2.5. XML Information Set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.5</sectionURL>
@@ -48,7 +48,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -63,7 +63,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -78,7 +78,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -93,7 +93,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_4.3</sectionID>
     <sectionLabel>Section 4.3. Definition of code list binding</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.3</sectionURL>
@@ -108,7 +108,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Code list document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.1</sectionURL>
@@ -123,7 +123,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -138,7 +138,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Code list validation set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.6</sectionURL>
@@ -153,7 +153,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.5</sectionID>
     <sectionLabel>Section 3.5. Code list-enabled instance document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.5</sectionURL>
@@ -168,7 +168,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Code list-enabled schema document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.4</sectionURL>
@@ -183,7 +183,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. XML Namespaces</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.4</sectionURL>
@@ -198,7 +198,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. XML Namespaces</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.4</sectionURL>
@@ -213,7 +213,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -228,7 +228,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -243,7 +243,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -258,7 +258,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -273,7 +273,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -288,7 +288,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.7</sectionURL>
@@ -303,7 +303,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.7</sectionURL>
@@ -318,7 +318,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. CSV code list document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.3</sectionURL>
@@ -333,7 +333,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -348,7 +348,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -363,7 +363,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -378,7 +378,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -393,7 +393,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -408,7 +408,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -423,7 +423,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -438,7 +438,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.7</sectionURL>
@@ -453,7 +453,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.5</sectionID>
     <sectionLabel>Section 2.5. XML Information Set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.5</sectionURL>
@@ -468,7 +468,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -483,7 +483,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -498,7 +498,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -513,7 +513,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -528,7 +528,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Genericode code list document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.2</sectionURL>
@@ -543,7 +543,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -558,7 +558,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -573,7 +573,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -588,7 +588,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -603,7 +603,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -618,7 +618,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -633,7 +633,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -648,7 +648,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -663,7 +663,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -678,7 +678,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -693,7 +693,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -708,7 +708,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -723,7 +723,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.5</sectionID>
     <sectionLabel>Section 2.5. XML Information Set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.5</sectionURL>
@@ -738,7 +738,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -753,7 +753,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -768,7 +768,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -783,7 +783,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.3</sectionID>
     <sectionLabel>Section 2.3. XML</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.3</sectionURL>
@@ -798,7 +798,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -813,7 +813,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -828,7 +828,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.8</sectionURL>

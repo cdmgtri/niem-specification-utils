@@ -1,0 +1,63 @@
+
+
+section header h2 {
+  display: none;
+}
+
+section header .class-description {
+  background-color: whitesmoke;
+}
+
+.container-overview h2 {
+  margin: 30px 0 15px 0;
+}
+
+span.signature {
+  font-size: smaller;
+}
+
+span.signature span.signature-attributes {
+  display: none;
+}
+
+span.name-container {
+  background-color: rgba(26, 159, 224, 0.1);
+  padding: 10px 0;
+}
+
+span.name-container .name, h4.name {
+  font-weight: bold;
+}
+
+span.type-signature, span.signature {
+  font-weight: normal;
+
+}
+
+table {
+  display: table;
+}
+
+table.params {
+  width: 100%;
+}
+
+table.params td.name {
+  width: 20%
+}
+
+table.params td.type, table.params td.attributes {
+  width: 10%
+}
+
+table.params td.default {
+  width: 10%
+}
+
+table td:last-child {
+  width: 100%
+}
+
+ul.methods li a {
+  margin: 0 !important;
+}

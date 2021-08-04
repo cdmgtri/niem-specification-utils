@@ -3,7 +3,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1</sectionID>
     <sectionLabel>Section 3.2.1. The Model Package Description Conformance Target</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.1</sectionURL>
@@ -23,7 +23,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.2</sectionID>
     <sectionLabel>Section 3.2.2. IEPD Conformance Target</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.2</sectionURL>
@@ -43,7 +43,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.2</sectionID>
     <sectionLabel>Section 3.2.2. IEPD Conformance Target</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.2</sectionURL>
@@ -63,7 +63,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.2.1</sectionID>
     <sectionLabel>Section 4.2.1. Basic Subset Concepts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.2.1</sectionURL>
@@ -83,7 +83,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. NIEM MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1</sectionURL>
@@ -103,7 +103,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. NIEM MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1</sectionURL>
@@ -123,7 +123,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1.2</sectionURL>
@@ -143,7 +143,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1.2</sectionURL>
@@ -163,7 +163,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1.2</sectionURL>
@@ -183,7 +183,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1.2</sectionURL>
@@ -203,7 +203,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1.2</sectionURL>
@@ -223,7 +223,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1.2</sectionURL>
@@ -243,7 +243,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.2</sectionID>
     <sectionLabel>Section 5.2.2. MPD Class (c:mpdClassURIList)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.2</sectionURL>
@@ -263,7 +263,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.3</sectionID>
     <sectionLabel>Section 5.2.3. MPD Version Numbering Scheme (c:mpdVersionID)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.3</sectionURL>
@@ -287,7 +287,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.1</sectionID>
     <sectionLabel>Section 5.2.4.1. MPD URI Scheme (c:mpdURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.1</sectionURL>
@@ -307,7 +307,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.2</sectionID>
     <sectionLabel>Section 5.2.4.2. URI Scheme for MPD Artifacts (c:externalURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.2</sectionURL>
@@ -327,7 +327,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.2</sectionID>
     <sectionLabel>Section 5.2.4.2. URI Scheme for MPD Artifacts (c:externalURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.2</sectionURL>
@@ -347,7 +347,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.2</sectionID>
     <sectionLabel>Section 5.2.4.2. URI Scheme for MPD Artifacts (c:externalURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.2</sectionURL>
@@ -370,7 +370,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -390,7 +390,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -410,7 +410,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -430,7 +430,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -450,7 +450,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -470,7 +470,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -490,7 +490,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -510,7 +510,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -530,7 +530,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -550,7 +550,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -570,7 +570,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -590,7 +590,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -610,7 +610,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -630,7 +630,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -650,7 +650,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -670,7 +670,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -690,7 +690,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local MPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.3</sectionURL>
@@ -710,7 +710,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.5</sectionID>
     <sectionLabel>Section 5.2.4.5. Resolving an MPD URI with a Fragment</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.5</sectionURL>
@@ -735,7 +735,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.7</sectionID>
     <sectionLabel>Section 5.2.4.7. XML Catalog URI</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.7</sectionURL>
@@ -755,7 +755,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.7</sectionID>
     <sectionLabel>Section 5.2.4.7. XML Catalog URI</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.7</sectionURL>
@@ -775,7 +775,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.3.2</sectionID>
     <sectionLabel>Section 5.3.2. Change Log for IEPDs</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.3.2</sectionURL>
@@ -795,7 +795,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.4</sectionID>
     <sectionLabel>Section 5.4. ReadMe Artifact</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.4</sectionURL>
@@ -815,7 +815,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.4</sectionID>
     <sectionLabel>Section 5.4. ReadMe Artifact</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.4</sectionURL>
@@ -835,7 +835,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6</sectionURL>
@@ -858,7 +858,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6</sectionURL>
@@ -878,7 +878,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6</sectionURL>
@@ -898,7 +898,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.2.3</sectionID>
     <sectionLabel>Section 5.6.2.3. c:ValidityContext</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.2.3</sectionURL>
@@ -918,7 +918,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.2.4</sectionID>
     <sectionLabel>Section 5.6.2.4. c:HasDocumentElement</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.2.4</sectionURL>
@@ -938,7 +938,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.2.5</sectionID>
     <sectionLabel>Section 5.6.2.5. c:ValidToXPath</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.2.5</sectionURL>
@@ -958,7 +958,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.3</sectionID>
     <sectionLabel>Section 5.6.3. IEP Sample Instance XML Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.3</sectionURL>
@@ -978,7 +978,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.3</sectionID>
     <sectionLabel>Section 5.6.3. IEP Sample Instance XML Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.3</sectionURL>
@@ -998,7 +998,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.7</sectionID>
     <sectionLabel>Section 5.7. Conformance Assertion</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.7</sectionURL>
@@ -1018,7 +1018,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.1</sectionID>
     <sectionLabel>Section 6.1. NIEM Wantlist</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.1</sectionURL>
@@ -1038,7 +1038,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7</sectionURL>
@@ -1058,7 +1058,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7</sectionURL>
@@ -1078,7 +1078,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7</sectionURL>
@@ -1098,7 +1098,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.1.1</sectionID>
     <sectionLabel>Section 7.1.1. Constraint on Elements of Type c:SchemaDocumentSetType</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7.1.1</sectionURL>
@@ -1118,7 +1118,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.2</sectionID>
     <sectionLabel>Section 7.2. IEPD File Name Syntax</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7.2</sectionURL>
@@ -1138,7 +1138,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.3</sectionID>
     <sectionLabel>Section 7.3. Artifact Links to Other Resources</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7.3</sectionURL>
@@ -1158,7 +1158,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. IEPD Completeness</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7.4</sectionURL>
@@ -1178,7 +1178,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. IEPD Completeness</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7.4</sectionURL>
@@ -1198,7 +1198,7 @@
   <rule>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. IEPD Completeness</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7.4</sectionURL>
@@ -1218,7 +1218,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1</sectionID>
     <sectionLabel>Section 3.2.1. Information Exchange Package Documentation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1</sectionURL>
@@ -1238,7 +1238,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1.1</sectionID>
     <sectionLabel>Section 3.2.1.1. Well-Formed IEPD</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1.1</sectionURL>
@@ -1258,7 +1258,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.2.1</sectionID>
     <sectionLabel>Section 4.2.1. Basic Subset Concepts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.2.1</sectionURL>
@@ -1278,7 +1278,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. NIEM IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1</sectionURL>
@@ -1298,7 +1298,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. NIEM IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1</sectionURL>
@@ -1318,7 +1318,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1.2</sectionURL>
@@ -1338,7 +1338,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1.2</sectionURL>
@@ -1358,7 +1358,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1.2</sectionURL>
@@ -1378,7 +1378,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1.2</sectionURL>
@@ -1398,7 +1398,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1.2</sectionURL>
@@ -1418,7 +1418,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1.2</sectionID>
     <sectionLabel>Section 5.1.2. Extending an IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1.2</sectionURL>
@@ -1438,7 +1438,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.3</sectionID>
     <sectionLabel>Section 5.2.3. IEPD Version Numbering Scheme (c:iepdVersionID)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.3</sectionURL>
@@ -1462,7 +1462,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.1</sectionID>
     <sectionLabel>Section 5.2.4.1. IEPD URI Scheme (c:iepdURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.1</sectionURL>
@@ -1482,7 +1482,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.2</sectionID>
     <sectionLabel>Section 5.2.4.2. URI Scheme for IEPD Artifacts (c:externalURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.2</sectionURL>
@@ -1502,7 +1502,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.2</sectionID>
     <sectionLabel>Section 5.2.4.2. URI Scheme for IEPD Artifacts (c:externalURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.2</sectionURL>
@@ -1522,7 +1522,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.2</sectionID>
     <sectionLabel>Section 5.2.4.2. URI Scheme for IEPD Artifacts (c:externalURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.2</sectionURL>
@@ -1545,7 +1545,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1565,7 +1565,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1585,7 +1585,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1605,7 +1605,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1625,7 +1625,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1645,7 +1645,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1665,7 +1665,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1685,7 +1685,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1705,7 +1705,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1725,7 +1725,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1745,7 +1745,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1765,7 +1765,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1785,7 +1785,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1805,7 +1805,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1825,7 +1825,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1845,7 +1845,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1865,7 +1865,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.3</sectionID>
     <sectionLabel>Section 5.2.4.3. URI Scheme for Local IEPD Artifacts (c:pathURI)</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.3</sectionURL>
@@ -1885,7 +1885,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.5</sectionID>
     <sectionLabel>Section 5.2.4.5. Resolving an IEPD URI with a Fragment</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.5</sectionURL>
@@ -1910,7 +1910,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.7</sectionID>
     <sectionLabel>Section 5.2.4.7. XML Catalog URI</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.7</sectionURL>
@@ -1930,7 +1930,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.7</sectionID>
     <sectionLabel>Section 5.2.4.7. XML Catalog URI</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4.7</sectionURL>
@@ -1950,7 +1950,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.3</sectionID>
     <sectionLabel>Section 5.3. Change Log</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.3</sectionURL>
@@ -1970,7 +1970,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.4</sectionID>
     <sectionLabel>Section 5.4. ReadMe Artifact</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.4</sectionURL>
@@ -1990,7 +1990,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.4</sectionID>
     <sectionLabel>Section 5.4. ReadMe Artifact</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.4</sectionURL>
@@ -2010,7 +2010,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6</sectionURL>
@@ -2033,7 +2033,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6</sectionURL>
@@ -2053,7 +2053,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6</sectionURL>
@@ -2073,7 +2073,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.2.3</sectionID>
     <sectionLabel>Section 5.6.2.3. c:ValidityContext</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.2.3</sectionURL>
@@ -2093,7 +2093,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.2.4</sectionID>
     <sectionLabel>Section 5.6.2.4. c:HasDocumentElement</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.2.4</sectionURL>
@@ -2113,7 +2113,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.2.5</sectionID>
     <sectionLabel>Section 5.6.2.5. c:ValidToXPath</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.2.5</sectionURL>
@@ -2133,7 +2133,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.3</sectionID>
     <sectionLabel>Section 5.6.3. IEP Sample Instance XML Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.3</sectionURL>
@@ -2153,7 +2153,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.3</sectionID>
     <sectionLabel>Section 5.6.3. IEP Sample Instance XML Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.3</sectionURL>
@@ -2173,7 +2173,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.7</sectionID>
     <sectionLabel>Section 5.7. Conformance Assertion</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.7</sectionURL>
@@ -2193,7 +2193,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.1</sectionID>
     <sectionLabel>Section 6.1. NIEM Wantlist</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.1</sectionURL>
@@ -2213,7 +2213,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7</sectionURL>
@@ -2233,7 +2233,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7</sectionURL>
@@ -2253,7 +2253,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7</sectionURL>
@@ -2273,7 +2273,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.1.1</sectionID>
     <sectionLabel>Section 7.1.1. Constraint on Elements of Type c:SchemaDocumentSetType</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7.1.1</sectionURL>
@@ -2293,7 +2293,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.2</sectionID>
     <sectionLabel>Section 7.2. IEPD File Name Syntax</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7.2</sectionURL>
@@ -2313,7 +2313,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.3</sectionID>
     <sectionLabel>Section 7.3. Artifact Links to Other Resources</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7.3</sectionURL>
@@ -2333,7 +2333,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. IEPD Completeness</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7.4</sectionURL>
@@ -2353,7 +2353,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. IEPD Completeness</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7.4</sectionURL>
@@ -2373,7 +2373,7 @@
   <rule>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. IEPD Completeness</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7.4</sectionURL>

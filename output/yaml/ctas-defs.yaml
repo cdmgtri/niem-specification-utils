@@ -1,7 +1,7 @@
 -
     specificationID: CTAS-3.0
     specificationSelector: CTAS-3_0
-    classID: CTAS
+    suiteID: CTAS
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Defined'
     sectionURL: 'https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1'
@@ -15,7 +15,7 @@
 -
     specificationID: CTAS-3.0
     specificationSelector: CTAS-3_0
-    classID: CTAS
+    suiteID: CTAS
     sectionID: section_3.1
     sectionLabel: 'Section 3.1. Conformance Target Defined'
     sectionURL: 'https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1'
@@ -29,7 +29,7 @@
 -
     specificationID: CTAS-3.0
     specificationSelector: CTAS-3_0
-    classID: CTAS
+    suiteID: CTAS
     sectionID: section_3.2
     sectionLabel: 'Section 3.2. Conformance to this Specification'
     sectionURL: 'https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.2'
@@ -43,7 +43,7 @@
 -
     specificationID: CTAS-3.0
     specificationSelector: CTAS-3_0
-    classID: CTAS
+    suiteID: CTAS
     sectionID: section_4
     sectionLabel: 'Section 4. Semantics and Use'
     sectionURL: 'https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4'
@@ -57,7 +57,7 @@
 -
     specificationID: CTAS-3.0
     specificationSelector: CTAS-3_0
-    classID: CTAS
+    suiteID: CTAS
     sectionID: section_4
     sectionLabel: 'Section 4. Semantics and Use'
     sectionURL: 'https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4'

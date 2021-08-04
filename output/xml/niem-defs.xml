@@ -3,7 +3,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9.1</sectionID>
     <sectionLabel>Section 10.9.1. The NIEM appinfo namespace</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9.1</sectionURL>
@@ -18,7 +18,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9</sectionID>
     <sectionLabel>Section 10.9. Machine-readable annotations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9</sectionURL>
@@ -33,7 +33,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.3</sectionURL>
@@ -48,7 +48,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.3</sectionURL>
@@ -63,7 +63,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.3</sectionURL>
@@ -78,7 +78,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.1</sectionID>
     <sectionLabel>Section 10.4.1. Augmentable types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.1</sectionURL>
@@ -93,7 +93,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4</sectionID>
     <sectionLabel>Section 10.4. Augmentations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4</sectionURL>
@@ -108,7 +108,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.4</sectionID>
     <sectionLabel>Section 10.4.4. Augmentation types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.4</sectionURL>
@@ -123,7 +123,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.4</sectionID>
     <sectionLabel>Section 10.4.4. Augmentation types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.4</sectionURL>
@@ -138,7 +138,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1</sectionURL>
@@ -153,7 +153,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_11.1.2.3</sectionID>
     <sectionLabel>Section 11.1.2.3. Code simple types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_11.1.2.3</sectionURL>
@@ -168,7 +168,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.4</sectionID>
     <sectionLabel>Section 10.2.4. Code types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.4</sectionURL>
@@ -183,7 +183,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1</sectionURL>
@@ -198,7 +198,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6</sectionURL>
@@ -213,7 +213,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6</sectionURL>
@@ -228,7 +228,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.4</sectionID>
     <sectionLabel>Section 4.1.4. Instance documents and elements</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.4</sectionURL>
@@ -243,7 +243,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.4</sectionID>
     <sectionLabel>Section 4.1.4. Instance documents and elements</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.4</sectionURL>
@@ -258,7 +258,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.3</sectionID>
     <sectionLabel>Section 4.1.3. Schema document set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.3</sectionURL>
@@ -273,7 +273,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4.1</sectionID>
     <sectionLabel>Section 2.4.1. Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4.1</sectionURL>
@@ -288,7 +288,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_12.1</sectionID>
     <sectionLabel>Section 12.1. Content elements</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_12.1</sectionURL>
@@ -303,7 +303,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. ISO 11179 Part 4</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_7.4</sectionURL>
@@ -318,7 +318,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9.1.1</sectionID>
     <sectionLabel>Section 10.9.1.1. Deprecation</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9.1.1</sectionURL>
@@ -333,7 +333,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. ISO 11179 Part 4</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_7.4</sectionURL>
@@ -348,7 +348,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6</sectionURL>
@@ -363,7 +363,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.3</sectionURL>
@@ -378,7 +378,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1</sectionURL>
@@ -393,7 +393,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.2</sectionID>
     <sectionLabel>Section 4.1.2. Extension schema document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.2</sectionURL>
@@ -408,7 +408,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.3.2</sectionID>
     <sectionLabel>Section 10.2.3.2. External adapter types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.3.2</sectionURL>
@@ -423,7 +423,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.3</sectionID>
     <sectionLabel>Section 10.2.3. External adapter types and external components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.3</sectionURL>
@@ -438,7 +438,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. Normative and informative content</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4</sectionURL>
@@ -453,7 +453,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -468,7 +468,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4.1</sectionID>
     <sectionLabel>Section 2.4.1. Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4.1</sectionURL>
@@ -483,7 +483,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.8.2.1</sectionID>
     <sectionLabel>Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.8.2.1</sectionURL>
@@ -498,7 +498,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.8.2.1</sectionID>
     <sectionLabel>Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.8.2.1</sectionURL>
@@ -513,7 +513,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9</sectionID>
     <sectionLabel>Section 10.9. Machine-readable annotations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9</sectionURL>
@@ -528,7 +528,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.5.2</sectionID>
     <sectionLabel>Section 10.5.2. Metadata element declarations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.5.2</sectionURL>
@@ -543,7 +543,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.5.1</sectionID>
     <sectionLabel>Section 10.5.1. Metadata types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.5.1</sectionURL>
@@ -558,7 +558,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. Normative and informative content</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4</sectionURL>
@@ -573,7 +573,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.1</sectionID>
     <sectionLabel>Section 10.2.1. General object types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.1</sectionURL>
@@ -588,7 +588,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_12.2</sectionID>
     <sectionLabel>Section 12.2. Reference elements</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_12.2</sectionURL>
@@ -603,7 +603,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.1</sectionID>
     <sectionLabel>Section 4.1.1. Reference schema document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.1</sectionURL>
@@ -618,7 +618,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10</sectionID>
     <sectionLabel>Section 10. Rules for NIEM modeling, by NIEM concept</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10</sectionURL>
@@ -633,7 +633,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_5.6.4</sectionID>
     <sectionLabel>Section 5.6.4. Resolved element</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_5.6.4</sectionURL>
@@ -648,7 +648,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.2</sectionID>
     <sectionLabel>Section 10.2.2. Role types and roles</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.2</sectionURL>
@@ -663,7 +663,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.2</sectionID>
     <sectionLabel>Section 10.2.2. Role types and roles</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.2</sectionURL>
@@ -678,7 +678,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -693,7 +693,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -708,7 +708,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1</sectionURL>
@@ -723,7 +723,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.10</sectionID>
     <sectionLabel>Section 10.10. NIEM structural facilities</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.10</sectionURL>
@@ -738,7 +738,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -753,7 +753,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. XML terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.2</sectionURL>
@@ -768,7 +768,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -783,7 +783,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -798,7 +798,7 @@
   <definition>
     <specificationID>NDR-3.0</specificationID>
     <specificationSelector>NDR-3_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4</sectionURL>
@@ -813,7 +813,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9.1</sectionID>
     <sectionLabel>Section 10.9.1. The NIEM appinfo namespace</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9.1</sectionURL>
@@ -828,7 +828,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9</sectionID>
     <sectionLabel>Section 10.9. Machine-readable annotations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9</sectionURL>
@@ -843,7 +843,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3</sectionURL>
@@ -858,7 +858,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3</sectionURL>
@@ -873,7 +873,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3</sectionURL>
@@ -888,7 +888,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3</sectionURL>
@@ -903,7 +903,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.1</sectionID>
     <sectionLabel>Section 10.4.1. Augmentable types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.1</sectionURL>
@@ -918,7 +918,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4</sectionID>
     <sectionLabel>Section 10.4. Augmentations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4</sectionURL>
@@ -933,7 +933,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.4</sectionID>
     <sectionLabel>Section 10.4.4. Augmentation types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.4</sectionURL>
@@ -948,7 +948,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.4</sectionID>
     <sectionLabel>Section 10.4.4. Augmentation types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.4</sectionURL>
@@ -963,7 +963,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1</sectionURL>
@@ -978,7 +978,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_11.1.2.3</sectionID>
     <sectionLabel>Section 11.1.2.3. Code simple types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_11.1.2.3</sectionURL>
@@ -993,7 +993,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.4</sectionID>
     <sectionLabel>Section 10.2.4. Code types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.4</sectionURL>
@@ -1008,7 +1008,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1</sectionURL>
@@ -1023,7 +1023,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6</sectionURL>
@@ -1038,7 +1038,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6</sectionURL>
@@ -1053,7 +1053,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.4</sectionID>
     <sectionLabel>Section 4.1.4. Instance documents and elements</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.4</sectionURL>
@@ -1068,7 +1068,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.4</sectionID>
     <sectionLabel>Section 4.1.4. Instance documents and elements</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.4</sectionURL>
@@ -1083,7 +1083,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.3</sectionID>
     <sectionLabel>Section 4.1.3. Schema document set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.3</sectionURL>
@@ -1098,7 +1098,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4.1</sectionID>
     <sectionLabel>Section 2.4.1. Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4.1</sectionURL>
@@ -1113,7 +1113,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. ISO 11179 Part 4</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_7.4</sectionURL>
@@ -1128,7 +1128,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9.1.1</sectionID>
     <sectionLabel>Section 10.9.1.1. Deprecation</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9.1.1</sectionURL>
@@ -1143,7 +1143,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3</sectionURL>
@@ -1158,7 +1158,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. ISO 11179 Part 4</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_7.4</sectionURL>
@@ -1173,7 +1173,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6</sectionURL>
@@ -1188,7 +1188,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3</sectionURL>
@@ -1203,7 +1203,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1</sectionURL>
@@ -1218,7 +1218,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.2</sectionID>
     <sectionLabel>Section 4.1.2. Extension schema document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.2</sectionURL>
@@ -1233,7 +1233,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.3.2</sectionID>
     <sectionLabel>Section 10.2.3.2. External adapter types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.3.2</sectionURL>
@@ -1248,7 +1248,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.3</sectionID>
     <sectionLabel>Section 10.2.3. External adapter types and external components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.3</sectionURL>
@@ -1263,7 +1263,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. Normative and informative content</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4</sectionURL>
@@ -1278,7 +1278,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1293,7 +1293,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4.1</sectionID>
     <sectionLabel>Section 2.4.1. Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4.1</sectionURL>
@@ -1308,7 +1308,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.8.2.1</sectionID>
     <sectionLabel>Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.8.2.1</sectionURL>
@@ -1323,7 +1323,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9</sectionID>
     <sectionLabel>Section 10.9. Machine-readable annotations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9</sectionURL>
@@ -1338,7 +1338,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.5.2</sectionID>
     <sectionLabel>Section 10.5.2. Metadata element declarations</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.5.2</sectionURL>
@@ -1353,7 +1353,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.5.1</sectionID>
     <sectionLabel>Section 10.5.1. Metadata types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.5.1</sectionURL>
@@ -1368,7 +1368,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. Normative and informative content</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4</sectionURL>
@@ -1383,7 +1383,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.1</sectionID>
     <sectionLabel>Section 10.2.1. General object types</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.1</sectionURL>
@@ -1398,7 +1398,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.1</sectionID>
     <sectionLabel>Section 4.1.1. Reference schema document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.1</sectionURL>
@@ -1413,7 +1413,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.7</sectionID>
     <sectionLabel>Section 10.7. The Representation pattern</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.7</sectionURL>
@@ -1428,7 +1428,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.2</sectionID>
     <sectionLabel>Section 10.2.2. Role types and roles</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.2</sectionURL>
@@ -1443,7 +1443,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.2</sectionID>
     <sectionLabel>Section 10.2.2. Role types and roles</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.2</sectionURL>
@@ -1458,7 +1458,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1473,7 +1473,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1488,7 +1488,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1</sectionURL>
@@ -1503,7 +1503,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.10</sectionID>
     <sectionLabel>Section 10.10. NIEM structural facilities</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.10</sectionURL>
@@ -1518,7 +1518,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1533,7 +1533,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. XML terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.2</sectionURL>
@@ -1548,7 +1548,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1563,7 +1563,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1578,7 +1578,7 @@
   <definition>
     <specificationID>NDR-4.0</specificationID>
     <specificationSelector>NDR-4_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4</sectionURL>
@@ -1593,7 +1593,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9.1</sectionID>
     <sectionLabel>Section 10.9.1. The NIEM appinfo namespace</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9.1</sectionURL>
@@ -1608,7 +1608,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9</sectionID>
     <sectionLabel>Section 10.9. Machine-readable annotations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9</sectionURL>
@@ -1623,7 +1623,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3</sectionURL>
@@ -1638,7 +1638,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3</sectionURL>
@@ -1653,7 +1653,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.3</sectionID>
     <sectionLabel>Section 10.3. Associations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3</sectionURL>
@@ -1668,7 +1668,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3</sectionURL>
@@ -1683,7 +1683,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.1</sectionID>
     <sectionLabel>Section 10.4.1. Augmentable types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.1</sectionURL>
@@ -1698,7 +1698,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4</sectionID>
     <sectionLabel>Section 10.4. Augmentations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4</sectionURL>
@@ -1713,7 +1713,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.4</sectionID>
     <sectionLabel>Section 10.4.4. Augmentation types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.4</sectionURL>
@@ -1728,7 +1728,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.4.4</sectionID>
     <sectionLabel>Section 10.4.4. Augmentation types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.4</sectionURL>
@@ -1743,7 +1743,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1</sectionURL>
@@ -1758,7 +1758,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_11.1.2.3</sectionID>
     <sectionLabel>Section 11.1.2.3. Code simple types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_11.1.2.3</sectionURL>
@@ -1773,7 +1773,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.4</sectionID>
     <sectionLabel>Section 10.2.4. Code types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.4</sectionURL>
@@ -1788,7 +1788,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1</sectionURL>
@@ -1803,7 +1803,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6</sectionURL>
@@ -1818,7 +1818,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6</sectionURL>
@@ -1833,7 +1833,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.4</sectionID>
     <sectionLabel>Section 4.1.4. Instance documents and elements</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.4</sectionURL>
@@ -1848,7 +1848,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.4</sectionID>
     <sectionLabel>Section 4.1.4. Instance documents and elements</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.4</sectionURL>
@@ -1863,7 +1863,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.3</sectionID>
     <sectionLabel>Section 4.1.3. Schema document set</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.3</sectionURL>
@@ -1878,7 +1878,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4.1</sectionID>
     <sectionLabel>Section 2.4.1. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4.1</sectionURL>
@@ -1893,7 +1893,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. ISO 11179 Part 4</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_7.4</sectionURL>
@@ -1908,7 +1908,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9.1.1</sectionID>
     <sectionLabel>Section 10.9.1.1. Deprecation</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9.1.1</sectionURL>
@@ -1923,7 +1923,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3</sectionURL>
@@ -1938,7 +1938,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_7.4</sectionID>
     <sectionLabel>Section 7.4. ISO 11179 Part 4</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_7.4</sectionURL>
@@ -1953,7 +1953,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Conformance Targets Attribute Specification terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6</sectionURL>
@@ -1968,7 +1968,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. XML Information Set terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3</sectionURL>
@@ -1983,7 +1983,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1</sectionURL>
@@ -1998,7 +1998,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.2</sectionID>
     <sectionLabel>Section 4.1.2. Extension schema document</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.2</sectionURL>
@@ -2013,7 +2013,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.3.2</sectionID>
     <sectionLabel>Section 10.2.3.2. External adapter types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.3.2</sectionURL>
@@ -2028,7 +2028,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.3</sectionID>
     <sectionLabel>Section 10.2.3. External adapter types and external components</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.3</sectionURL>
@@ -2043,7 +2043,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. Normative and informative content</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4</sectionURL>
@@ -2058,7 +2058,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2073,7 +2073,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4.1</sectionID>
     <sectionLabel>Section 2.4.1. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4.1</sectionURL>
@@ -2088,7 +2088,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.8.2.1</sectionID>
     <sectionLabel>Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.8.2.1</sectionURL>
@@ -2103,7 +2103,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.9</sectionID>
     <sectionLabel>Section 10.9. Machine-readable annotations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9</sectionURL>
@@ -2118,7 +2118,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.5.2</sectionID>
     <sectionLabel>Section 10.5.2. Metadata element declarations</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.5.2</sectionURL>
@@ -2133,7 +2133,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.5.1</sectionID>
     <sectionLabel>Section 10.5.1. Metadata types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.5.1</sectionURL>
@@ -2148,7 +2148,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. Normative and informative content</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4</sectionURL>
@@ -2163,7 +2163,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.1</sectionID>
     <sectionLabel>Section 10.2.1. General object types</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.1</sectionURL>
@@ -2178,7 +2178,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_4.1.1</sectionID>
     <sectionLabel>Section 4.1.1. Reference schema document</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.1</sectionURL>
@@ -2193,7 +2193,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.7</sectionID>
     <sectionLabel>Section 10.7. The Representation pattern</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.7</sectionURL>
@@ -2208,7 +2208,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.2</sectionID>
     <sectionLabel>Section 10.2.2. Role types and roles</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.2</sectionURL>
@@ -2223,7 +2223,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.2.2</sectionID>
     <sectionLabel>Section 10.2.2. Role types and roles</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.2</sectionURL>
@@ -2238,7 +2238,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2253,7 +2253,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2268,7 +2268,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4.1</sectionID>
     <sectionLabel>Section 3.4.1. Schema components</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1</sectionURL>
@@ -2283,7 +2283,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_10.10</sectionID>
     <sectionLabel>Section 10.10. NIEM structural facilities</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.10</sectionURL>
@@ -2298,7 +2298,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2313,7 +2313,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. XML terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.2</sectionURL>
@@ -2328,7 +2328,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2343,7 +2343,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2358,7 +2358,7 @@
   <definition>
     <specificationID>NDR-5.0</specificationID>
     <specificationSelector>NDR-5_0</specificationSelector>
-    <classID>NDR</classID>
+    <suiteID>NDR</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. XML Schema terminology</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4</sectionURL>
@@ -2373,7 +2373,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.3</sectionID>
     <sectionLabel>Section 2.3. Artifacts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.3</sectionURL>
@@ -2388,7 +2388,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.3</sectionID>
     <sectionLabel>Section 2.3. Artifacts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.3</sectionURL>
@@ -2403,7 +2403,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.2</sectionID>
     <sectionLabel>Section 6.2. Business Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.2</sectionURL>
@@ -2418,7 +2418,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.2</sectionID>
     <sectionLabel>Section 6.2. Business Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.2</sectionURL>
@@ -2433,7 +2433,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.3</sectionID>
     <sectionLabel>Section 5.3. Change Log</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.3</sectionURL>
@@ -2448,7 +2448,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.7</sectionID>
     <sectionLabel>Section 5.7. Conformance Assertion</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.7</sectionURL>
@@ -2463,7 +2463,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Terminology</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.1</sectionURL>
@@ -2478,7 +2478,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Terminology</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.1</sectionURL>
@@ -2493,7 +2493,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.9</sectionURL>
@@ -2508,7 +2508,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.5</sectionID>
     <sectionLabel>Section 4.5. Constraint Schema Document Sets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.5</sectionURL>
@@ -2523,7 +2523,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. Harmonization</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.6</sectionURL>
@@ -2538,7 +2538,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.3</sectionID>
     <sectionLabel>Section 4.3. Extension Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.3</sectionURL>
@@ -2553,7 +2553,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.4</sectionID>
     <sectionLabel>Section 4.4. External Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.4</sectionURL>
@@ -2568,7 +2568,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.4</sectionID>
     <sectionLabel>Section 4.4. External Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.4</sectionURL>
@@ -2583,7 +2583,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.3</sectionID>
     <sectionLabel>Section 3.2.3. IEP Conformance Targets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.3</sectionURL>
@@ -2598,7 +2598,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. Harmonization</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.6</sectionURL>
@@ -2613,7 +2613,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6</sectionURL>
@@ -2628,7 +2628,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.3</sectionID>
     <sectionLabel>Section 3.2.3. IEP Conformance Targets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.3</sectionURL>
@@ -2643,7 +2643,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.2</sectionID>
     <sectionLabel>Section 3.2.2. IEPD Conformance Target</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.2</sectionURL>
@@ -2658,7 +2658,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.2</sectionID>
     <sectionLabel>Section 3.2.2. IEPD Conformance Target</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.2</sectionURL>
@@ -2673,7 +2673,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.9</sectionURL>
@@ -2688,7 +2688,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1</sectionID>
     <sectionLabel>Section 3.2.1. The Model Package Description Conformance Target</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2.1</sectionURL>
@@ -2703,7 +2703,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. NIEM MPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.1</sectionURL>
@@ -2718,7 +2718,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Terminology</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.1</sectionURL>
@@ -2733,7 +2733,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_7</sectionURL>
@@ -2748,7 +2748,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.1</sectionID>
     <sectionLabel>Section 6.1. NIEM Wantlist</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.1</sectionURL>
@@ -2763,7 +2763,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4</sectionID>
     <sectionLabel>Section 5.2.4. URI Schemes</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4</sectionURL>
@@ -2778,7 +2778,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.4</sectionID>
     <sectionLabel>Section 5.4. ReadMe Artifact</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.4</sectionURL>
@@ -2793,7 +2793,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4.6</sectionID>
     <sectionLabel>Section 5.2.4.6. URI Resolution Involving Reference Elements</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4.6</sectionURL>
@@ -2808,7 +2808,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. Reference Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.8</sectionURL>
@@ -2823,7 +2823,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. Reference Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.8</sectionURL>
@@ -2838,7 +2838,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4</sectionID>
     <sectionLabel>Section 5.2.4. URI Schemes</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.2.4</sectionURL>
@@ -2853,7 +2853,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7</sectionURL>
@@ -2868,7 +2868,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.2.1</sectionID>
     <sectionLabel>Section 4.2.1. Basic Subset Concepts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.2.1</sectionURL>
@@ -2883,7 +2883,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.2</sectionID>
     <sectionLabel>Section 6.2. Business Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_6.2</sectionURL>
@@ -2898,7 +2898,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.2.1</sectionID>
     <sectionLabel>Section 4.2.1. Basic Subset Concepts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_4.2.1</sectionURL>
@@ -2913,7 +2913,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.1</sectionID>
     <sectionLabel>Section 5.6.1. Validity Context and Constraints</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.6.1</sectionURL>
@@ -2928,7 +2928,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.5</sectionID>
     <sectionLabel>Section 5.5. XML Catalogs</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_5.5</sectionURL>
@@ -2943,7 +2943,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7</sectionURL>
@@ -2958,7 +2958,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7</sectionURL>
@@ -2973,7 +2973,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7</sectionURL>
@@ -2988,7 +2988,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7</sectionURL>
@@ -3003,7 +3003,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_2.7</sectionURL>
@@ -3018,7 +3018,7 @@
   <definition>
     <specificationID>MPD-3.0.1</specificationID>
     <specificationSelector>MPD-3_0_1</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. MPD Conformance Targets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v3.0.1/model-package-description-3.0.1.html#section_3.2</sectionURL>
@@ -3033,7 +3033,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.3</sectionID>
     <sectionLabel>Section 2.3. Artifacts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.3</sectionURL>
@@ -3048,7 +3048,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.3</sectionID>
     <sectionLabel>Section 2.3. Artifacts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.3</sectionURL>
@@ -3063,7 +3063,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.2</sectionID>
     <sectionLabel>Section 6.2. Business Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.2</sectionURL>
@@ -3078,7 +3078,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.2</sectionID>
     <sectionLabel>Section 6.2. Business Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.2</sectionURL>
@@ -3093,7 +3093,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.3</sectionID>
     <sectionLabel>Section 5.3. Change Log</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.3</sectionURL>
@@ -3108,7 +3108,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.7</sectionID>
     <sectionLabel>Section 5.7. Conformance Assertion</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.7</sectionURL>
@@ -3123,7 +3123,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Terminology</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.1</sectionURL>
@@ -3138,7 +3138,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Terminology</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.1</sectionURL>
@@ -3153,7 +3153,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.8</sectionURL>
@@ -3168,7 +3168,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.5</sectionID>
     <sectionLabel>Section 4.5. Constraint Schema Document Sets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.5</sectionURL>
@@ -3183,7 +3183,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Reference Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.7</sectionURL>
@@ -3198,7 +3198,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.3</sectionID>
     <sectionLabel>Section 4.3. Extension Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.3</sectionURL>
@@ -3213,7 +3213,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.4</sectionID>
     <sectionLabel>Section 4.4. External Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.4</sectionURL>
@@ -3228,7 +3228,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.4</sectionID>
     <sectionLabel>Section 4.4. External Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.4</sectionURL>
@@ -3243,7 +3243,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.2</sectionID>
     <sectionLabel>Section 3.2.2. IEP Conformance Targets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.2</sectionURL>
@@ -3258,7 +3258,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6</sectionID>
     <sectionLabel>Section 5.6. Defining Information Exchange Packages</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6</sectionURL>
@@ -3273,7 +3273,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. NIEM IEPD Catalog</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.1</sectionURL>
@@ -3288,7 +3288,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Terminology</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.1</sectionURL>
@@ -3303,7 +3303,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_7</sectionID>
     <sectionLabel>Section 7. Organization, Packaging, and Other Criteria</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_7</sectionURL>
@@ -3318,7 +3318,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.2</sectionID>
     <sectionLabel>Section 3.2.2. IEP Conformance Targets</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.2</sectionURL>
@@ -3333,7 +3333,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1</sectionID>
     <sectionLabel>Section 3.2.1. Information Exchange Package Documentation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1</sectionURL>
@@ -3348,7 +3348,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1</sectionID>
     <sectionLabel>Section 3.2.1. Information Exchange Package Documentation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1</sectionURL>
@@ -3363,7 +3363,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.8</sectionURL>
@@ -3378,7 +3378,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.1</sectionID>
     <sectionLabel>Section 6.1. NIEM Wantlist</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.1</sectionURL>
@@ -3393,7 +3393,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4</sectionID>
     <sectionLabel>Section 5.2.4. URI Schemes</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4</sectionURL>
@@ -3408,7 +3408,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.4</sectionID>
     <sectionLabel>Section 5.4. ReadMe Artifact</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.4</sectionURL>
@@ -3423,7 +3423,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Reference Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.7</sectionURL>
@@ -3438,7 +3438,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Reference Schema Documents</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.7</sectionURL>
@@ -3453,7 +3453,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.2.4</sectionID>
     <sectionLabel>Section 5.2.4. URI Schemes</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.2.4</sectionURL>
@@ -3468,7 +3468,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6</sectionURL>
@@ -3483,7 +3483,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.2.1</sectionID>
     <sectionLabel>Section 4.2.1. Basic Subset Concepts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.2.1</sectionURL>
@@ -3498,7 +3498,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_6.2</sectionID>
     <sectionLabel>Section 6.2. Business Rules</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_6.2</sectionURL>
@@ -3513,7 +3513,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_4.2.1</sectionID>
     <sectionLabel>Section 4.2.1. Basic Subset Concepts</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_4.2.1</sectionURL>
@@ -3528,7 +3528,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.6.1</sectionID>
     <sectionLabel>Section 5.6.1. Validity Context and Constraints</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.6.1</sectionURL>
@@ -3543,7 +3543,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1.1</sectionID>
     <sectionLabel>Section 3.2.1.1. Well-Formed IEPD</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1.1</sectionURL>
@@ -3558,7 +3558,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_5.5</sectionID>
     <sectionLabel>Section 5.5. XML Catalogs</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_5.5</sectionURL>
@@ -3573,7 +3573,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6</sectionURL>
@@ -3588,7 +3588,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6</sectionURL>
@@ -3603,7 +3603,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6</sectionURL>
@@ -3618,7 +3618,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6</sectionURL>
@@ -3633,7 +3633,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Validation</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_2.6</sectionURL>
@@ -3648,7 +3648,7 @@
   <definition>
     <specificationID>IEPD-5.0</specificationID>
     <specificationSelector>IEPD-5_0</specificationSelector>
-    <classID>IEPD</classID>
+    <suiteID>IEPD</suiteID>
     <sectionID>section_3.2.1.1</sectionID>
     <sectionLabel>Section 3.2.1.1. Well-Formed IEPD</sectionLabel>
     <sectionURL>https://niem.github.io/MPD-Spec/v5.0/niem-iepd-spec.html#section_3.2.1.1</sectionURL>
@@ -3663,7 +3663,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -3678,7 +3678,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.8</sectionURL>
@@ -3693,7 +3693,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.5</sectionID>
     <sectionLabel>Section 2.5. XML Information Set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.5</sectionURL>
@@ -3708,7 +3708,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -3723,7 +3723,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -3738,7 +3738,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -3753,7 +3753,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_4.3</sectionID>
     <sectionLabel>Section 4.3. Definition of code list binding</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.3</sectionURL>
@@ -3768,7 +3768,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Code list document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.1</sectionURL>
@@ -3783,7 +3783,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -3798,7 +3798,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. Code list validation set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.6</sectionURL>
@@ -3813,7 +3813,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.5</sectionID>
     <sectionLabel>Section 3.5. Code list-enabled instance document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.5</sectionURL>
@@ -3828,7 +3828,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Code list-enabled schema document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.4</sectionURL>
@@ -3843,7 +3843,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. XML Namespaces</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.4</sectionURL>
@@ -3858,7 +3858,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.4</sectionID>
     <sectionLabel>Section 2.4. XML Namespaces</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.4</sectionURL>
@@ -3873,7 +3873,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -3888,7 +3888,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -3903,7 +3903,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -3918,7 +3918,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -3933,7 +3933,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -3948,7 +3948,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.7</sectionURL>
@@ -3963,7 +3963,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.7</sectionURL>
@@ -3978,7 +3978,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. CSV code list document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.3</sectionURL>
@@ -3993,7 +3993,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -4008,7 +4008,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -4023,7 +4023,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -4038,7 +4038,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -4053,7 +4053,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.10</sectionID>
     <sectionLabel>Section 2.10. RFC 4180: Comma-separated values (CSV) files</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.10</sectionURL>
@@ -4068,7 +4068,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4083,7 +4083,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.9</sectionID>
     <sectionLabel>Section 2.9. Code Lists</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.9</sectionURL>
@@ -4098,7 +4098,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.7</sectionID>
     <sectionLabel>Section 2.7. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.7</sectionURL>
@@ -4113,7 +4113,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.5</sectionID>
     <sectionLabel>Section 2.5. XML Information Set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.5</sectionURL>
@@ -4128,7 +4128,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4143,7 +4143,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -4158,7 +4158,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4173,7 +4173,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4188,7 +4188,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Genericode code list document</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.2</sectionURL>
@@ -4203,7 +4203,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4218,7 +4218,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4233,7 +4233,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -4248,7 +4248,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -4263,7 +4263,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4278,7 +4278,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.11</sectionID>
     <sectionLabel>Section 2.11. XML Catalogs</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.11</sectionURL>
@@ -4293,7 +4293,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -4308,7 +4308,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4323,7 +4323,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4338,7 +4338,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4353,7 +4353,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4368,7 +4368,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4383,7 +4383,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.5</sectionID>
     <sectionLabel>Section 2.5. XML Information Set</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.5</sectionURL>
@@ -4398,7 +4398,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4413,7 +4413,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -4428,7 +4428,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. RFC 3986: Uniform Resource Identifier (URI): Generic Syntax</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.2</sectionURL>
@@ -4443,7 +4443,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.3</sectionID>
     <sectionLabel>Section 2.3. XML</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.3</sectionURL>
@@ -4458,7 +4458,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4473,7 +4473,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.6</sectionID>
     <sectionLabel>Section 2.6. XML Schema</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.6</sectionURL>
@@ -4488,7 +4488,7 @@
   <definition>
     <specificationID>CodeLists-4.0</specificationID>
     <specificationSelector>CodeLists-4_0</specificationSelector>
-    <classID>CodeLists</classID>
+    <suiteID>CodeLists</suiteID>
     <sectionID>section_2.8</sectionID>
     <sectionLabel>Section 2.8. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_2.8</sectionURL>
@@ -4503,7 +4503,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Defined</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1</sectionURL>
@@ -4518,7 +4518,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_3.1</sectionID>
     <sectionLabel>Section 3.1. Conformance Target Defined</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1</sectionURL>
@@ -4533,7 +4533,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance to this Specification</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.2</sectionURL>
@@ -4548,7 +4548,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_4</sectionID>
     <sectionLabel>Section 4. Semantics and Use</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4</sectionURL>
@@ -4563,7 +4563,7 @@
   <definition>
     <specificationID>CTAS-3.0</specificationID>
     <specificationSelector>CTAS-3_0</specificationSelector>
-    <classID>CTAS</classID>
+    <suiteID>CTAS</suiteID>
     <sectionID>section_4</sectionID>
     <sectionLabel>Section 4. Semantics and Use</sectionLabel>
     <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4</sectionURL>
@@ -4578,7 +4578,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.2</sectionURL>
@@ -4593,7 +4593,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.2</sectionURL>
@@ -4608,7 +4608,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4623,7 +4623,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4638,7 +4638,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2.1</sectionID>
     <sectionLabel>Section 2.2.1. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_2.2.1</sectionURL>
@@ -4653,7 +4653,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.2</sectionURL>
@@ -4668,7 +4668,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.7</sectionID>
     <sectionLabel>Section 3.7. RDF and RDF Schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.7</sectionURL>
@@ -4683,7 +4683,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4698,7 +4698,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4713,7 +4713,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Model Package Description Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.4</sectionURL>
@@ -4728,7 +4728,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Model Package Description Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.4</sectionURL>
@@ -4743,7 +4743,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Model Package Description Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.4</sectionURL>
@@ -4758,7 +4758,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. Normative and informative content</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_2.2</sectionURL>
@@ -4773,7 +4773,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2.1</sectionID>
     <sectionLabel>Section 2.2.1. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_2.2.1</sectionURL>
@@ -4788,7 +4788,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.5</sectionID>
     <sectionLabel>Section 3.5. JSON</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.5</sectionURL>
@@ -4803,7 +4803,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.5</sectionID>
     <sectionLabel>Section 3.5. JSON</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.5</sectionURL>
@@ -4818,7 +4818,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. JSON-LD</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.6</sectionURL>
@@ -4833,7 +4833,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. Literal-to-object conversion</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5.1</sectionURL>
@@ -4848,7 +4848,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_4.2</sectionID>
     <sectionLabel>Section 4.2. NIEM JSON document laxly conformant to a schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_4.2</sectionURL>
@@ -4863,7 +4863,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_4.1</sectionID>
     <sectionLabel>Section 4.1. NIEM JSON document strictly conformant to a schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_4.1</sectionURL>
@@ -4878,7 +4878,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. Normative and informative content</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_2.2</sectionURL>
@@ -4893,7 +4893,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.7</sectionID>
     <sectionLabel>Section 3.7. RDF and RDF Schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.7</sectionURL>
@@ -4908,7 +4908,7 @@
   <definition>
     <specificationID>JSON-4.0</specificationID>
     <specificationSelector>JSON-4_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4923,7 +4923,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.2</sectionURL>
@@ -4938,7 +4938,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.2</sectionURL>
@@ -4953,7 +4953,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4968,7 +4968,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -4983,7 +4983,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2.1</sectionID>
     <sectionLabel>Section 2.2.1. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_2.2.1</sectionURL>
@@ -4998,7 +4998,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.2</sectionID>
     <sectionLabel>Section 3.2. Conformance Targets Attribute Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.2</sectionURL>
@@ -5013,7 +5013,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.7</sectionID>
     <sectionLabel>Section 3.7. RDF and RDF Schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.7</sectionURL>
@@ -5028,7 +5028,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -5043,7 +5043,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.3</sectionURL>
@@ -5058,7 +5058,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Model Package Description Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.4</sectionURL>
@@ -5073,7 +5073,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Model Package Description Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.4</sectionURL>
@@ -5088,7 +5088,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.4</sectionID>
     <sectionLabel>Section 3.4. Model Package Description Specification</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.4</sectionURL>
@@ -5103,7 +5103,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. Normative and informative content</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_2.2</sectionURL>
@@ -5118,7 +5118,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2.1</sectionID>
     <sectionLabel>Section 2.2.1. Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_2.2.1</sectionURL>
@@ -5133,7 +5133,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.5</sectionID>
     <sectionLabel>Section 3.5. JSON</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.5</sectionURL>
@@ -5148,7 +5148,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.5</sectionID>
     <sectionLabel>Section 3.5. JSON</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.5</sectionURL>
@@ -5163,7 +5163,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.6</sectionID>
     <sectionLabel>Section 3.6. JSON-LD</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.6</sectionURL>
@@ -5178,7 +5178,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5.1</sectionID>
     <sectionLabel>Section 5.1. Literal-to-object conversion</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5.1</sectionURL>
@@ -5193,7 +5193,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_4.2</sectionID>
     <sectionLabel>Section 4.2. NIEM JSON document laxly conformant to a schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_4.2</sectionURL>
@@ -5208,7 +5208,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_4.1</sectionID>
     <sectionLabel>Section 4.1. NIEM JSON document strictly conformant to a schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_4.1</sectionURL>
@@ -5223,7 +5223,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_5.2</sectionID>
     <sectionLabel>Section 5.2. NIEM JSON Normalization</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5.2</sectionURL>
@@ -5238,7 +5238,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_2.2</sectionID>
     <sectionLabel>Section 2.2. Normative and informative content</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_2.2</sectionURL>
@@ -5253,7 +5253,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.7</sectionID>
     <sectionLabel>Section 3.7. RDF and RDF Schema</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.7</sectionURL>
@@ -5268,7 +5268,7 @@
   <definition>
     <specificationID>JSON-5.0</specificationID>
     <specificationSelector>JSON-5_0</specificationSelector>
-    <classID>JSON</classID>
+    <suiteID>JSON</suiteID>
     <sectionID>section_3.3</sectionID>
     <sectionLabel>Section 3.3. NIEM Naming and Design Rules</sectionLabel>
     <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_3.3</sectionURL>

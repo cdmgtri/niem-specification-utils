@@ -2,12 +2,12 @@
 class Target {
 
   /**
-   * @param {Specification}  specification
-   * @param {String} code
-   * @param {String} target
-   * @param {String} definitionFragment
-   * @param {String} description
-   * @param {String} tutorial
+   * @param {Specification} [specification]
+   * @param {String} [code]
+   * @param {String} [target]
+   * @param {String} [definitionFragment]
+   * @param {String} [description]
+   * @param {String} [tutorial]
    */
   constructor(specification, code, target, definitionFragment, description, tutorial) {
 
@@ -28,7 +28,7 @@ class Target {
     return {
       specificationID: this.specification.id,
       specificationSelector: this.specification.selector,
-      classID: this.specification.classID,
+      suiteID: this.specification.suiteID,
       targetCode: this.code,
       targetName: this.target,
       targetURL: this.url,

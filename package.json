@@ -12,7 +12,7 @@
     "ci": "npm run build && npm run test:cov && npm run coverage && npm run docs",
     "clean": "trash output && trash test/output",
     "coverage": "coveralls < coverage/lcov.info",
-    "docs": "trash docs && jsdoc . ./src/index.js ./src ./README.md -d docs -t node_modules/docdash -c jsdoc.config.json",
+    "docs": "trash docs && jsdoc -c jsdoc.json",
     "test": "jest",
     "test:cov": "jest --coverage"
   },
@@ -20,22 +20,22 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^1.0.0-rc.5",
+    "cheerio": "^1.0.0-rc.10",
     "cross-env": "^7.0.3",
-    "debug": "^4.3.1",
-    "fs-extra": "^9.1.0",
-    "json2csv": "^5.0.5",
-    "trash": "^7.1.0",
+    "debug": "^4.3.2",
+    "fs-extra": "^10.0.0",
+    "json2csv": "^5.0.6",
+    "trash": "^7.2.0",
     "xml-js": "^1.6.11",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
-    "@types/cheerio": "^0.22.23",
-    "@types/jest": "^26.0.20",
-    "coveralls": "^3.1.0",
-    "docdash": "^1.2.0",
-    "jest": "^26.6.3",
-    "jsdoc": "^3.6.6",
+    "@types/cheerio": "^0.22.30",
+    "@types/jest": "^26.0.24",
+    "coveralls": "^3.1.1",
+    "jest": "^27.0.6",
+    "jsdoc": "^3.6.7",
+    "jsdoc-template": "github:cdmgtri/jsdoc-template",
     "trash-cli": "^4.0.0"
   }
 }
