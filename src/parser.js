@@ -5,7 +5,6 @@ let debug = require("debug")("niem");
 let Rule = require("./rule");
 let Definition = require("./definition");
 let Section = require("./section");
-let Target = require("./target");
 
 /**
  * @private
@@ -52,7 +51,7 @@ class Parser {
 
     let notFound = this.html ? "" : " - specification HTML not found";
 
-    console.log(`${this.spec.id} (${this.spec.rules.length} rules, ${this.spec.defs.length} defs) ${notFound}`);
+    // console.log(`${this.spec.id} (${this.spec.rules.length} rules, ${this.spec.defs.length} defs) ${notFound}`);
 
   }
 
@@ -165,7 +164,7 @@ class Parser {
     }
 
     // Append a blockquote
-    if (object.text.endsWith(":")) {
+    if (object.text.trim().endsWith(":")) {
       object.text += " " + $(node).find("> blockquote").text();
       object.text += " " + $(node).next("blockquote").text();
     }

@@ -1,7 +1,5 @@
 
-let fs = require("fs-extra");
 let json2csv = require("json2csv");
-let path = require("path");
 let trash = require("trash");
 let xmlConverter = require("xml-js");
 let yaml = require("yamljs");
@@ -75,6 +73,9 @@ class Utils {
    * Reads the specification html file in the specifications directory with the given tag and version
    */
   static readSpecificationHTMLText(tag, version) {
+    let fs = require("fs-extra");
+    let path = require("path");
+
     let filePath = path.resolve(__dirname, `../specifications/${tag}-${version}.html`);
     try {
       let html = fs.readFileSync(filePath, {encoding: "utf8"});
@@ -91,6 +92,9 @@ class Utils {
    * @returns {Object}
    */
   static readYAML(filePath) {
+    let fs = require("fs-extra");
+    let path = require("path");
+
     let normalizedPath = path.join(__dirname, filePath);
     let text = fs.readFileSync(normalizedPath, "utf-8");
     return yaml.parse(text);
@@ -105,6 +109,9 @@ class Utils {
    * @param {"rules"|"defs"|"targets"|"suites"|"specs"} [style] - Used to generate additional XML tags to wrap the data
    */
   static save(fileName, data, folder="./output/", style) {
+
+    let fs = require("fs-extra");
+    let path = require("path");
 
     let originalJSON = JSON.stringify(data);
     let convertedData = JSON.parse(originalJSON);
@@ -134,6 +141,7 @@ class Utils {
    * Sends files in the given folder to the OS-specific recycle bin.
    */
   static async trash(folder) {
+    let path = require("path");
     let normalizedPath = path.resolve(__dirname, folder);
     return trash(normalizedPath);
   }

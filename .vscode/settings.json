@@ -26,5 +26,12 @@
     "rdfs",
     "subsetting",
     "tsimport"
-  ]
+  ],
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "terminal.integrated.profiles.windows": {
+   "C:\\Program Files\\Git\\bin\\bash.exe": {
+    "path": "",
+    "args": []
+   }
+  }
 }

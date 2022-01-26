@@ -8,13 +8,22 @@ let Utils = require("../src/utils");
 /** @type {NIEMSpecificationLibrary} */
 let specLib;
 
+
+describe("Test with info parsed from HTML files", () => {
+  runTests(true);
+});
+
+describe("Test with pre-parsed info", () => {
+  runTests(false);
+});
+
 /**
  * Test that the newly-generated rule and definition files match the expected ones in the output directory
  */
-describe("Specification checks", () => {
+function runTests(parseHTML) {
 
   beforeAll( () => {
-    specLib = NIEMSpecificationLibrary.parse("./test/output");
+    specLib = NIEMSpecificationLibrary.parse("./test/output", parseHTML);
   });
 
   test("#compare files", () => {
@@ -45,10 +54,10 @@ describe("Specification checks", () => {
    */
   test("#check for truncated text", () => {
 
-    let ruleErrors = specLib.rules.filter( rule => rule.text.endsWith(":") );
+    let ruleErrors = specLib.rules.filter( rule => rule.text.trim().endsWith(":") );
     expect(ruleErrors.length).toBe(0);
 
-    let defErrors = specLib.definitions.filter( def => def.text.endsWith(":") );
+    let defErrors = specLib.definitions.filter( def => def.text.trim().endsWith(":") );
     expect(defErrors.length).toBe(0);
 
   });
@@ -80,7 +89,8 @@ describe("Specification checks", () => {
     expect(lib.targets.length).toBeGreaterThan(15);
   });
 
-});
+}
+
 
 /**
  * Compares the generated specification and specification class rule and definitions files with
@@ -112,12 +122,12 @@ function checkCounts(specificationID, expectedRuleCount, expectedDefinitionCount
  */
 function checkOutput(fileName) {
 
-  let testJSON = fs.readFileSync(`./test/output/json/${fileName}.json`, "utf8");
-  let expectedJSON = fs.readFileSync(`./output/json/${fileName}.json`, "utf8");
+  let testJSON = fs.readFileSync(`./test/output/json/${fileName}.json`, "utf8").replace(/  +/g, " ");
+  let expectedJSON = fs.readFileSync(`./output/json/${fileName}.json`, "utf8").replace(/  +/g, " ");
   expect(testJSON).toEqual(expectedJSON);
 
-  let testYAML = fs.readFileSync(`./test/output/yaml/${fileName}.yaml`, "utf8");
-  let expectedYAML = fs.readFileSync(`./output/yaml/${fileName}.yaml`, "utf8");
+  let testYAML = fs.readFileSync(`./test/output/yaml/${fileName}.yaml`, "utf8").replace(/  +/g, " ");
+  let expectedYAML = fs.readFileSync(`./output/yaml/${fileName}.yaml`, "utf8").replace(/  +/g, " ");
   expect(testYAML).toEqual(expectedYAML);
 
 }

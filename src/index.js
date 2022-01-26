@@ -4,6 +4,9 @@ let utils = require("./utils");
 let Suite = require("./suite");
 let Specification = require("./specification");
 let Target = require("./target");
+let Rule = require("./rule");
+let Definition = require("./definition");
+let Section = require("./section");
 
 /**
  * Information about the set of NIEM specifications.
@@ -27,22 +30,33 @@ class NIEMSpecificationLibrary {
   /**
    * Loads metadata about specification suites and individual versioned specifications
    * from the information in the `/data` directory.
+   *
+   * @param {boolean} [parseHTML=false]
    */
-  load() {
-    this.loadSuiteMetadata();
-    this.loadSpecificationMetadata();
-    this.loadTargets();
+  load(parseHTML=false) {
+    this.loadSuiteMetadata(parseHTML);
+    this.loadSpecificationMetadata(parseHTML);
+    this.loadTargets(parseHTML);
   }
 
   /**
    * Loads metadata about specification suites from `/data/suites.yaml`.
+   *
+   * @param {boolean} [parseHTML=false]
    */
-  loadSuiteMetadata() {
+  loadSuiteMetadata(parseHTML=false) {
 
-    let metadata = utils.readYAML("../data/suites.yaml");
+    let metadata = require("../output/json/niem-suites.json");
+
+    if (parseHTML) {
+      // Load metadata from data files
+      // @ts-ignore
+      metadata = utils.readYAML("../data/suites.yaml");
+    }
 
     metadata.forEach( entry => {
 
+      // @ts-ignore
       this.suitesObject[entry.id] = new Suite(entry.id, entry.name, entry.repo, entry.landingPage, entry.issueTracker, entry.tutorial, entry.changeHistory, entry.description, entry.note);
 
     });
@@ -51,15 +65,22 @@ class NIEMSpecificationLibrary {
 
   /**
    * Loads metadata about specifications from `/data/specifications.yaml`.
+   *
+   * @param {boolean} [parseHTML=false]
    */
-  loadSpecificationMetadata() {
+  loadSpecificationMetadata(parseHTML=false) {
 
-    let metadata = utils.readYAML("../data/specifications.yaml");
+    let metadata = require("../output/json/niem-specs.json");
+
+    if (parseHTML) {
+      // @ts-ignore
+      metadata = utils.readYAML("../data/specifications.yaml");
+    }
 
     metadata.forEach( entry => {
 
       // Get the text from the HTML specification
-      let html = utils.readSpecificationHTMLText(entry.suiteID, entry.version);
+      let html = parseHTML ? utils.readSpecificationHTMLText(entry.suiteID, entry.specVersion) : "";
 
       // Find the corresponding suite for this specification
       let suite = this.suitesObject[entry.suiteID];
@@ -68,12 +89,45 @@ class NIEMSpecificationLibrary {
       let SpecializedSpecificationConstructor = this.specificationConstructors[entry.suiteID];
 
       /** @type {Specification} */
-      let specification = new SpecializedSpecificationConstructor(suite, entry.version, entry.url, entry.year, entry.applicableReleases, entry.changeHistory, entry.resources, entry.examples, entry.status, html);
+      let specification = new SpecializedSpecificationConstructor(suite, entry.specVersion, entry.specURL, entry.specYear, entry.specApplicableReleases, entry.specChangeHistory, entry.specResources, entry.specExamples, entry.specStatus, html);
+
 
       // Add the specification to its series
       suite.specifications.push(specification);
 
     });
+
+    // Load pre-parsed rules and definitions
+    if (!parseHTML) {
+      this.loadParsedRulesDefs();
+    }
+
+  }
+
+  loadParsedRulesDefs() {
+
+    let ruleData = require("../output/json/niem-rules.json");
+
+    for (let entry of ruleData) {
+      let spec = this.specification(entry.specificationID);
+      let section = new Section(spec, entry.sectionID, entry.sectionLabel);
+
+      // @ts-ignore
+      let rule = new Rule(spec, section, entry.ruleNumber, entry.ruleTitle, entry.ruleName, entry.ruleTargets, entry.ruleClassification, entry.ruleStyle, entry.ruleText, "");
+
+      spec.rules.push(rule);
+    }
+
+    let definitionData = require("../output/json/niem-defs.json");
+
+    for (let entry of definitionData) {
+      let spec = this.specification(entry.specificationID);
+      let section = new Section(spec, entry.sectionID, entry.sectionLabel);
+
+      let def = new Definition(spec, section, entry.definitionID, entry.definitionTerm, entry.definitionText, entry.definitionLocal);
+
+      spec.defs.push(def);
+    }
 
   }
 
@@ -82,38 +136,45 @@ class NIEMSpecificationLibrary {
    *
    * Default targets are defined for a suite but can be overridden by a specific
    * version of a specification when it differs from the default.
+   *
+   * @param {boolean} [parseHTML=false]
    */
-  loadTargets() {
+  loadTargets(parseHTML=false) {
 
-    /** @type {Object[]} */
-    let metadata = utils.readYAML("../data/targets.yaml");
+    let metadata = require("../output/json/niem-targets.json");
 
+    if (parseHTML) {
+      // @ts-ignore
+      metadata = utils.readYAML("../data/targets.yaml");
+    }
 
-    metadata.forEach( entry => {
+    for (let entry of metadata) {
 
-      let target = new Target( null, entry.code, entry.target, entry.definitionFragment, entry.description, entry.tutorial);
+      // @ts-ignore
+      let definitionFragment = entry.targetDefinitionFragment || entry?.targetURL.split("#")[1];
+      let target = new Target( null, entry.targetCode, entry.targetName, definitionFragment, entry.targetDescription, entry.targetTutorial);
 
-      if (entry.suiteID) {
+      if (parseHTML && entry.suiteID) {
         // Add suite-default targets to specifications that do not override the defaults
         let specs = this.suite(entry.suiteID).specifications;
-        specs.forEach( spec => {
+        for (let spec of specs) {
           // Add target to spec if that spec does not override the suite defaults
-          if (!metadata.some( entry => entry.specID == spec.id )) {
+          if (!metadata.some( entry => entry.specificationID == spec.id )) {
             // Make sure to create a separate target object per spec
             let specTarget = Object.assign(new Target(), target);
             specTarget.specification = spec;
             spec.targets.push(specTarget);
           }
-        });
+        }
       }
       else {
         // Add specification-specific target
-        let spec = this.specification(entry.specID);
+        let spec = this.specification(entry.specificationID);
         target.specification = spec;
         spec.targets.push(target);
       }
 
-    });
+    }
 
   }
 
@@ -214,10 +275,11 @@ class NIEMSpecificationLibrary {
    * Loads and parses NIEM specifications, and saves rules and definitions.
    *
    * @param {String} [folder='./output/'] - Folder to save output files.  Defaults to /output.
+   * @param {boolean} [parseHTML=false]
    */
-  static parse(folder="./output/") {
+  static parse(folder="./output/", parseHTML=false) {
     let specsLib = new NIEMSpecificationLibrary();
-    specsLib.load();
+    specsLib.load(parseHTML);
     specsLib.save(folder);
     return specsLib;
   }

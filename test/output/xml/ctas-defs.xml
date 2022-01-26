@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<definitions>
+  <definition>
+    <specificationID>CTAS-3.0</specificationID>
+    <specificationSelector>CTAS-3_0</specificationSelector>
+    <suiteID>CTAS</suiteID>
+    <sectionID>section_3.1</sectionID>
+    <sectionLabel>Section 3.1. Conformance Target Defined</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1</sectionURL>
+    <definitionID>definition_conformance_target</definitionID>
+    <definitionUID>CTAS-3.0-definition_conformance_target</definitionUID>
+    <definitionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#definition_conformance_target</definitionURL>
+    <definitionTerm>conformance target</definitionTerm>
+    <definitionText>A conformance target is a class of artifact, such as an interface, protocol, document, platform, process or service, that is the subject of conformance clauses and normative statements. There may be several conformance targets defined within a specification, and these targets may be diverse so as to reflect different aspects of a specification. For example, a protocol message and a protocol engine may be different conformance targets.</definitionText>
+    <definitionLocal>true</definitionLocal>
+    <definitionStatus>current</definitionStatus>
+  </definition>
+  <definition>
+    <specificationID>CTAS-3.0</specificationID>
+    <specificationSelector>CTAS-3_0</specificationSelector>
+    <suiteID>CTAS</suiteID>
+    <sectionID>section_3.1</sectionID>
+    <sectionLabel>Section 3.1. Conformance Target Defined</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.1</sectionURL>
+    <definitionID>definition_conformance_target_identifier</definitionID>
+    <definitionUID>CTAS-3.0-definition_conformance_target_identifier</definitionUID>
+    <definitionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#definition_conformance_target_identifier</definitionURL>
+    <definitionTerm>conformance target identifier</definitionTerm>
+    <definitionText>A conformance target identifier is an internationalized resource identifier that uniquely identifies a conformance target.</definitionText>
+    <definitionLocal>true</definitionLocal>
+    <definitionStatus>current</definitionStatus>
+  </definition>
+  <definition>
+    <specificationID>CTAS-3.0</specificationID>
+    <specificationSelector>CTAS-3_0</specificationSelector>
+    <suiteID>CTAS</suiteID>
+    <sectionID>section_3.2</sectionID>
+    <sectionLabel>Section 3.2. Conformance to this Specification</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_3.2</sectionURL>
+    <definitionID>definition_conformant_document</definitionID>
+    <definitionUID>CTAS-3.0-definition_conformant_document</definitionUID>
+    <definitionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#definition_conformant_document</definitionURL>
+    <definitionTerm>conformant document</definitionTerm>
+    <definitionText>A conformant document is a document that uses the conformance targets attribute defined by this specification to express a claim that it conforms to specific conformance targets. A conformant document MUST satisfy all rules in this specification for conformant documents.</definitionText>
+    <definitionLocal>true</definitionLocal>
+    <definitionStatus>current</definitionStatus>
+  </definition>
+  <definition>
+    <specificationID>CTAS-3.0</specificationID>
+    <specificationSelector>CTAS-3_0</specificationSelector>
+    <suiteID>CTAS</suiteID>
+    <sectionID>section_4</sectionID>
+    <sectionLabel>Section 4. Semantics and Use</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4</sectionURL>
+    <definitionID>definition_effective_conformance_target_identifier</definitionID>
+    <definitionUID>CTAS-3.0-definition_effective_conformance_target_identifier</definitionUID>
+    <definitionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#definition_effective_conformance_target_identifier</definitionURL>
+    <definitionTerm>effective conformance target identifier</definitionTerm>
+    <definitionText>An effective conformance target identifier of a conformant document is an internationalized resource identifier reference that occurs in the document's effective conformance targets attribute.</definitionText>
+    <definitionLocal>true</definitionLocal>
+    <definitionStatus>current</definitionStatus>
+  </definition>
+  <definition>
+    <specificationID>CTAS-3.0</specificationID>
+    <specificationSelector>CTAS-3_0</specificationSelector>
+    <suiteID>CTAS</suiteID>
+    <sectionID>section_4</sectionID>
+    <sectionLabel>Section 4. Semantics and Use</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#section_4</sectionURL>
+    <definitionID>definition_effective_conformance_targets_attribute</definitionID>
+    <definitionUID>CTAS-3.0-definition_effective_conformance_targets_attribute</definitionUID>
+    <definitionURL>https://reference.niem.gov/niem/specification/conformance-targets-attribute/3.0/NIEM-CTAS-3.0-2014-07-31.html#definition_effective_conformance_targets_attribute</definitionURL>
+    <definitionTerm>effective conformance targets attribute</definitionTerm>
+    <definitionText>The effective conformance targets attribute of a conformant document is the first occurrence of the attribute {http://release.niem.gov/niem/conformanceTargets/3.0/}conformanceTargets, in document order.</definitionText>
+    <definitionLocal>true</definitionLocal>
+    <definitionStatus>current</definitionStatus>
+  </definition>
+</definitions>

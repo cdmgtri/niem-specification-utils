@@ -1,0 +1,2212 @@
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.9.1
+    sectionLabel: 'Section 10.9.1. The NIEM appinfo namespace'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9.1'
+    definitionID: definition_appinfo_namespace
+    definitionUID: NDR-3.0-definition_appinfo_namespace
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_appinfo_namespace'
+    definitionTerm: 'appinfo namespace'
+    definitionText: 'The appinfo namespace is the namespace represented by the URI http://release.niem.gov/niem/appinfo/3.0/.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.9
+    sectionLabel: 'Section 10.9. Machine-readable annotations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9'
+    definitionID: definition_application_information
+    definitionUID: NDR-3.0-definition_application_information
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_application_information'
+    definitionTerm: 'application information'
+    definitionText: 'A component is said to have application information of some element $element when the XML Schema element that defines the component has an immediate child element xs:annotation, which has an immediate child element xs:appinfo, which has as an immediate child the element $element.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.3'
+    definitionID: definition_association
+    definitionUID: NDR-3.0-definition_association
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_association'
+    definitionTerm: association
+    definitionText: 'In a NIEM-conformant schema, an association is an element whose type is an association type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.3'
+    definitionID: definition_association_type
+    definitionUID: NDR-3.0-definition_association_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_association_type'
+    definitionTerm: 'association type'
+    definitionText: 'In a NIEM-conformant schema, an association type is a type that establishes a relationship between objects, along with the properties of that relationship. An association type provides a structure that does not establish existence of an object but instead specifies relationships between objects.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.3'
+    definitionID: definition_attribute
+    definitionUID: NDR-3.0-definition_attribute
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_attribute'
+    definitionTerm: attribute
+    definitionText: 'An attribute is an attribute information item, as defined by [XML Infoset] Section 2.3, Attribute Information Items'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.4.1
+    sectionLabel: 'Section 10.4.1. Augmentable types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.1'
+    definitionID: definition_augmentable_type
+    definitionUID: NDR-3.0-definition_augmentable_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_augmentable_type'
+    definitionTerm: 'augmentable type'
+    definitionText: 'An augmentable type is complex type definition that is defined by either a reference schema document or by an extension schema document, and is either an association type, or an object type that has complex content and is not an external adapter type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.4
+    sectionLabel: 'Section 10.4. Augmentations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4'
+    definitionID: definition_augmentation
+    definitionUID: NDR-3.0-definition_augmentation
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_augmentation'
+    definitionTerm: augmentation
+    definitionText: 'An augmentation is an element that is a child of an element that is an instance of an augmentable type, and is a member of the substitution group of the augmentation point element declaration for the augmentable type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.4.4
+    sectionLabel: 'Section 10.4.4. Augmentation types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.4'
+    definitionID: definition_augmentation_element_declaration
+    definitionUID: NDR-3.0-definition_augmentation_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_augmentation_element_declaration'
+    definitionTerm: 'augmentation element declaration'
+    definitionText: 'An augmentation element declaration is an element declaration that has a type that is an augmentation type, and carries elements that establish a relationship to its parent object or association is designed to be used as an augmentation of its parent object or association'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.4.4
+    sectionLabel: 'Section 10.4.4. Augmentation types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.4.4'
+    definitionID: definition_augmentation_type
+    definitionUID: NDR-3.0-definition_augmentation_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_augmentation_type'
+    definitionTerm: 'augmentation type'
+    definitionText: 'An augmentation type is a complex type definition that provides elements that establish relationships to a base object or association, rather than to the instance of the augmentation type itself, and is designed to be the type of an augmentation element declaration.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1'
+    definitionID: definition_base_type_definition
+    definitionUID: NDR-3.0-definition_base_type_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_base_type_definition'
+    definitionTerm: 'base type definition'
+    definitionText: 'The term base type definition is as defined by [XML Schema Structures] Section 2.2.1.1, Type Definition Hierarchy, which states:A type definition used as the basis for an extension or restriction is known as the base type definition of that definition.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_11.1.2.3
+    sectionLabel: 'Section 11.1.2.3. Code simple types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_11.1.2.3'
+    definitionID: definition_code_simple_type
+    definitionUID: NDR-3.0-definition_code_simple_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_code_simple_type'
+    definitionTerm: 'code simple type'
+    definitionText: 'A code simple type is a simple type definition schema component that is constrained by one or more enumeration facets.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.2.4
+    sectionLabel: 'Section 10.2.4. Code types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.4'
+    definitionID: definition_code_type
+    definitionUID: NDR-3.0-definition_code_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_code_type'
+    definitionTerm: 'code type'
+    definitionText: 'A code type is a NIEM object type with a content model that is constrained by one or more enumeration facets.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1'
+    definitionID: definition_complex_type_definition
+    definitionUID: NDR-3.0-definition_complex_type_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_complex_type_definition'
+    definitionTerm: 'complex type definition'
+    definitionText: 'The term complex type definition is as defined by [XML Schema Structures] Section 2.2.1.3, Complex Type Definition.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6'
+    definitionID: definition_conformance_target
+    definitionUID: NDR-3.0-definition_conformance_target
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformance_target'
+    definitionTerm: 'conformance target'
+    definitionText: 'The term conformance target is as defined by [CTAS], which states:A conformance target is a class of artifact, such as an interface, protocol, document, platform, process or service, that is the subject of conformance clauses and normative statements. There may be several conformance targets defined within a specification, and these targets may be diverse so as to reflect different aspects of a specification. For example, a protocol message and a protocol engine may be different conformance targets.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6'
+    definitionID: definition_conformance_target_identifier
+    definitionUID: NDR-3.0-definition_conformance_target_identifier
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformance_target_identifier'
+    definitionTerm: 'conformance target identifier'
+    definitionText: 'The term conformance target identifier is as defined by [CTAS], which states:A conformance target identifier is an internationalized resource identifier that uniquely identifies a conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_4.1.4
+    sectionLabel: 'Section 4.1.4. Instance documents and elements'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.4'
+    definitionID: definition_conformant_element_information_item
+    definitionUID: NDR-3.0-definition_conformant_element_information_item
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformant_element_information_item'
+    definitionTerm: 'conformant element information item'
+    definitionText: 'A conformant element information item is an element information item that satisfies all of the following criteria: Its [namespace name] and [local name] matches an element declared by a reference schema document or extension schema document. It occurs within a conformant instance XML document. It is locally schema-valid. It satisfies all rules specified in this document applicable to an element in a conformant instance XML document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_4.1.4
+    sectionLabel: 'Section 4.1.4. Instance documents and elements'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.4'
+    definitionID: definition_conformant_instance_XML_document
+    definitionUID: NDR-3.0-definition_conformant_instance_XML_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformant_instance_XML_document'
+    definitionTerm: 'conformant instance XML document'
+    definitionText: 'A conformant instance XML document is an XML document that is instance document valid to a conformant schema document set. It is a conformance target of this specification. A conformant instance XML document MUST conform to all rules of this specification that apply to this conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_4.1.3
+    sectionLabel: 'Section 4.1.3. Schema document set'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.3'
+    definitionID: definition_conformant_schema_document_set
+    definitionUID: NDR-3.0-definition_conformant_schema_document_set
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformant_schema_document_set'
+    definitionTerm: 'conformant schema document set'
+    definitionText: 'A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document. It is a conformance target of this specification. A conformant schema document set MUST conform to all rules of this specification that apply to this conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_2.4.1
+    sectionLabel: 'Section 2.4.1. Rules'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4.1'
+    definitionID: definition_constraint_rule
+    definitionUID: NDR-3.0-definition_constraint_rule
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_constraint_rule'
+    definitionTerm: 'constraint rule'
+    definitionText: 'A constraint rule is a rule that sets a requirement on an artifact with respect to its conformance to a conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_12.1
+    sectionLabel: 'Section 12.1. Content elements'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_12.1'
+    definitionID: definition_content_element
+    definitionUID: NDR-3.0-definition_content_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_content_element'
+    definitionTerm: 'content element'
+    definitionText: 'A content element is an element information item that does not contain an attribute structures:ref. A content element expresses its value as text and element content of the element information item.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_7.4
+    sectionLabel: 'Section 7.4. ISO 11179 Part 4'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_7.4'
+    definitionID: definition_data_definition
+    definitionUID: NDR-3.0-definition_data_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_data_definition'
+    definitionTerm: 'data definition'
+    definitionText: 'The data definition of a schema component is the content of the first occurrence of the element xs:documentation that is an immediate child of an occurrence of an element xs:annotation that is an immediate child of the element that defines the component.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.9.1.1
+    sectionLabel: 'Section 10.9.1.1. Deprecation'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9.1.1'
+    definitionID: definition_deprecated_component
+    definitionUID: NDR-3.0-definition_deprecated_component
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_deprecated_component'
+    definitionTerm: 'deprecated component'
+    definitionText: 'A deprecated component is one that developers are discouraged from using, typically because a better alternative exists, yet which is maintained in the schema for compatibility with previous versions of the namespace.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_7.4
+    sectionLabel: 'Section 7.4. ISO 11179 Part 4'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_7.4'
+    definitionID: definition_documented_component
+    definitionUID: NDR-3.0-definition_documented_component
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_documented_component'
+    definitionTerm: 'documented component'
+    definitionText: 'In a NIEM-conformant schema, a documented component is schema component that has an associated data definition. Each documented component has a textual definition, so that the component may be well-understood.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.6'
+    definitionID: definition_effective_conformance_target_identifier
+    definitionUID: NDR-3.0-definition_effective_conformance_target_identifier
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_effective_conformance_target_identifier'
+    definitionTerm: 'effective conformance target identifier'
+    definitionText: 'The term effective conformance target identifier is as defined by [CTAS] Section 4, Semantics and Use, which states:An effective conformance target identifier of a conformant document is an internationalized resource identifier reference that occurs in the document’s effective conformance targets attribute.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.3'
+    definitionID: definition_element
+    definitionUID: NDR-3.0-definition_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_element'
+    definitionTerm: element
+    definitionText: 'An element is an element information item, as defined by [XML Infoset] Section 2.2, Element Information Items'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1'
+    definitionID: definition_element_declaration
+    definitionUID: NDR-3.0-definition_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_element_declaration'
+    definitionTerm: 'element declaration'
+    definitionText: 'The term element declaration is as defined by [XML Schema Structures] Section 2.2.2.1, Element Declaration.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_4.1.2
+    sectionLabel: 'Section 4.1.2. Extension schema document'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.2'
+    definitionID: definition_extension_schema_document
+    definitionUID: NDR-3.0-definition_extension_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_extension_schema_document'
+    definitionTerm: 'extension schema document'
+    definitionText: 'An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document. It is a conformance target of this specification. An extension schema document MUST conform to all rules of this specification that apply to this conformance target. An XML document with a conformance target identifier of http://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/#ExtensionSchemaDocument MUST be an extension schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.2.3.2
+    sectionLabel: 'Section 10.2.3.2. External adapter types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.3.2'
+    definitionID: definition_external_adapter_type
+    definitionUID: NDR-3.0-definition_external_adapter_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_external_adapter_type'
+    definitionTerm: 'external adapter type'
+    definitionText: 'An external adapter type is a NIEM-conformant type that adapts external components for use within NIEM. An external adapter type creates a new class of object that embodies a single concept composed of external components. A NIEM-conformant schema defines an external adapter type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.2.3
+    sectionLabel: 'Section 10.2.3. External adapter types and external components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.3'
+    definitionID: definition_external_schema_document
+    definitionUID: NDR-3.0-definition_external_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_external_schema_document'
+    definitionTerm: 'external schema document'
+    definitionText: 'An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_2.4
+    sectionLabel: 'Section 2.4. Normative and informative content'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4'
+    definitionID: definition_informative
+    definitionUID: NDR-3.0-definition_informative
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_informative'
+    definitionTerm: informative
+    definitionText: 'The term informative is as defined by [ConfReq] Section 7.2, Conformance by key words, which states:INFORMATIVE (NON-NORMATIVE) — statements provided for informational purposes, intended to assist the understanding or use of the specification and shall not contain provisions that are required for conformance.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_instance_document
+    definitionUID: NDR-3.0-definition_instance_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_instance_document'
+    definitionTerm: 'instance document'
+    definitionText: 'An instance document (of an XML Schema) is an XML document that is valid against the XML Schema.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_2.4.1
+    sectionLabel: 'Section 2.4.1. Rules'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4.1'
+    definitionID: definition_interpretation_rule
+    definitionUID: NDR-3.0-definition_interpretation_rule
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_interpretation_rule'
+    definitionTerm: 'interpretation rule'
+    definitionText: 'An interpretation rule is a rule that sets the methodology, pattern, or procedure for understanding some aspect of an instance of a conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.8.2.1
+    sectionLabel: 'Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.8.2.1'
+    definitionID: definition_local_term
+    definitionUID: NDR-3.0-definition_local_term
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_local_term'
+    definitionTerm: 'local term'
+    definitionText: 'In a conformant schema document, a local term is a word, phrase, acronym, or other string of characters for which all of the following are true: It is not a term defined in the [OED], or it has a non-OED definition, or its word sense may not be clear. It is introduced into the schema document via an appinfo element with a [namespace name] of the local terminology appinfo namespace. It is used in the local name of a schema component within the schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.8.2.1
+    sectionLabel: 'Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.8.2.1'
+    definitionID: definition_local_terminology_appinfo_namespace
+    definitionUID: NDR-3.0-definition_local_terminology_appinfo_namespace
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_local_terminology_appinfo_namespace'
+    definitionTerm: 'local terminology appinfo namespace'
+    definitionText: 'The local terminology appinfo namespace is the XML Schema namespace represented by the URI http://release.niem.gov/niem/localTerminology/3.0/.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.9
+    sectionLabel: 'Section 10.9. Machine-readable annotations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.9'
+    definitionID: definition_machine-readable_annotation
+    definitionUID: NDR-3.0-definition_machine-readable_annotation
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_machine-readable_annotation'
+    definitionTerm: 'machine-readable annotation'
+    definitionText: 'An information item within a schema is defined to be a machine-readable annotation when all of the following are true: It is one of the following: It is an element information item that is a child of an xs:appinfo element. It is an attribute information item that satisfies the {any attributes with non- schema namespace . . .} clause within the declaration of an XML Schema element. The namespace name property of the item is not the XML namespace, XML Schema namespace, or the XSI namespace.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.5.2
+    sectionLabel: 'Section 10.5.2. Metadata element declarations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.5.2'
+    definitionID: definition_metadata_element_declaration
+    definitionUID: NDR-3.0-definition_metadata_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_metadata_element_declaration'
+    definitionTerm: 'metadata element declaration'
+    definitionText: 'A metadata element declaration is an element declaration defined by a reference schema document or an extension schema document that defines a metadata object. A metadata element declaration has a name ending in Metadata, and a {type definition} that is a metadata type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.5.1
+    sectionLabel: 'Section 10.5.1. Metadata types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.5.1'
+    definitionID: definition_metadata_type
+    definitionUID: NDR-3.0-definition_metadata_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_metadata_type'
+    definitionTerm: 'metadata type'
+    definitionText: 'A metadata type describes data about data, that is, information that is not descriptive of objects and their relationships, but is descriptive of the data itself. It is useful to provide a general mechanism for data about data. This provides required flexibility to precisely represent information.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_2.4
+    sectionLabel: 'Section 2.4. Normative and informative content'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_2.4'
+    definitionID: definition_normative
+    definitionUID: NDR-3.0-definition_normative
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_normative'
+    definitionTerm: normative
+    definitionText: 'The term normative is as defined by [ConfReq] Section 7.2, Conformance by key words, which states:NORMATIVE — statements provided for the prescriptive parts of the specification, providing that which is necessary in order to be able to claim conformance to the specification.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.2.1
+    sectionLabel: 'Section 10.2.1. General object types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.1'
+    definitionID: definition_object_type
+    definitionUID: NDR-3.0-definition_object_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_object_type'
+    definitionTerm: 'object type'
+    definitionText: 'In a NIEM-conformant schema, an object type is a complex type definition, an instance of which asserts the existence of an object. An object type represents some kind of object: a thing with its own lifespan that has some existence. The object may or may not be a physical object. It may be a conceptual object.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_12.2
+    sectionLabel: 'Section 12.2. Reference elements'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_12.2'
+    definitionID: definition_reference_element
+    definitionUID: NDR-3.0-definition_reference_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_reference_element'
+    definitionTerm: 'reference element'
+    definitionText: 'A reference element is an element information item that has an attribute structures:ref. A reference element refers to its value by reference, instead of carrying it as content.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_4.1.1
+    sectionLabel: 'Section 4.1.1. Reference schema document'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_4.1.1'
+    definitionID: definition_reference_schema_document
+    definitionUID: NDR-3.0-definition_reference_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_reference_schema_document'
+    definitionTerm: 'reference schema document'
+    definitionText: 'A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components. It is a conformance target of this specification. A reference schema document MUST conform to all rules of this specification that apply to this conformance target. An XML document with a conformance target identifier of http://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/#ReferenceSchemaDocument MUST be a conformant reference schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10
+    sectionLabel: 'Section 10. Rules for NIEM modeling, by NIEM concept'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10'
+    definitionID: definition_representation_element_declaration
+    definitionUID: NDR-3.0-definition_representation_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_representation_element_declaration'
+    definitionTerm: 'representation element declaration'
+    definitionText: 'A representation element declaration is an element declaration that is abstract, and that has a {name} that ends in Representation.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_5.6.4
+    sectionLabel: 'Section 5.6.4. Resolved element'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_5.6.4'
+    definitionID: definition_resolved_element_information_item
+    definitionUID: NDR-3.0-definition_resolved_element_information_item
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_resolved_element_information_item'
+    definitionTerm: 'resolved element information item'
+    definitionText: 'Within an XML document $document, for any element information item $element there is a resolved element information item, which is: If all of the following are true: $document is a conformant instance XML document. $element and $referent are conformant element information items within $document. $element owns attribute information item structures:ref with a value $ref. $referent owns attribute information item structures:id with a value $id. $ref is equal to $id.Then the resolved element information item for $element is $referent. Otherwise, the resolved element information item for $element is $element.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.2.2
+    sectionLabel: 'Section 10.2.2. Role types and roles'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.2'
+    definitionID: definition_role_type
+    definitionUID: NDR-3.0-definition_role_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_role_type'
+    definitionTerm: 'role type'
+    definitionText: 'A role type is an object type that represents a particular function, purpose, usage, or role of one or more objects of its base type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.2.2
+    sectionLabel: 'Section 10.2.2. Role types and roles'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.2.2'
+    definitionID: definition_RoleOf_element
+    definitionUID: NDR-3.0-definition_RoleOf_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_RoleOf_element'
+    definitionTerm: 'RoleOf element'
+    definitionText: 'A RoleOf element is an element declaration that is defined by a reference schema document or an extension schema document, and has a {name} that begins with RoleOf.A RoleOf element represents a base type for a role type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_schema_component
+    definitionUID: NDR-3.0-definition_schema_component
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_schema_component'
+    definitionTerm: 'schema component'
+    definitionText: 'The term schema component is as defined by [XML Schema Structures] Section 2.2, XML Schema Abstract Data Model, which states:Schema component is the generic term for the building blocks that comprise the abstract data model of the schema.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_schema_document
+    definitionUID: NDR-3.0-definition_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_schema_document'
+    definitionTerm: 'schema document'
+    definitionText: 'The term schema document is as defined by [XML Schema Structures] Section 3.1.2, XML Representations of Components, which states:A document in this form (i.e. a element information item) is a schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4.1'
+    definitionID: definition_simple_type_definition
+    definitionUID: NDR-3.0-definition_simple_type_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_simple_type_definition'
+    definitionTerm: 'simple type definition'
+    definitionText: 'The term simple type definition is as defined by [XML Schema Structures] Section 2.2.1.2, Simple Type Definition.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_10.10
+    sectionLabel: 'Section 10.10. NIEM structural facilities'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_10.10'
+    definitionID: definition_structures_namespace
+    definitionUID: NDR-3.0-definition_structures_namespace
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_structures_namespace'
+    definitionTerm: 'structures namespace'
+    definitionText: 'The structures namespace is the namespace represented by the URI http://release.niem.gov/niem/structures/3.0/.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_valid
+    definitionUID: NDR-3.0-definition_valid
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_valid'
+    definitionTerm: valid
+    definitionText: 'The term valid is as defined by [XML Schema Structures] Section 2.1, Overview of XML Schema, which states:[Definition:] the word valid and its derivatives are used to refer to clause 1 above, the determination of local schema-validity.The referenced clause 1 is a part of a description of schema-validity:Schema-validity assessment has two aspects: Determining local schema-validity, that is whether an element or attribute information item satisfies the constraints embodied in the relevant components of an XML Schema; Synthesizing an overall validation outcome for the item, combining local schema-validity with the results of schema-validity assessments of its descendants, if any, and adding appropriate augmentations to the infoset to record this outcome.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.2
+    sectionLabel: 'Section 3.2. XML terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.2'
+    definitionID: definition_XML_document
+    definitionUID: NDR-3.0-definition_XML_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_XML_document'
+    definitionTerm: 'XML document'
+    definitionText: 'The term XML document is as defined by [XML] Section 2, Documents, which states:A data object is an XML document if it is well-formed, as defined in this specification. In addition, the XML document is valid if it meets certain further constraints.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_XML_Schema
+    definitionUID: NDR-3.0-definition_XML_Schema
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_XML_Schema'
+    definitionTerm: 'XML Schema'
+    definitionText: 'The term XML Schema is as defined by [XML Schema Structures] Section 2.2, XML Schema Abstract Data Model, which states:An XML Schema is a set of schema components.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_XML_Schema_definition_language
+    definitionUID: NDR-3.0-definition_XML_Schema_definition_language
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_XML_Schema_definition_language'
+    definitionTerm: 'XML Schema definition language'
+    definitionText: 'The term XML Schema definition language is as defined by [XML Schema Structures] subsection Abstract, which states:XML Schema: Structures specifies the XML Schema definition language, which offers facilities for describing the structure and constraining the contents of XML 1.0 documents, including those which exploit the XML Namespace facility. The schema language, which is itself represented in XML 1.0 and uses namespaces, substantially reconstructs and considerably extends the capabilities found in XML 1.0 document type definitions (DTDs).'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-3.0
+    specificationSelector: NDR-3_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#section_3.4'
+    definitionID: definition_XML_Schema_document_set
+    definitionUID: NDR-3.0-definition_XML_Schema_document_set
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_XML_Schema_document_set'
+    definitionTerm: 'XML Schema document set'
+    definitionText: 'An XML Schema document set is a set of schema documents that together define an XML Schema suitable for assessing the validity of an XML document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.9.1
+    sectionLabel: 'Section 10.9.1. The NIEM appinfo namespace'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9.1'
+    definitionID: definition_appinfo_namespace
+    definitionUID: NDR-4.0-definition_appinfo_namespace
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_appinfo_namespace'
+    definitionTerm: 'appinfo namespace'
+    definitionText: 'The appinfo namespace is the namespace represented by the URI http://release.niem.gov/niem/appinfo/4.0/.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.9
+    sectionLabel: 'Section 10.9. Machine-readable annotations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9'
+    definitionID: definition_application_information
+    definitionUID: NDR-4.0-definition_application_information
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_application_information'
+    definitionTerm: 'application information'
+    definitionText: 'A component is said to have application information of some element $element when the XML Schema element that defines the component has an immediate child element xs:annotation, which has an immediate child element xs:appinfo, which has as an immediate child the element $element.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3'
+    definitionID: definition_association
+    definitionUID: NDR-4.0-definition_association
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_association'
+    definitionTerm: association
+    definitionText: 'An association is a conformant element information item that establishes a relationship between two or more objects, optionally including properties of that relationship. An association is an instance of an association element declaration, and has a type that is an association type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3'
+    definitionID: definition_association_element_declaration
+    definitionUID: NDR-4.0-definition_association_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_association_element_declaration'
+    definitionTerm: 'association element declaration'
+    definitionText: 'An association element declaration is an element declaration declared in a reference schema document or extension schema document that describes a relationship between two or more objects, optionally including properties of that relationship.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.3'
+    definitionID: definition_association_type
+    definitionUID: NDR-4.0-definition_association_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_association_type'
+    definitionTerm: 'association type'
+    definitionText: 'In a NIEM-conformant schema, an association type is a complex type definition defined in a reference schema document or extension schema document that establishes a relationship between two or more objects, optionally including the properties of that relationship.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3'
+    definitionID: definition_attribute
+    definitionUID: NDR-4.0-definition_attribute
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_attribute'
+    definitionTerm: attribute
+    definitionText: 'An attribute is an attribute information item, as defined by [XML Infoset] Section 2.3, Attribute Information Items'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.4.1
+    sectionLabel: 'Section 10.4.1. Augmentable types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.1'
+    definitionID: definition_augmentable_type
+    definitionUID: NDR-4.0-definition_augmentable_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_augmentable_type'
+    definitionTerm: 'augmentable type'
+    definitionText: 'An augmentable type is complex type definition that is defined by either a reference schema document or by an extension schema document, and is either an association type, or an object type that has complex content and is not an external adapter type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.4
+    sectionLabel: 'Section 10.4. Augmentations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4'
+    definitionID: definition_augmentation
+    definitionUID: NDR-4.0-definition_augmentation
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_augmentation'
+    definitionTerm: augmentation
+    definitionText: 'An augmentation is a conformant element information item that: is an instance of an augmentation element declaration, is a child of a conformant element information item that is an instance of an augmentable type, and appears in the instance as a substitution for an augmentation point element.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.4.4
+    sectionLabel: 'Section 10.4.4. Augmentation types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.4'
+    definitionID: definition_augmentation_element_declaration
+    definitionUID: NDR-4.0-definition_augmentation_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_augmentation_element_declaration'
+    definitionTerm: 'augmentation element declaration'
+    definitionText: 'An augmentation element declaration is an element declaration that has a type that is an augmentation type, and carries elements that establish a relationship to its parent object or association is designed to be used as an augmentation of its parent object or association'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.4.4
+    sectionLabel: 'Section 10.4.4. Augmentation types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.4.4'
+    definitionID: definition_augmentation_type
+    definitionUID: NDR-4.0-definition_augmentation_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_augmentation_type'
+    definitionTerm: 'augmentation type'
+    definitionText: 'An augmentation type is a complex type definition that provides elements that establish relationships to a base object or association, rather than to the instance of the augmentation type itself, and is designed to be the type of an augmentation element declaration.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1'
+    definitionID: definition_base_type_definition
+    definitionUID: NDR-4.0-definition_base_type_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_base_type_definition'
+    definitionTerm: 'base type definition'
+    definitionText: 'The term base type definition is as defined by [XML Schema Structures] Section 2.2.1.1, Type Definition Hierarchy, which states:A type definition used as the basis for an extension or restriction is known as the base type definition of that definition.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_11.1.2.3
+    sectionLabel: 'Section 11.1.2.3. Code simple types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_11.1.2.3'
+    definitionID: definition_code_simple_type
+    definitionUID: NDR-4.0-definition_code_simple_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_code_simple_type'
+    definitionTerm: 'code simple type'
+    definitionText: 'A code simple type is a simple type definition schema component for which each value carried by the type corresponds to an entry in a list of distinct conceptual entities.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.2.4
+    sectionLabel: 'Section 10.2.4. Code types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.4'
+    definitionID: definition_code_type
+    definitionUID: NDR-4.0-definition_code_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_code_type'
+    definitionTerm: 'code type'
+    definitionText: 'A code type is a NIEM object type for which each simple value carried by the type corresponds to an entry in a list of distinct conceptual entities.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1'
+    definitionID: definition_complex_type_definition
+    definitionUID: NDR-4.0-definition_complex_type_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_complex_type_definition'
+    definitionTerm: 'complex type definition'
+    definitionText: 'The term complex type definition is as defined by [XML Schema Structures] Section 2.2.1.3, Complex Type Definition.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6'
+    definitionID: definition_conformance_target
+    definitionUID: NDR-4.0-definition_conformance_target
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformance_target'
+    definitionTerm: 'conformance target'
+    definitionText: 'The term conformance target is as defined by [CTAS], which states:A conformance target is a class of artifact, such as an interface, protocol, document, platform, process or service, that is the subject of conformance clauses and normative statements. There may be several conformance targets defined within a specification, and these targets may be diverse so as to reflect different aspects of a specification. For example, a protocol message and a protocol engine may be different conformance targets.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6'
+    definitionID: definition_conformance_target_identifier
+    definitionUID: NDR-4.0-definition_conformance_target_identifier
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformance_target_identifier'
+    definitionTerm: 'conformance target identifier'
+    definitionText: 'The term conformance target identifier is as defined by [CTAS], which states:A conformance target identifier is an internationalized resource identifier that uniquely identifies a conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_4.1.4
+    sectionLabel: 'Section 4.1.4. Instance documents and elements'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.4'
+    definitionID: definition_conformant_element_information_item
+    definitionUID: NDR-4.0-definition_conformant_element_information_item
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformant_element_information_item'
+    definitionTerm: 'conformant element information item'
+    definitionText: 'A conformant element information item is an element information item that satisfies all of the following criteria: Its [namespace name] and [local name] matches an element declared by a reference schema document or extension schema document. It occurs within a conformant instance XML document. It is locally schema-valid. It satisfies all rules specified in this document applicable to an element in a conformant instance XML document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_4.1.4
+    sectionLabel: 'Section 4.1.4. Instance documents and elements'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.4'
+    definitionID: definition_conformant_instance_XML_document
+    definitionUID: NDR-4.0-definition_conformant_instance_XML_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformant_instance_XML_document'
+    definitionTerm: 'conformant instance XML document'
+    definitionText: 'A conformant instance XML document is an XML document that is instance document valid to a conformant schema document set. It is a conformance target of this specification. A conformant instance XML document MUST conform to all rules of this specification that apply to this conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_4.1.3
+    sectionLabel: 'Section 4.1.3. Schema document set'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.3'
+    definitionID: definition_conformant_schema_document_set
+    definitionUID: NDR-4.0-definition_conformant_schema_document_set
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformant_schema_document_set'
+    definitionTerm: 'conformant schema document set'
+    definitionText: 'A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document. It is a conformance target of this specification. A conformant schema document set MUST conform to all rules of this specification that apply to this conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_2.4.1
+    sectionLabel: 'Section 2.4.1. Rules'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4.1'
+    definitionID: definition_constraint_rule
+    definitionUID: NDR-4.0-definition_constraint_rule
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_constraint_rule'
+    definitionTerm: 'constraint rule'
+    definitionText: 'A constraint rule is a rule that sets a requirement on an artifact with respect to its conformance to a conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_7.4
+    sectionLabel: 'Section 7.4. ISO 11179 Part 4'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_7.4'
+    definitionID: definition_data_definition
+    definitionUID: NDR-4.0-definition_data_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_data_definition'
+    definitionTerm: 'data definition'
+    definitionText: 'The data definition of a schema component is the content of the first occurrence of the element xs:documentation that is an immediate child of an occurrence of an element xs:annotation that is an immediate child of the element that defines the component.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.9.1.1
+    sectionLabel: 'Section 10.9.1.1. Deprecation'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9.1.1'
+    definitionID: definition_deprecated_component
+    definitionUID: NDR-4.0-definition_deprecated_component
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_deprecated_component'
+    definitionTerm: 'deprecated component'
+    definitionText: 'A deprecated component is one that developers are discouraged from using, typically because a better alternative exists, yet which is maintained in the schema for compatibility with previous versions of the namespace.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3'
+    definitionID: definition_document_element
+    definitionUID: NDR-4.0-definition_document_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_document_element'
+    definitionTerm: 'document element'
+    definitionText: 'the value of the [document element] property of a document information item; preferred over the term root element.'
+    definitionLocal: false
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_7.4
+    sectionLabel: 'Section 7.4. ISO 11179 Part 4'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_7.4'
+    definitionID: definition_documented_component
+    definitionUID: NDR-4.0-definition_documented_component
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_documented_component'
+    definitionTerm: 'documented component'
+    definitionText: 'In a NIEM-conformant schema, a documented component is schema component that has an associated data definition. Each documented component has a textual definition, so that the component may be well-understood.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.6'
+    definitionID: definition_effective_conformance_target_identifier
+    definitionUID: NDR-4.0-definition_effective_conformance_target_identifier
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_effective_conformance_target_identifier'
+    definitionTerm: 'effective conformance target identifier'
+    definitionText: 'The term effective conformance target identifier is as defined by [CTAS] Section 4, Semantics and Use, which states:An effective conformance target identifier of a conformant document is an internationalized resource identifier reference that occurs in the document’s effective conformance targets attribute.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.3'
+    definitionID: definition_element
+    definitionUID: NDR-4.0-definition_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_element'
+    definitionTerm: element
+    definitionText: 'An element is an element information item, as defined by [XML Infoset] Section 2.2, Element Information Items'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1'
+    definitionID: definition_element_declaration
+    definitionUID: NDR-4.0-definition_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_element_declaration'
+    definitionTerm: 'element declaration'
+    definitionText: 'The term element declaration is as defined by [XML Schema Structures] Section 2.2.2.1, Element Declaration.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_4.1.2
+    sectionLabel: 'Section 4.1.2. Extension schema document'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.2'
+    definitionID: definition_extension_schema_document
+    definitionUID: NDR-4.0-definition_extension_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_extension_schema_document'
+    definitionTerm: 'extension schema document'
+    definitionText: 'An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document. It is a conformance target of this specification. An extension schema document MUST conform to all rules of this specification that apply to this conformance target. An XML document with a conformance target identifier of http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ExtensionSchemaDocument MUST be an extension schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.2.3.2
+    sectionLabel: 'Section 10.2.3.2. External adapter types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.3.2'
+    definitionID: definition_external_adapter_type
+    definitionUID: NDR-4.0-definition_external_adapter_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_external_adapter_type'
+    definitionTerm: 'external adapter type'
+    definitionText: 'An external adapter type is a NIEM-conformant type that adapts external components for use within NIEM. An external adapter type creates a new class of object that embodies a single concept composed of external components. A NIEM-conformant schema defines an external adapter type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.2.3
+    sectionLabel: 'Section 10.2.3. External adapter types and external components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.3'
+    definitionID: definition_external_schema_document
+    definitionUID: NDR-4.0-definition_external_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_external_schema_document'
+    definitionTerm: 'external schema document'
+    definitionText: 'An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_2.4
+    sectionLabel: 'Section 2.4. Normative and informative content'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4'
+    definitionID: definition_informative
+    definitionUID: NDR-4.0-definition_informative
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_informative'
+    definitionTerm: informative
+    definitionText: 'The term informative is as defined by [ConfReq] Section 7.2, Conformance by key words, which states:INFORMATIVE (NON-NORMATIVE) — statements provided for informational purposes, intended to assist the understanding or use of the specification and shall not contain provisions that are required for conformance.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_instance_document
+    definitionUID: NDR-4.0-definition_instance_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_instance_document'
+    definitionTerm: 'instance document'
+    definitionText: 'An instance document (of an XML Schema) is an XML document that is valid against the XML Schema.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_2.4.1
+    sectionLabel: 'Section 2.4.1. Rules'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4.1'
+    definitionID: definition_interpretation_rule
+    definitionUID: NDR-4.0-definition_interpretation_rule
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_interpretation_rule'
+    definitionTerm: 'interpretation rule'
+    definitionText: 'An interpretation rule is a rule that sets the methodology, pattern, or procedure for understanding some aspect of an instance of a conformance target.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.8.2.1
+    sectionLabel: 'Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.8.2.1'
+    definitionID: definition_local_term
+    definitionUID: NDR-4.0-definition_local_term
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_local_term'
+    definitionTerm: 'local term'
+    definitionText: 'In a conformant schema document, a local term is a word, phrase, acronym, or other string of characters for which all of the following are true: It is not a term defined in the [OED], or it has a non-OED definition, or its word sense may not be clear. It is introduced into the schema document via an appinfo element appinfo:LocalTerm. It may be used in the local name of a schema component within the schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.9
+    sectionLabel: 'Section 10.9. Machine-readable annotations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.9'
+    definitionID: definition_machine-readable_annotation
+    definitionUID: NDR-4.0-definition_machine-readable_annotation
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_machine-readable_annotation'
+    definitionTerm: 'machine-readable annotation'
+    definitionText: 'An information item within a schema is defined to be a machine-readable annotation when all of the following are true: It is one of the following: It is an element information item that is a child of an xs:appinfo element. It is an attribute information item that satisfies the {any attributes with non- schema namespace . . .} clause within the declaration of an XML Schema element. The namespace name property of the item is not the XML namespace, XML Schema namespace, or the XSI namespace.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.5.2
+    sectionLabel: 'Section 10.5.2. Metadata element declarations'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.5.2'
+    definitionID: definition_metadata_element_declaration
+    definitionUID: NDR-4.0-definition_metadata_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_metadata_element_declaration'
+    definitionTerm: 'metadata element declaration'
+    definitionText: 'A metadata element declaration is an element declaration defined by a reference schema document or an extension schema document that defines a metadata object. A metadata element declaration has a name ending in Metadata, and a {type definition} that is a metadata type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.5.1
+    sectionLabel: 'Section 10.5.1. Metadata types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.5.1'
+    definitionID: definition_metadata_type
+    definitionUID: NDR-4.0-definition_metadata_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_metadata_type'
+    definitionTerm: 'metadata type'
+    definitionText: 'A metadata type describes data about data, that is, information that is not descriptive of objects and their relationships, but is descriptive of the data itself. It is useful to provide a general mechanism for data about data. This provides required flexibility to precisely represent information.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_2.4
+    sectionLabel: 'Section 2.4. Normative and informative content'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_2.4'
+    definitionID: definition_normative
+    definitionUID: NDR-4.0-definition_normative
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_normative'
+    definitionTerm: normative
+    definitionText: 'The term normative is as defined by [ConfReq] Section 7.2, Conformance by key words, which states:NORMATIVE — statements provided for the prescriptive parts of the specification, providing that which is necessary in order to be able to claim conformance to the specification.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.2.1
+    sectionLabel: 'Section 10.2.1. General object types'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.1'
+    definitionID: definition_object_type
+    definitionUID: NDR-4.0-definition_object_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_object_type'
+    definitionTerm: 'object type'
+    definitionText: 'In a NIEM-conformant schema, an object type is a complex type definition, an instance of which asserts the existence of an object. An object type represents some kind of object: a thing with its own lifespan that has some existence. The object may or may not be a physical object. It may be a conceptual object.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_4.1.1
+    sectionLabel: 'Section 4.1.1. Reference schema document'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_4.1.1'
+    definitionID: definition_reference_schema_document
+    definitionUID: NDR-4.0-definition_reference_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_reference_schema_document'
+    definitionTerm: 'reference schema document'
+    definitionText: 'A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components. It is a conformance target of this specification. A reference schema document MUST conform to all rules of this specification that apply to this conformance target. An XML document with a conformance target identifier of http://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/#ReferenceSchemaDocument MUST be a conformant reference schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.7
+    sectionLabel: 'Section 10.7. The Representation pattern'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.7'
+    definitionID: definition_representation_element_declaration
+    definitionUID: NDR-4.0-definition_representation_element_declaration
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_representation_element_declaration'
+    definitionTerm: 'representation element declaration'
+    definitionText: 'A representation element declaration is an element declaration that is abstract, and that has a {name} that ends in Representation.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.2.2
+    sectionLabel: 'Section 10.2.2. Role types and roles'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.2'
+    definitionID: definition_role_type
+    definitionUID: NDR-4.0-definition_role_type
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_role_type'
+    definitionTerm: 'role type'
+    definitionText: 'A role type is an object type that represents a particular function, purpose, usage, or role of one or more objects of its base type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.2.2
+    sectionLabel: 'Section 10.2.2. Role types and roles'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.2.2'
+    definitionID: definition_RoleOf_element
+    definitionUID: NDR-4.0-definition_RoleOf_element
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_RoleOf_element'
+    definitionTerm: 'RoleOf element'
+    definitionText: 'A RoleOf element is an element declaration that is defined by a reference schema document or an extension schema document, and has a {name} that begins with RoleOf.A RoleOf element represents a base type for a role type.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_schema_component
+    definitionUID: NDR-4.0-definition_schema_component
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_schema_component'
+    definitionTerm: 'schema component'
+    definitionText: 'The term schema component is as defined by [XML Schema Structures] Section 2.2, XML Schema Abstract Data Model, which states:Schema component is the generic term for the building blocks that comprise the abstract data model of the schema.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_schema_document
+    definitionUID: NDR-4.0-definition_schema_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_schema_document'
+    definitionTerm: 'schema document'
+    definitionText: 'The term schema document is as defined by [XML Schema Structures] Section 3.1.2, XML Representations of Components, which states:A document in this form (i.e. a element information item) is a schema document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4.1'
+    definitionID: definition_simple_type_definition
+    definitionUID: NDR-4.0-definition_simple_type_definition
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_simple_type_definition'
+    definitionTerm: 'simple type definition'
+    definitionText: 'The term simple type definition is as defined by [XML Schema Structures] Section 2.2.1.2, Simple Type Definition.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_10.10
+    sectionLabel: 'Section 10.10. NIEM structural facilities'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_10.10'
+    definitionID: definition_structures_namespace
+    definitionUID: NDR-4.0-definition_structures_namespace
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_structures_namespace'
+    definitionTerm: 'structures namespace'
+    definitionText: 'The structures namespace is the namespace represented by the URI http://release.niem.gov/niem/structures/4.0/.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_valid
+    definitionUID: NDR-4.0-definition_valid
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_valid'
+    definitionTerm: valid
+    definitionText: 'The term valid is as defined by [XML Schema Structures] Section 2.1, Overview of XML Schema, which states:[Definition:] the word valid and its derivatives are used to refer to clause 1 above, the determination of local schema-validity.The referenced clause 1 is a part of a description of schema-validity:Schema-validity assessment has two aspects: Determining local schema-validity, that is whether an element or attribute information item satisfies the constraints embodied in the relevant components of an XML Schema; Synthesizing an overall validation outcome for the item, combining local schema-validity with the results of schema-validity assessments of its descendants, if any, and adding appropriate augmentations to the infoset to record this outcome.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.2
+    sectionLabel: 'Section 3.2. XML terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.2'
+    definitionID: definition_XML_document
+    definitionUID: NDR-4.0-definition_XML_document
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_XML_document'
+    definitionTerm: 'XML document'
+    definitionText: 'The term XML document is as defined by [XML] Section 2, Documents, which states:A data object is an XML document if it is well-formed, as defined in this specification. In addition, the XML document is valid if it meets certain further constraints.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_XML_Schema
+    definitionUID: NDR-4.0-definition_XML_Schema
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_XML_Schema'
+    definitionTerm: 'XML Schema'
+    definitionText: 'The term XML Schema is as defined by [XML Schema Structures] Section 2.2, XML Schema Abstract Data Model, which states:An XML Schema is a set of schema components.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_XML_Schema_definition_language
+    definitionUID: NDR-4.0-definition_XML_Schema_definition_language
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_XML_Schema_definition_language'
+    definitionTerm: 'XML Schema definition language'
+    definitionText: 'The term XML Schema definition language is as defined by [XML Schema Structures] subsection Abstract, which states:XML Schema: Structures specifies the XML Schema definition language, which offers facilities for describing the structure and constraining the contents of XML 1.0 documents, including those which exploit the XML Namespace facility. The schema language, which is itself represented in XML 1.0 and uses namespaces, substantially reconstructs and considerably extends the capabilities found in XML 1.0 document type definitions (DTDs).'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-4.0
+    specificationSelector: NDR-4_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#section_3.4'
+    definitionID: definition_XML_Schema_document_set
+    definitionUID: NDR-4.0-definition_XML_Schema_document_set
+    definitionURL: 'https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_XML_Schema_document_set'
+    definitionTerm: 'XML Schema document set'
+    definitionText: 'An XML Schema document set is a set of schema documents that together define an XML Schema suitable for assessing the validity of an XML document.'
+    definitionLocal: true
+    definitionStatus: null
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.9.1
+    sectionLabel: 'Section 10.9.1. The NIEM appinfo namespace'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9.1'
+    definitionID: definition_appinfo_namespace
+    definitionUID: NDR-5.0-definition_appinfo_namespace
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_appinfo_namespace'
+    definitionTerm: 'appinfo namespace'
+    definitionText: 'The appinfo namespace is the namespace represented by the URI http://release.niem.gov/niem/appinfo/5.0/.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.9
+    sectionLabel: 'Section 10.9. Machine-readable annotations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9'
+    definitionID: definition_application_information
+    definitionUID: NDR-5.0-definition_application_information
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_application_information'
+    definitionTerm: 'application information'
+    definitionText: 'A component is said to have application information of some element $element when the XML Schema element that defines the component has an immediate child element xs:annotation, which has an immediate child element xs:appinfo, which has as an immediate child the element $element.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3'
+    definitionID: definition_association
+    definitionUID: NDR-5.0-definition_association
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_association'
+    definitionTerm: association
+    definitionText: 'An association is a conformant element information item that establishes a relationship between two or more objects, optionally including properties of that relationship. An association is an instance of an association element declaration, and has a type that is an association type.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3'
+    definitionID: definition_association_element_declaration
+    definitionUID: NDR-5.0-definition_association_element_declaration
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_association_element_declaration'
+    definitionTerm: 'association element declaration'
+    definitionText: 'An association element declaration is an element declaration declared in a reference schema document or extension schema document that describes a relationship between two or more objects, optionally including properties of that relationship.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.3
+    sectionLabel: 'Section 10.3. Associations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.3'
+    definitionID: definition_association_type
+    definitionUID: NDR-5.0-definition_association_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_association_type'
+    definitionTerm: 'association type'
+    definitionText: 'In a NIEM-conformant schema, an association type is a complex type definition defined in a reference schema document or extension schema document that establishes a relationship between two or more objects, optionally including the properties of that relationship.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3'
+    definitionID: definition_attribute
+    definitionUID: NDR-5.0-definition_attribute
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_attribute'
+    definitionTerm: attribute
+    definitionText: 'An attribute is an attribute information item, as defined by [XML Infoset] Section 2.3, Attribute Information Items'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.4.1
+    sectionLabel: 'Section 10.4.1. Augmentable types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.1'
+    definitionID: definition_augmentable_type
+    definitionUID: NDR-5.0-definition_augmentable_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_augmentable_type'
+    definitionTerm: 'augmentable type'
+    definitionText: 'An augmentable type is complex type definition that is defined by either a reference schema document or by an extension schema document, and is either an association type, or an object type that has complex content and is not an external adapter type.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.4
+    sectionLabel: 'Section 10.4. Augmentations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4'
+    definitionID: definition_augmentation
+    definitionUID: NDR-5.0-definition_augmentation
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_augmentation'
+    definitionTerm: augmentation
+    definitionText: 'An augmentation is a conformant element information item that: is an instance of an augmentation element declaration, is a child of a conformant element information item that is an instance of an augmentable type, and appears in the instance as a substitution for an augmentation point element.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.4.4
+    sectionLabel: 'Section 10.4.4. Augmentation types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.4'
+    definitionID: definition_augmentation_element_declaration
+    definitionUID: NDR-5.0-definition_augmentation_element_declaration
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_augmentation_element_declaration'
+    definitionTerm: 'augmentation element declaration'
+    definitionText: 'An augmentation element declaration is an element declaration that has a type that is an augmentation type, and carries elements that establish a relationship to its parent object or association is designed to be used as an augmentation of its parent object or association'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.4.4
+    sectionLabel: 'Section 10.4.4. Augmentation types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.4.4'
+    definitionID: definition_augmentation_type
+    definitionUID: NDR-5.0-definition_augmentation_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_augmentation_type'
+    definitionTerm: 'augmentation type'
+    definitionText: 'An augmentation type is a complex type definition that provides elements that establish relationships to a base object or association, rather than to the instance of the augmentation type itself, and is designed to be the type of an augmentation element declaration.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1'
+    definitionID: definition_base_type_definition
+    definitionUID: NDR-5.0-definition_base_type_definition
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_base_type_definition'
+    definitionTerm: 'base type definition'
+    definitionText: 'The term base type definition is as defined by [XML Schema Structures] Section 2.2.1.1, Type Definition Hierarchy, which states:A type definition used as the basis for an extension or restriction is known as the base type definition of that definition.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_11.1.2.3
+    sectionLabel: 'Section 11.1.2.3. Code simple types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_11.1.2.3'
+    definitionID: definition_code_simple_type
+    definitionUID: NDR-5.0-definition_code_simple_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_code_simple_type'
+    definitionTerm: 'code simple type'
+    definitionText: 'A code simple type is a simple type definition schema component for which each value carried by the type corresponds to an entry in a list of distinct conceptual entities.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.2.4
+    sectionLabel: 'Section 10.2.4. Code types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.4'
+    definitionID: definition_code_type
+    definitionUID: NDR-5.0-definition_code_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_code_type'
+    definitionTerm: 'code type'
+    definitionText: 'A code type is a NIEM object type for which each simple value carried by the type corresponds to an entry in a list of distinct conceptual entities.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1'
+    definitionID: definition_complex_type_definition
+    definitionUID: NDR-5.0-definition_complex_type_definition
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_complex_type_definition'
+    definitionTerm: 'complex type definition'
+    definitionText: 'The term complex type definition is as defined by [XML Schema Structures] Section 2.2.1.3, Complex Type Definition.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6'
+    definitionID: definition_conformance_target
+    definitionUID: NDR-5.0-definition_conformance_target
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformance_target'
+    definitionTerm: 'conformance target'
+    definitionText: 'The term conformance target is as defined by [CTAS], which states:A conformance target is a class of artifact, such as an interface, protocol, document, platform, process or service, that is the subject of conformance clauses and normative statements. There may be several conformance targets defined within a specification, and these targets may be diverse so as to reflect different aspects of a specification. For example, a protocol message and a protocol engine may be different conformance targets.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6'
+    definitionID: definition_conformance_target_identifier
+    definitionUID: NDR-5.0-definition_conformance_target_identifier
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformance_target_identifier'
+    definitionTerm: 'conformance target identifier'
+    definitionText: 'The term conformance target identifier is as defined by [CTAS], which states:A conformance target identifier is an internationalized resource identifier that uniquely identifies a conformance target.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_4.1.4
+    sectionLabel: 'Section 4.1.4. Instance documents and elements'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.4'
+    definitionID: definition_conformant_element_information_item
+    definitionUID: NDR-5.0-definition_conformant_element_information_item
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformant_element_information_item'
+    definitionTerm: 'conformant element information item'
+    definitionText: 'A conformant element information item is an element information item that satisfies all of the following criteria: Its [namespace name] and [local name] matches an element declared by a reference schema document or extension schema document. It occurs within a conformant instance XML document. It is locally schema-valid. It satisfies all rules specified in this document applicable to an element in a conformant instance XML document.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_4.1.4
+    sectionLabel: 'Section 4.1.4. Instance documents and elements'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.4'
+    definitionID: definition_conformant_instance_XML_document
+    definitionUID: NDR-5.0-definition_conformant_instance_XML_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformant_instance_XML_document'
+    definitionTerm: 'conformant instance XML document'
+    definitionText: 'A conformant instance XML document is an XML document that is an instance document valid to a conformant schema document set. It is a conformance target of this specification. A conformant instance XML document MUST conform to all rules of this specification that apply to this conformance target.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_4.1.3
+    sectionLabel: 'Section 4.1.3. Schema document set'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.3'
+    definitionID: definition_conformant_schema_document_set
+    definitionUID: NDR-5.0-definition_conformant_schema_document_set
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformant_schema_document_set'
+    definitionTerm: 'conformant schema document set'
+    definitionText: 'A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document. It is a conformance target of this specification. A conformant schema document set MUST conform to all rules of this specification that apply to this conformance target.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_2.4.1
+    sectionLabel: 'Section 2.4.1. Rules'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4.1'
+    definitionID: definition_constraint_rule
+    definitionUID: NDR-5.0-definition_constraint_rule
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_constraint_rule'
+    definitionTerm: 'constraint rule'
+    definitionText: 'A constraint rule is a rule that sets a requirement on an artifact with respect to its conformance to a conformance target.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_7.4
+    sectionLabel: 'Section 7.4. ISO 11179 Part 4'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_7.4'
+    definitionID: definition_data_definition
+    definitionUID: NDR-5.0-definition_data_definition
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_data_definition'
+    definitionTerm: 'data definition'
+    definitionText: 'The data definition of a schema component is the content of the first occurrence of the element xs:documentation that is an immediate child of an occurrence of an element xs:annotation that is an immediate child of the element that defines the component.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.9.1.1
+    sectionLabel: 'Section 10.9.1.1. Deprecation'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9.1.1'
+    definitionID: definition_deprecated_component
+    definitionUID: NDR-5.0-definition_deprecated_component
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_deprecated_component'
+    definitionTerm: 'deprecated component'
+    definitionText: 'A deprecated component is one that developers are discouraged from using, typically because a better alternative exists, yet which is maintained in the schema for compatibility with previous versions of the namespace.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3'
+    definitionID: definition_document_element
+    definitionUID: NDR-5.0-definition_document_element
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_document_element'
+    definitionTerm: 'document element'
+    definitionText: 'the value of the [document element] property of a document information item; preferred over the term root element.'
+    definitionLocal: false
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_7.4
+    sectionLabel: 'Section 7.4. ISO 11179 Part 4'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_7.4'
+    definitionID: definition_documented_component
+    definitionUID: NDR-5.0-definition_documented_component
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_documented_component'
+    definitionTerm: 'documented component'
+    definitionText: 'In a NIEM-conformant schema, a documented component is schema component that has an associated data definition. Each documented component has a textual definition, so that the component may be well-understood.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.6
+    sectionLabel: 'Section 3.6. Conformance Targets Attribute Specification terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.6'
+    definitionID: definition_effective_conformance_target_identifier
+    definitionUID: NDR-5.0-definition_effective_conformance_target_identifier
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_effective_conformance_target_identifier'
+    definitionTerm: 'effective conformance target identifier'
+    definitionText: 'The term effective conformance target identifier is as defined by [CTAS] Section 4, Semantics and Use, which states:An effective conformance target identifier of a conformant document is an internationalized resource identifier reference that occurs in the document’s effective conformance targets attribute.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.3
+    sectionLabel: 'Section 3.3. XML Information Set terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.3'
+    definitionID: definition_element
+    definitionUID: NDR-5.0-definition_element
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_element'
+    definitionTerm: element
+    definitionText: 'An element is an element information item, as defined by [XML Infoset] Section 2.2, Element Information Items'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1'
+    definitionID: definition_element_declaration
+    definitionUID: NDR-5.0-definition_element_declaration
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_element_declaration'
+    definitionTerm: 'element declaration'
+    definitionText: 'The term element declaration is as defined by [XML Schema Structures] Section 2.2.2.1, Element Declaration.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_4.1.2
+    sectionLabel: 'Section 4.1.2. Extension schema document'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.2'
+    definitionID: definition_extension_schema_document
+    definitionUID: NDR-5.0-definition_extension_schema_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_extension_schema_document'
+    definitionTerm: 'extension schema document'
+    definitionText: 'An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document. It is a conformance target of this specification. An extension schema document MUST conform to all rules of this specification that apply to this conformance target. An XML document with a conformance target identifier of http://reference.niem.gov/niem/specification/naming-and-design-rules/5.0/#ExtensionSchemaDocument MUST be an extension schema document.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.2.3.2
+    sectionLabel: 'Section 10.2.3.2. External adapter types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.3.2'
+    definitionID: definition_external_adapter_type
+    definitionUID: NDR-5.0-definition_external_adapter_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_external_adapter_type'
+    definitionTerm: 'external adapter type'
+    definitionText: 'An external adapter type is a NIEM-conformant type that adapts external components for use within NIEM. An external adapter type creates a new class of object that embodies a single concept composed of external components. A NIEM-conformant schema defines an external adapter type.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.2.3
+    sectionLabel: 'Section 10.2.3. External adapter types and external components'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.3'
+    definitionID: definition_external_schema_document
+    definitionUID: NDR-5.0-definition_external_schema_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_external_schema_document'
+    definitionTerm: 'external schema document'
+    definitionText: 'An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_2.4
+    sectionLabel: 'Section 2.4. Normative and informative content'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4'
+    definitionID: definition_informative
+    definitionUID: NDR-5.0-definition_informative
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_informative'
+    definitionTerm: informative
+    definitionText: 'The term informative is as defined by [ConfReq] Section 7.2, Conformance by key words, which states:INFORMATIVE (NON-NORMATIVE) — statements provided for informational purposes, intended to assist the understanding or use of the specification and shall not contain provisions that are required for conformance.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_instance_document
+    definitionUID: NDR-5.0-definition_instance_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_instance_document'
+    definitionTerm: 'instance document'
+    definitionText: 'An instance document (of an XML Schema) is an XML document that is valid against the XML Schema.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_2.4.1
+    sectionLabel: 'Section 2.4.1. Rules'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4.1'
+    definitionID: definition_interpretation_rule
+    definitionUID: NDR-5.0-definition_interpretation_rule
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_interpretation_rule'
+    definitionTerm: 'interpretation rule'
+    definitionText: 'An interpretation rule is a rule that sets the methodology, pattern, or procedure for understanding some aspect of an instance of a conformance target.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.8.2.1
+    sectionLabel: 'Section 10.8.2.1. Use of Acronyms, Initialisms, Abbreviations, and Jargon'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.8.2.1'
+    definitionID: definition_local_term
+    definitionUID: NDR-5.0-definition_local_term
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_local_term'
+    definitionTerm: 'local term'
+    definitionText: 'In a conformant schema document, a local term is a word, phrase, acronym, or other string of characters for which all of the following are true: It is not a term defined in the [OED], or it has a non-OED definition, or its word sense may not be clear. It is introduced into the schema document via an appinfo element appinfo:LocalTerm. It may be used in the local name of a schema component within the schema document.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.9
+    sectionLabel: 'Section 10.9. Machine-readable annotations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.9'
+    definitionID: definition_machine-readable_annotation
+    definitionUID: NDR-5.0-definition_machine-readable_annotation
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_machine-readable_annotation'
+    definitionTerm: 'machine-readable annotation'
+    definitionText: 'An information item within a schema is defined to be a machine-readable annotation when all of the following are true: It is one of the following: It is an element information item that is a child of an xs:appinfo element. It is an attribute information item that satisfies the {any attributes with non- schema namespace . . .} clause within the declaration of an XML Schema element. The namespace name property of the item is not the XML namespace, XML Schema namespace, or the XSI namespace.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.5.2
+    sectionLabel: 'Section 10.5.2. Metadata element declarations'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.5.2'
+    definitionID: definition_metadata_element_declaration
+    definitionUID: NDR-5.0-definition_metadata_element_declaration
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_metadata_element_declaration'
+    definitionTerm: 'metadata element declaration'
+    definitionText: 'A metadata element declaration is an element declaration defined by a reference schema document or an extension schema document that defines a metadata object. A metadata element declaration has a name ending in Metadata, and a {type definition} that is a metadata type.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.5.1
+    sectionLabel: 'Section 10.5.1. Metadata types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.5.1'
+    definitionID: definition_metadata_type
+    definitionUID: NDR-5.0-definition_metadata_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_metadata_type'
+    definitionTerm: 'metadata type'
+    definitionText: 'A metadata type describes data about data, that is, information that is not descriptive of objects and their relationships, but is descriptive of the data itself. It is useful to provide a general mechanism for data about data. This provides required flexibility to precisely represent information.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_2.4
+    sectionLabel: 'Section 2.4. Normative and informative content'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_2.4'
+    definitionID: definition_normative
+    definitionUID: NDR-5.0-definition_normative
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_normative'
+    definitionTerm: normative
+    definitionText: 'The term normative is as defined by [ConfReq] Section 7.2, Conformance by key words, which states:NORMATIVE — statements provided for the prescriptive parts of the specification, providing that which is necessary in order to be able to claim conformance to the specification.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.2.1
+    sectionLabel: 'Section 10.2.1. General object types'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.1'
+    definitionID: definition_object_type
+    definitionUID: NDR-5.0-definition_object_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_object_type'
+    definitionTerm: 'object type'
+    definitionText: 'In a NIEM-conformant schema, an object type is a complex type definition, an instance of which asserts the existence of an object. An object type represents some kind of object: a thing with its own lifespan that has some existence. The object may or may not be a physical object. It may be a conceptual object.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_4.1.1
+    sectionLabel: 'Section 4.1.1. Reference schema document'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_4.1.1'
+    definitionID: definition_reference_schema_document
+    definitionUID: NDR-5.0-definition_reference_schema_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_reference_schema_document'
+    definitionTerm: 'reference schema document'
+    definitionText: 'A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components. It is a conformance target of this specification. A reference schema document MUST conform to all rules of this specification that apply to this conformance target. An XML document with a conformance target identifier of http://reference.niem.gov/niem/specification/naming-and-design-rules/5.0/#ReferenceSchemaDocument MUST be a conformant reference schema document.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.7
+    sectionLabel: 'Section 10.7. The Representation pattern'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.7'
+    definitionID: definition_representation_element_declaration
+    definitionUID: NDR-5.0-definition_representation_element_declaration
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_representation_element_declaration'
+    definitionTerm: 'representation element declaration'
+    definitionText: 'A representation element declaration is an element declaration that is abstract, and that has a {name} that ends in Representation.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.2.2
+    sectionLabel: 'Section 10.2.2. Role types and roles'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.2'
+    definitionID: definition_role_type
+    definitionUID: NDR-5.0-definition_role_type
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_role_type'
+    definitionTerm: 'role type'
+    definitionText: 'A role type is an object type that represents a particular function, purpose, usage, or role of one or more objects of its base type.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.2.2
+    sectionLabel: 'Section 10.2.2. Role types and roles'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.2.2'
+    definitionID: definition_RoleOf_element
+    definitionUID: NDR-5.0-definition_RoleOf_element
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_RoleOf_element'
+    definitionTerm: 'RoleOf element'
+    definitionText: 'A RoleOf element is an element declaration that is defined by a reference schema document or an extension schema document, and has a {name} that begins with RoleOf.A RoleOf element represents a base type for a role type.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_schema_component
+    definitionUID: NDR-5.0-definition_schema_component
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_schema_component'
+    definitionTerm: 'schema component'
+    definitionText: 'The term schema component is as defined by [XML Schema Structures] Section 2.2, XML Schema Abstract Data Model, which states:Schema component is the generic term for the building blocks that comprise the abstract data model of the schema.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_schema_document
+    definitionUID: NDR-5.0-definition_schema_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_schema_document'
+    definitionTerm: 'schema document'
+    definitionText: 'The term schema document is as defined by [XML Schema Structures] Section 3.1.2, XML Representations of Components, which states:A document in this form (i.e. a element information item) is a schema document.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4.1
+    sectionLabel: 'Section 3.4.1. Schema components'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4.1'
+    definitionID: definition_simple_type_definition
+    definitionUID: NDR-5.0-definition_simple_type_definition
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_simple_type_definition'
+    definitionTerm: 'simple type definition'
+    definitionText: 'The term simple type definition is as defined by [XML Schema Structures] Section 2.2.1.2, Simple Type Definition.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_10.10
+    sectionLabel: 'Section 10.10. NIEM structural facilities'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_10.10'
+    definitionID: definition_structures_namespace
+    definitionUID: NDR-5.0-definition_structures_namespace
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_structures_namespace'
+    definitionTerm: 'structures namespace'
+    definitionText: 'The structures namespace is the namespace represented by the URI http://release.niem.gov/niem/structures/5.0/.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_valid
+    definitionUID: NDR-5.0-definition_valid
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_valid'
+    definitionTerm: valid
+    definitionText: 'The term valid is as defined by [XML Schema Structures] Section 2.1, Overview of XML Schema, which states:[Definition:] the word valid and its derivatives are used to refer to clause 1 above, the determination of local schema-validity.The referenced clause 1 is a part of a description of schema-validity:Schema-validity assessment has two aspects: Determining local schema-validity, that is whether an element or attribute information item satisfies the constraints embodied in the relevant components of an XML Schema; Synthesizing an overall validation outcome for the item, combining local schema-validity with the results of schema-validity assessments of its descendants, if any, and adding appropriate augmentations to the infoset to record this outcome.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.2
+    sectionLabel: 'Section 3.2. XML terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.2'
+    definitionID: definition_XML_document
+    definitionUID: NDR-5.0-definition_XML_document
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_XML_document'
+    definitionTerm: 'XML document'
+    definitionText: 'The term XML document is as defined by [XML] Section 2, Documents, which states:A data object is an XML document if it is well-formed, as defined in this specification. In addition, the XML document is valid if it meets certain further constraints.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_XML_Schema
+    definitionUID: NDR-5.0-definition_XML_Schema
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_XML_Schema'
+    definitionTerm: 'XML Schema'
+    definitionText: 'The term XML Schema is as defined by [XML Schema Structures] Section 2.2, XML Schema Abstract Data Model, which states:An XML Schema is a set of schema components.'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_XML_Schema_definition_language
+    definitionUID: NDR-5.0-definition_XML_Schema_definition_language
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_XML_Schema_definition_language'
+    definitionTerm: 'XML Schema definition language'
+    definitionText: 'The term XML Schema definition language is as defined by [XML Schema Structures] subsection Abstract, which states:XML Schema: Structures specifies the XML Schema definition language, which offers facilities for describing the structure and constraining the contents of XML 1.0 documents, including those which exploit the XML Namespace facility. The schema language, which is itself represented in XML 1.0 and uses namespaces, substantially reconstructs and considerably extends the capabilities found in XML 1.0 document type definitions (DTDs).'
+    definitionLocal: true
+    definitionStatus: current
+-
+    specificationID: NDR-5.0
+    specificationSelector: NDR-5_0
+    suiteID: NDR
+    sectionID: section_3.4
+    sectionLabel: 'Section 3.4. XML Schema terminology'
+    sectionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#section_3.4'
+    definitionID: definition_XML_Schema_document_set
+    definitionUID: NDR-5.0-definition_XML_Schema_document_set
+    definitionURL: 'https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_XML_Schema_document_set'
+    definitionTerm: 'XML Schema document set'
+    definitionText: 'An XML Schema document set is a set of schema documents that together define an XML Schema suitable for assessing the validity of an XML document.'
+    definitionLocal: true
+    definitionStatus: current

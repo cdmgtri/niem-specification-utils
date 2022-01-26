@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_3.4</sectionID>
+    <sectionLabel>Section 3.4. Code list-enabled schema document</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.4</sectionURL>
+    <ruleNumber>3-1</ruleNumber>
+    <ruleTitle>Code list-enabled schema document has conformance target</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_3-1</ruleID>
+    <ruleUID>CodeLists-4.0-rule_3-1</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_3-1</ruleURL>
+    <ruleTargets>XSD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A code list-enabled schema document MUST have an effective conformance target identifier of http://reference.niem.gov/niem/specification/code-lists/4.0/#SchemaDocument</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_3-1</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_3.4</sectionID>
+    <sectionLabel>Section 3.4. Code list-enabled schema document</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_3.4</sectionURL>
+    <ruleNumber>3-2</ruleNumber>
+    <ruleTitle>Document with conformance target is a code list-enabled schema document</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_3-2</ruleID>
+    <ruleUID>CodeLists-4.0-rule_3-2</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_3-2</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A resource with an effective conformance target identifier of http://reference.niem.gov/niem/specification/code-lists/4.0/#SchemaDocument MUST be a code list-enabled schema document.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_3-2</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.4.1</sectionID>
+    <sectionLabel>Section 4.4.1. Syntax for run-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1</sectionURL>
+    <ruleNumber>4-1</ruleNumber>
+    <ruleTitle>Content in the cli namespace conforms to schema</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-1</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-1</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-1</ruleURL>
+    <ruleTargets>INS</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>Any XML content in the namespace http://reference.niem.gov/niem/specification/code-lists/4.0/code-lists-instance/ MUST be schema-valid to the XML Schema definitions contained in the schema document in Appendix B, XML Schema document for the code lists instance namespace, below.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-1</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.4.1</sectionID>
+    <sectionLabel>Section 4.4.1. Syntax for run-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1</sectionURL>
+    <ruleNumber>4-2</ruleNumber>
+    <ruleTitle>Code list URI is an absolute URI</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-2</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-2</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-2</ruleURL>
+    <ruleTargets>INS</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>The normalized value of an attribute cli:codeListURI MUST be an absolute URI.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-2</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.4.1</sectionID>
+    <sectionLabel>Section 4.4.1. Syntax for run-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1</sectionURL>
+    <ruleNumber>4-3</ruleNumber>
+    <ruleTitle>Column identifier accompanied by code list identifier</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-3</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-3</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-3</ruleURL>
+    <ruleTargets>INS</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element having an attribute cli:codeListColumnName MUST have an attribute cli:codeListURI.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-3</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.4.1</sectionID>
+    <sectionLabel>Section 4.4.1. Syntax for run-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.1</sectionURL>
+    <ruleNumber>4-4</ruleNumber>
+    <ruleTitle>Constraining indicator accompanied by code list identifier</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-4</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-4</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-4</ruleURL>
+    <ruleTargets>INS</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element having an attribute cli:codeListConstrainingIndicator MUST have an attribute cli:codeListURI.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-4</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.4.2</sectionID>
+    <sectionLabel>Section 4.4.2. Run-time effective code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.4.2</sectionURL>
+    <ruleNumber>4-5</ruleNumber>
+    <ruleTitle>Effective run-time binding.</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-5</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-5</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-5</ruleURL>
+    <ruleTargets>INS</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element $element with an attribute $attribute cli:codeListURI denotes a code list binding of: 
+- a code list identifier of the normalized value of the attribute cli:codeListURI 
+- a single column/value pair, having: a column reference of: if $element has attribute cli:codeListColumnName, then the normalized value of that attribute, else #code. a data value that is the normalized value of $element. 
+- a column reference of: if $element has attribute cli:codeListColumnName, then the normalized value of that attribute, else #code. 
+- a data value that is the normalized value of $element. 
+- A value for constraining that is: if $element has attribute cli:codeListConstrainingIndicator, then its value, otherwise true.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-5</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.1</sectionID>
+    <sectionLabel>Section 4.5.1. Syntax for schema-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1</sectionURL>
+    <ruleNumber>4-6</ruleNumber>
+    <ruleTitle>Content in the clsa namespace conforms to schema</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-6</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-6</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-6</ruleURL>
+    <ruleTargets>XSD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>Any XML content in the namespace http://reference.niem.gov/niem/specification/code-lists/4.0/code-lists-schema-appinfo/ MUST be schema-valid to the XML Schema definitions contained in the schema document in Appendix C, XML Schema document for the code list schema appinfo namespace, below.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-6</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.1</sectionID>
+    <sectionLabel>Section 4.5.1. Syntax for schema-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1</sectionURL>
+    <ruleNumber>4-7</ruleNumber>
+    <ruleTitle>Elements are xs:appinfo annotations</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-7</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-7</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-7</ruleURL>
+    <ruleTargets>XSD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element clsa:SimpleCodeListBinding or clsa:ComplexCodeListBinding MUST have [parent] element xs:appinfo.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-7</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.1</sectionID>
+    <sectionLabel>Section 4.5.1. Syntax for schema-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1</sectionURL>
+    <ruleNumber>4-8</ruleNumber>
+    <ruleTitle>Code list URI is absolute URI</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-8</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-8</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-8</ruleURL>
+    <ruleTargets>XSD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An attribute codeListURI that has [owner element] of clsa:SimpleCodeListBinding or clsa:ComplexCodeListBinding MUST have a normalized value that is an absolute URI.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-8</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.1</sectionID>
+    <sectionLabel>Section 4.5.1. Syntax for schema-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1</sectionURL>
+    <ruleNumber>4-9</ruleNumber>
+    <ruleTitle>Simple code list binding to schema components</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-9</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-9</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-9</ruleURL>
+    <ruleTargets>XSD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>Element clsa:SimpleCodeListBinding MUST be application information on one of: 
+- element xs:attribute that defines a global attribute declaration 
+- element xs:element that defines a global element declaration 
+- element xs:simpleType that defines a global simple type definition 
+- element xs:complexType that defines a global complex type definition</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-9</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.1</sectionID>
+    <sectionLabel>Section 4.5.1. Syntax for schema-time code list binding</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.1</sectionURL>
+    <ruleNumber>4-10</ruleNumber>
+    <ruleTitle>Complex code list binding to schema components</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-10</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-10</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-10</ruleURL>
+    <ruleTargets>XSD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>Element clsa:ComplexCodeListBinding MUST be application information on one of: 
+- element xs:element that defines a global element declaration 
+- element xs:complexType that defines a global complex type definition</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-10</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.2</sectionID>
+    <sectionLabel>Section 4.5.2. Simple binding of schema components</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.2</sectionURL>
+    <ruleNumber>4-11</ruleNumber>
+    <ruleTitle>Attribute declaration effective simple binding</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-11</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-11</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-11</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element xs:attribute defining an attribute declaration $attribute-declaration with application information of an element $binding-element clsa:SimpleCodeListBinding entails: 
+- Each attribute $attribute in the instance of the code list validation set with [attribute declaration] equal to $attribute-declaration entails a code list binding with: A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $attribute A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. 
+- A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $attribute 
+- A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. 
+- A data value that is the normalized value of $attribute 
+- A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-11</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.2</sectionID>
+    <sectionLabel>Section 4.5.2. Simple binding of schema components</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.2</sectionURL>
+    <ruleNumber>4-12</ruleNumber>
+    <ruleTitle>Element declaration effective simple binding</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-12</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-12</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-12</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element xs:element defining an element declaration $element-declaration with application information of an element $binding-element clsa:SimpleCodeListBinding entails: 
+- Each element $element in the instance of the code list validation set with [element declaration] that is in the substitution group of $element-declaration entails a code list binding with: A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $element A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. 
+- A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $element 
+- A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. 
+- A data value that is the normalized value of $element 
+- A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-12</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.2</sectionID>
+    <sectionLabel>Section 4.5.2. Simple binding of schema components</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.2</sectionURL>
+    <ruleNumber>4-13</ruleNumber>
+    <ruleTitle>Type definition effective simple binding</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-13</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-13</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-13</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element xs:simpleType or xs:complexType defining a type definition $type-definition with application information of an element $binding-element clsa:SimpleCodeListBinding entails: 
+- Each attribute $attribute in the instance of the code list validation set with [attribute declaration] with {type definition} derived from $type-definition entails a code list binding with: A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $attribute A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. 
+- A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $attribute 
+- A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. 
+- A data value that is the normalized value of $attribute 
+- A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- Each element $element in the instance of the code list validation set with [type definition] derived from $type-definition entails a code list binding with: A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $element A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. 
+- A column/value pair with: A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. A data value that is the normalized value of $element 
+- A column reference of: if $binding-element has attribute columnName, then the normalized value of that attribute, else #code. 
+- A data value that is the normalized value of $element 
+- A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-13</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.3</sectionID>
+    <sectionLabel>Section 4.5.3. Complex binding of schema components</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.3</sectionURL>
+    <ruleNumber>4-14</ruleNumber>
+    <ruleTitle>Element declaration effective complex binding</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-14</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-14</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-14</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element xs:element defining an element declaration $element-declaration with application information of an element $binding-element clsa:ComplexCodeListBinding entails: 
+- Each element $element in the instance of the code list validation set with [element declaration] that is in the substitution group of $element-declaration entails a code list binding with: A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. A set of column/value pairs, containing: For each clsa:ElementCodeListBinding child $element-binding of $binding-element: A column/value pair with: A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. 
+- A set of column/value pairs, containing: For each clsa:ElementCodeListBinding child $element-binding of $binding-element: A column/value pair with: A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. 
+- A column/value pair with: A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. 
+- A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. 
+- A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. 
+- A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-14</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.5.3</sectionID>
+    <sectionLabel>Section 4.5.3. Complex binding of schema components</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.5.3</sectionURL>
+    <ruleNumber>4-15</ruleNumber>
+    <ruleTitle>Complex type definition effective complex binding</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-15</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-15</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-15</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>An element xs:complexType defining a complex type definition $type-definition with application information of an element $binding-element clsa:ComplexCodeListBinding entails: 
+- Each element $element in the instance of the code list validation set with [type definition] derived from $type-definition entails a code list binding with: A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. A list of column/value pairs, containing: For each clsa:ElementCodeListBinding child $element-binding of $binding-element: A column/value pair with: A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true. 
+- A code list identifier that is the normalized value of the attribute codeListURI of $binding-element. 
+- A list of column/value pairs, containing: For each clsa:ElementCodeListBinding child $element-binding of $binding-element: A column/value pair with: A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. 
+- A column/value pair with: A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. 
+- A column reference of: if $element-binding has attribute columnName, then the normalized value of that attribute, else #code. 
+- A data value that is: if it exists, the first element child of $element that is in the substitution group of an element declaration with a name that is equal to the value of attribute elementName of $element-binding, otherwise empty. 
+- A value for constraining that is: if $binding-element has attribute constrainingIndicator, then its value, otherwise true.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-15</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.6</sectionID>
+    <sectionLabel>Section 4.6. Matches for code list bindings</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.6</sectionURL>
+    <ruleNumber>4-16</ruleNumber>
+    <ruleTitle>Matches and validity for a code list binding</ruleTitle>
+    <ruleName>rule-matches-for-code-list-binding</ruleName>
+    <ruleID>rule_4-16</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-16</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-16</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A code list binding matching against against a code list validation set yields a set of distinct entries and a validity value (valid or invalid).The matches for a code list binding $binding against a code list validation set MUST be: 
+- The code list identifier $identifier is provided by the $binding. 
+- Using the entity catalog defined for the code list validation set, resolve code list identifier $identifier to a locally-resolved resource $resource. 
+- If $resource is not a code list document, or if no resource is identified for $identifier, then this specification does not define any matches for $binding. The binding is evaluated to be invalid. In this case, the code list identified by $identifier SHOULD be handled by means other than this specification. 
+- If $resource is a code list document, then the set of matches for $binding is the list of distinct entries in the code list for which every column referenced by $binding has the corresponding value. A column/value pair in $binding with a column reference of #code matches as specified for the appropriate class of code list document for that column name. A column/value pair in $binding with a column reference of #range matches: If $resource does not contain a column corresponding to the well-known columns minimum-inclusive, minimum-exclusive, maximum-inclusive, or maximum-exclusive, then the binding has no matches. Otherwise, yield all distinct entries for which all of the following are true, given that the value of the column/value pair is $value: Either there is no code value for column minimum-inclusive, or the code value of that column is less than or equal to $value. Either there is no code value for column minimum-exclusive, or the code value of that column is less than $value. Either there is no code value for column maximum-inclusive, or the code value of that column is greater than or equal to $value. Either there is no code value for column maximum-exclusive, or the code value of that column is greater than $value. 
+- A column/value pair in $binding with a column reference of #code matches as specified for the appropriate class of code list document for that column name. 
+- A column/value pair in $binding with a column reference of #range matches: If $resource does not contain a column corresponding to the well-known columns minimum-inclusive, minimum-exclusive, maximum-inclusive, or maximum-exclusive, then the binding has no matches. Otherwise, yield all distinct entries for which all of the following are true, given that the value of the column/value pair is $value: Either there is no code value for column minimum-inclusive, or the code value of that column is less than or equal to $value. Either there is no code value for column minimum-exclusive, or the code value of that column is less than $value. Either there is no code value for column maximum-inclusive, or the code value of that column is greater than or equal to $value. Either there is no code value for column maximum-exclusive, or the code value of that column is greater than $value. 
+- If $resource does not contain a column corresponding to the well-known columns minimum-inclusive, minimum-exclusive, maximum-inclusive, or maximum-exclusive, then the binding has no matches. 
+- Otherwise, yield all distinct entries for which all of the following are true, given that the value of the column/value pair is $value: Either there is no code value for column minimum-inclusive, or the code value of that column is less than or equal to $value. Either there is no code value for column minimum-exclusive, or the code value of that column is less than $value. Either there is no code value for column maximum-inclusive, or the code value of that column is greater than or equal to $value. Either there is no code value for column maximum-exclusive, or the code value of that column is greater than $value. 
+- Either there is no code value for column minimum-inclusive, or the code value of that column is less than or equal to $value. 
+- Either there is no code value for column minimum-exclusive, or the code value of that column is less than $value. 
+- Either there is no code value for column maximum-inclusive, or the code value of that column is greater than or equal to $value. 
+- Either there is no code value for column maximum-exclusive, or the code value of that column is greater than $value. 
+- If the binding has no matches, then: If the binding is constraining, then it is invalid. If the binding is not constraining, then it is valid. 
+- If the binding is constraining, then it is invalid. 
+- If the binding is not constraining, then it is valid. 
+- If the binding has one or more matches, then it is valid.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-16</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.6</sectionID>
+    <sectionLabel>Section 4.6. Matches for code list bindings</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.6</sectionURL>
+    <ruleNumber>4-17</ruleNumber>
+    <ruleTitle>Value comparisons based on types</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-17</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-17</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-17</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>Comparisons between a value $instance-value of a column/value pair and a code value $code-value MUST be conducted as follows: 
+- $instance-value has a data type, $instance-data-type, provided by its XML Schema definition. 
+- $code-value has a data type, $code-data-type, as provided by its code list document as specified for its class of code list document. That data type is either a data type defined by the XML Schema definition language, or is empty. 
+- A data type, $comparison-data-type, is calculated as: If $code-data-type is empty, then $instance-date-type. If it exists, the lowest common ancestor of the two data types. Otherwise, xs:string. 
+- If $code-data-type is empty, then $instance-date-type. 
+- If it exists, the lowest common ancestor of the two data types. 
+- Otherwise, xs:string. 
+- $instance-value and $code-value are cast to $comparison-data-type, in accordance with [XPathFunctions] Section 17, Casting. 
+- Equality comparisons are conducted as appropriate for $comparison-data-type. 
+- Inequality comparisons (e.g., less than, greater than) for ranges are conducted as appropriate for lowest atomic base type of $comparison-data-type.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-17</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_4.6</sectionID>
+    <sectionLabel>Section 4.6. Matches for code list bindings</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_4.6</sectionURL>
+    <ruleNumber>4-18</ruleNumber>
+    <ruleTitle>Code list identified by candidate code list identifiers</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_4-18</ruleID>
+    <ruleUID>CodeLists-4.0-rule_4-18</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_4-18</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>When a code list document defines candidate code list identifiers, a code list identifier against which a code list document resource is resolved MUST be a candidate code list identifier for that code list document.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_4-18</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Comma-separated values (CSV) code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5</sectionURL>
+    <ruleNumber>5-1</ruleNumber>
+    <ruleTitle>CSV code list document is a CSV file</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-1</ruleID>
+    <ruleUID>CodeLists-4.0-rule_5-1</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_5-1</ruleURL>
+    <ruleTargets>CSV-CLD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A CSV code list document MUST be a CSV file.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_5-1</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Comma-separated values (CSV) code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5</sectionURL>
+    <ruleNumber>5-2</ruleNumber>
+    <ruleTitle>CSV code list document has header</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-2</ruleID>
+    <ruleUID>CodeLists-4.0-rule_5-2</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_5-2</ruleURL>
+    <ruleTargets>CSV-CLD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A CSV code list document MUST have a CSV header.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_5-2</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Comma-separated values (CSV) code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5</sectionURL>
+    <ruleNumber>5-3</ruleNumber>
+    <ruleTitle>CSV column name is not empty</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-3</ruleID>
+    <ruleUID>CodeLists-4.0-rule_5-3</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_5-3</ruleURL>
+    <ruleTargets>CSV-CLD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A CSV column name of a CSV code list document MUST not be empty.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_5-3</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Comma-separated values (CSV) code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_5</sectionURL>
+    <ruleNumber>5-4</ruleNumber>
+    <ruleTitle>CSV file as a code list document</ruleTitle>
+    <ruleName>rule-csv-implementation</ruleName>
+    <ruleID>rule_5-4</ruleID>
+    <ruleUID>CodeLists-4.0-rule_5-4</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_5-4</ruleURL>
+    <ruleTargets>CSV-CLD</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A CSV file may act as a CSV code list document in the following manner: 
+- Code list identifiers: The CSV file does not specify its code list identifiers. Each CSV file contains a single code list. The CSV file MAY be resolved to any code list identifier. 
+- Distinct entries: Each CSV record of the CSV file constitutes a distinct entry. 
+- Code values: Each CSV field corresponds to a code value. 
+- Column names: The column name of a code value is the CSV column name corresponding by position within the CSV header to the position of the CSV field within its CSV record 
+- A column in a CSV file is a well-known column when its CSV column name is the same as the column name of a well-known column. 
+- A reference to column #code is matched, in order, to: a column with CSV column name of code, or the first column of the CSV file. 
+- a column with CSV column name of code, or 
+- the first column of the CSV file. 
+- A code value in a CSV file has no type; its data type is empty.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_5-4</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_6</sectionID>
+    <sectionLabel>Section 6. Genericode code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6</sectionURL>
+    <ruleNumber>6-1</ruleNumber>
+    <ruleTitle>Genericode code list document defined by Genericode</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_6-1</ruleID>
+    <ruleUID>CodeLists-4.0-rule_6-1</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_6-1</ruleURL>
+    <ruleTargets>GC-CLD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A Genericode code list document MUST be a Genericode code list document as defined by [Genericode] Section 3.2, Genericode Document Types, which states: A Genericode code list document has the root element . It contains metadata describing the code list as a whole, as well as explicit code list data — codes and associated values.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_6-1</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_6</sectionID>
+    <sectionLabel>Section 6. Genericode code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6</sectionURL>
+    <ruleNumber>6-2</ruleNumber>
+    <ruleTitle>Document with conformance target is Genericode code list document</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_6-2</ruleID>
+    <ruleUID>CodeLists-4.0-rule_6-2</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_6-2</ruleURL>
+    <ruleTargets>VSET</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A resource with an effective conformance target identifier of http://reference.niem.gov/niem/specification/code-lists/4.0/#GenericodeCodeListDocument MUST be a Genericode code list document.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_6-2</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_6</sectionID>
+    <sectionLabel>Section 6. Genericode code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6</sectionURL>
+    <ruleNumber>6-3</ruleNumber>
+    <ruleTitle>Genericode code list document is schema-valid</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_6-3</ruleID>
+    <ruleUID>CodeLists-4.0-rule_6-3</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_6-3</ruleURL>
+    <ruleTargets>GC-CLD</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A Genericode code list document MUST be schema-valid against the schema document for the Genericode namespace as provided at http://docs.oasis-open.org/codelist/ns/genericode/1.0/.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_6-3</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_6</sectionID>
+    <sectionLabel>Section 6. Genericode code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6</sectionURL>
+    <ruleNumber>6-4</ruleNumber>
+    <ruleTitle>XML Schema alternate datatypes are treated the same as built in datatypes</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_6-4</ruleID>
+    <ruleUID>CodeLists-4.0-rule_6-4</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_6-4</ruleURL>
+    <ruleTargets>GC-CLD</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A datatype with a namespace name of http://www.w3.org/2001/XMLSchema-datatypes MUST be evaluated as if it had a namespace name of http://www.w3.org/2001/XMLSchema.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_6-4</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>CodeLists-4.0</specificationID>
+    <specificationSelector>CodeLists-4_0</specificationSelector>
+    <suiteID>CodeLists</suiteID>
+    <sectionID>section_6</sectionID>
+    <sectionLabel>Section 6. Genericode code lists</sectionLabel>
+    <sectionURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#section_6</sectionURL>
+    <ruleNumber>6-5</ruleNumber>
+    <ruleTitle>Genericode file as a code list document</ruleTitle>
+    <ruleName>rule-genericode-implementation</ruleName>
+    <ruleID>rule_6-5</ruleID>
+    <ruleUID>CodeLists-4.0-rule_6-5</ruleUID>
+    <ruleURL>https://reference.niem.gov/niem/specification/code-lists/4.0/niem-code-lists-4.0.html#rule_6-5</ruleURL>
+    <ruleTargets>GC-CLD</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A Genericode code list document may act as a code list document in the following manner: 
+- Code list identifier: Candidate code list identifiers for the document are the values for CanonicalUri, CanonicalVersionUri, and LocationUri defined by the Genericode document for the code list. 
+- Distinct entries: Each row of the Genericode code list document constitutes a distinct entry. 
+- Code values: Each Value element of the Genericode code list document corresponds to a code value. 
+- Column names: The columns are as defined by Genericode; the column name of a column is the value of attribute Id of that column. 
+- A column in a Genericode code list document is a well-known column when its value for CanonicalUri or CanonicalVersionUri corresponds to the code list identifier specified for that well-known column. 
+- A reference to column #code is matched, in order, to: a column corresponding to well-known column code, a column with column name code, the column in the first single-column key for the code list, or the first column in the code list. 
+- a column corresponding to well-known column code, 
+- a column with column name code, 
+- the column in the first single-column key for the code list, or 
+- the first column in the code list. 
+- A code value in a Genericode file has a type as specified by the data definition of its column. If the Type attribute references an element declaration, then the type is the type of that element. If a Parameter, which introduces gc:DatatypeFacet, is used, then the type is treated as an anonymous type derived from the type of the column. A value for which no data type is specified has an empty data type.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>CodeLists-4_0-rule_6-5</ruleSelector>
+  </rule>
+</rules>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rules>
+  <rule>
+    <specificationID>JSON-4.0</specificationID>
+    <specificationSelector>JSON-4_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-1</ruleNumber>
+    <ruleTitle>File must be a JSON-LD file</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-1</ruleID>
+    <ruleUID>JSON-4.0-rule_5-1</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#rule_5-1</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleTargets>LAX</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A NIEM JSON document strictly conformant to a schema or NIEM JSON document laxly conformant to a schema MUST be a JSON-LD document.</ruleText>
+    <ruleStatus/>
+    <ruleSelector>JSON-4_0-rule_5-1</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-4.0</specificationID>
+    <specificationSelector>JSON-4_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-2</ruleNumber>
+    <ruleTitle>Strictly conformant JSON corresponds to valid XML</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-2</ruleID>
+    <ruleUID>JSON-4.0-rule_5-2</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#rule_5-2</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>The RDF graph entailed by a NIEM JSON document strictly conformant to a schema MUST be equivalent to the RDF graph entailed by a corresponding conformant instance XML document instance of the schema, accounting for literal-to-object conversion and the omission of external content.</ruleText>
+    <ruleStatus/>
+    <ruleSelector>JSON-4_0-rule_5-2</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-4.0</specificationID>
+    <specificationSelector>JSON-4_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-3</ruleNumber>
+    <ruleTitle>JSON is satisfiable with schema</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-3</ruleID>
+    <ruleUID>JSON-4.0-rule_5-3</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#rule_5-3</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleTargets>LAX</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>The RDF graph consisting of the union of:MUST be RDFS satisfiable, accounting for literal-to-object conversion and the omission of external content. 
+- the RDF graph entailed by the JSON document and 
+- the RDF graph entailed by the schema</ruleText>
+    <ruleStatus/>
+    <ruleSelector>JSON-4_0-rule_5-3</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-4.0</specificationID>
+    <specificationSelector>JSON-4_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-4</ruleNumber>
+    <ruleTitle>JSON interpreted based on schema</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-4</ruleID>
+    <ruleUID>JSON-4.0-rule_5-4</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#rule_5-4</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleTargets>LAX</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A NIEM JSON document strictly conformant to a schema or NIEM JSON document laxly conformant to a schema MUST be interpreted as an RDFS interpretation of the RDF graph composed of the RDF entailed by the JSON document together with the RDF entailed by the schema.</ruleText>
+    <ruleStatus/>
+    <ruleSelector>JSON-4_0-rule_5-4</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-5.0</specificationID>
+    <specificationSelector>JSON-5_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-1</ruleNumber>
+    <ruleTitle>File must be a JSON-LD file</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-1</ruleID>
+    <ruleUID>JSON-5.0-rule_5-1</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#rule_5-1</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleTargets>LAX</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A NIEM JSON document strictly conformant to a schema or NIEM JSON document laxly conformant to a schema MUST be a JSON-LD document.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>JSON-5_0-rule_5-1</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-5.0</specificationID>
+    <specificationSelector>JSON-5_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-2</ruleNumber>
+    <ruleTitle>Strictly conformant JSON corresponds to valid XML</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-2</ruleID>
+    <ruleUID>JSON-5.0-rule_5-2</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#rule_5-2</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>The RDF graph entailed by a NIEM JSON document strictly conformant to a schema MUST be equivalent to the RDF graph entailed by a corresponding conformant instance XML document instance of the schema, accounting for NIEM JSON normalization and the omission of external content.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>JSON-5_0-rule_5-2</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-5.0</specificationID>
+    <specificationSelector>JSON-5_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-3</ruleNumber>
+    <ruleTitle>JSON is satisfiable with schema</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-3</ruleID>
+    <ruleUID>JSON-5.0-rule_5-3</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#rule_5-3</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleTargets>LAX</ruleTargets>
+    <ruleClassification>Constraint</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>The RDF graph consisting of the union of:MUST be RDFS satisfiable, accounting for literal-to-object conversion and the omission of external content. 
+- the RDF graph entailed by the JSON document and 
+- the RDF graph entailed by the schema</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>JSON-5_0-rule_5-3</ruleSelector>
+  </rule>
+  <rule>
+    <specificationID>JSON-5.0</specificationID>
+    <specificationSelector>JSON-5_0</specificationSelector>
+    <suiteID>JSON</suiteID>
+    <sectionID>section_5</sectionID>
+    <sectionLabel>Section 5. Rules</sectionLabel>
+    <sectionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#section_5</sectionURL>
+    <ruleNumber>5-4</ruleNumber>
+    <ruleTitle>JSON interpreted based on schema</ruleTitle>
+    <ruleName/>
+    <ruleID>rule_5-4</ruleID>
+    <ruleUID>JSON-5.0-rule_5-4</ruleUID>
+    <ruleURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#rule_5-4</ruleURL>
+    <ruleTargets>STRICT</ruleTargets>
+    <ruleTargets>LAX</ruleTargets>
+    <ruleClassification>Interpretation</ruleClassification>
+    <ruleStyle>text</ruleStyle>
+    <ruleText>A NIEM JSON document strictly conformant to a schema or NIEM JSON document laxly conformant to a schema MUST be interpreted as an RDFS interpretation of the RDF graph composed of the RDF entailed by the JSON document together with the RDF entailed by the schema.</ruleText>
+    <ruleStatus>current</ruleStatus>
+    <ruleSelector>JSON-5_0-rule_5-4</ruleSelector>
+  </rule>
+</rules>
