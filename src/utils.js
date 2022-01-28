@@ -1,6 +1,5 @@
 
 let json2csv = require("json2csv");
-let trash = require("trash");
 let xmlConverter = require("xml-js");
 let yaml = require("yamljs");
 
@@ -141,6 +140,7 @@ class Utils {
    * Sends files in the given folder to the OS-specific recycle bin.
    */
   static async trash(folder) {
+    let trash = require("trash");
     let path = require("path");
     let normalizedPath = path.resolve(__dirname, folder);
     return trash(normalizedPath);

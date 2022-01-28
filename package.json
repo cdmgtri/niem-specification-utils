@@ -1,6 +1,6 @@
 {
   "name": "niem-specification-utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Extracts rule and definition information from NIEM specifications.",
   "main": "./index.js",
   "bin": {
