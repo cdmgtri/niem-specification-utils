@@ -7,7 +7,7 @@
     "cli": "bin/index.js"
   },
   "scripts": {
-    "build": "npm run clean && node bin/index.js",
+    "build": "node bin/index.js",
     "build:debug": "cross-env DEBUG=niem npm run build",
     "ci": "npm run build && npm run test:cov && npm run coverage && npm run docs",
     "clean": "trash output && trash test/output",

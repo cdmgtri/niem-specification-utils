@@ -313,6 +313,30 @@
     <specTargetCount>2</specTargetCount>
   </specification>
   <specification>
+    <id>HLVA-1.0</id>
+    <suiteID>HLVA</suiteID>
+    <suiteName>NIEM High-Level Version Architecture Specification</suiteName>
+    <suiteRepo/>
+    <suiteLandingPage/>
+    <suiteIssueTracker/>
+    <suiteDescription>The NIEM High-Level Version Architecture (HLVA) Specification identifies the processes, artifacts, and responsibilities required to produce new releases of the NIEM model. It also establishes a regular release cycle for predictable and manageable NIEM updates.</suiteDescription>
+    <specID>HLVA-1.0</specID>
+    <specCustomID>HLVA</specCustomID>
+    <specName>NIEM High-Level Version Architecture Specification</specName>
+    <specVersion>1.0</specVersion>
+    <specURL>https://reference.niem.gov/niem/specification/high-level-version-architecture/1.0/high-level-version-architecture-1.0.pdf</specURL>
+    <specYear>2008</specYear>
+    <specApplicableReleases>NIEM 1.0 - NIEM 2.1</specApplicableReleases>
+    <specChangeHistory/>
+    <specResources/>
+    <specExamples/>
+    <specStatus/>
+    <specRuleCount>0</specRuleCount>
+    <specDefinitionCount>0</specDefinitionCount>
+    <specSelector>HLVA-1_0</specSelector>
+    <specTargetCount>0</specTargetCount>
+  </specification>
+  <specification>
     <id>HLVA-3.0</id>
     <suiteID>HLVA</suiteID>
     <suiteName>NIEM High-Level Version Architecture Specification</suiteName>
@@ -326,14 +350,38 @@
     <specVersion>3.0</specVersion>
     <specURL>https://reference.niem.gov/niem/specification/high-level-version-architecture/3.0/high-level-version-architecture-3.0.html</specURL>
     <specYear>2015</specYear>
-    <specApplicableReleases>NIEM 3.0 and later releases</specApplicableReleases>
+    <specApplicableReleases>NIEM 3.0 - NIEM 4.2</specApplicableReleases>
+    <specChangeHistory/>
+    <specResources/>
+    <specExamples/>
+    <specStatus/>
+    <specRuleCount>0</specRuleCount>
+    <specDefinitionCount>0</specDefinitionCount>
+    <specSelector>HLVA-3_0</specSelector>
+    <specTargetCount>0</specTargetCount>
+  </specification>
+  <specification>
+    <id>HLVA-5.0</id>
+    <suiteID>HLVA</suiteID>
+    <suiteName>NIEM High-Level Version Architecture Specification</suiteName>
+    <suiteRepo/>
+    <suiteLandingPage/>
+    <suiteIssueTracker/>
+    <suiteDescription>The NIEM High-Level Version Architecture (HLVA) Specification identifies the processes, artifacts, and responsibilities required to produce new releases of the NIEM model. It also establishes a regular release cycle for predictable and manageable NIEM updates.</suiteDescription>
+    <specID>HLVA-5.0</specID>
+    <specCustomID>HLVA</specCustomID>
+    <specName>NIEM High-Level Version Architecture Specification</specName>
+    <specVersion>5.0</specVersion>
+    <specURL>https://reference.niem.gov/niem/specification/high-level-version-architecture/5.0/NIEM_HLVA_5.0.pdf</specURL>
+    <specYear>2021</specYear>
+    <specApplicableReleases>NIEM 5.0 and later releases</specApplicableReleases>
     <specChangeHistory/>
     <specResources/>
     <specExamples/>
     <specStatus>current</specStatus>
     <specRuleCount>0</specRuleCount>
     <specDefinitionCount>0</specDefinitionCount>
-    <specSelector>HLVA-3_0</specSelector>
+    <specSelector>HLVA-5_0</specSelector>
     <specTargetCount>0</specTargetCount>
   </specification>
 </specifications>

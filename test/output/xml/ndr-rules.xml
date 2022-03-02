@@ -4072,7 +4072,7 @@
     <ruleTargets>EXT</ruleTargets>
     <ruleClassification>Constraint</ruleClassification>
     <ruleStyle>schematron</ruleStyle>
-    <ruleText>A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/3.0/}SimpleObjectAttributeGroup. A data type for a kind of passport.</ruleText>
+    <ruleText>A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/3.0/}SimpleObjectAttributeGroup.  A data type for a kind of passport.</ruleText>
     <ruleStatus/>
     <ruleSelector>NDR-3_0-rule_11-11</ruleSelector>
   </rule>
@@ -9105,7 +9105,7 @@
     <ruleTargets>EXT</ruleTargets>
     <ruleClassification>Constraint</ruleClassification>
     <ruleStyle>schematron</ruleStyle>
-    <ruleText>A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/4.0/}SimpleObjectAttributeGroup. A data type for a kind of passport.</ruleText>
+    <ruleText>A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/4.0/}SimpleObjectAttributeGroup.  A data type for a kind of passport.</ruleText>
     <ruleStatus/>
     <ruleSelector>NDR-4_0-rule_11-10</ruleSelector>
   </rule>
@@ -14512,7 +14512,7 @@
     <ruleTargets>EXT</ruleTargets>
     <ruleClassification>Constraint</ruleClassification>
     <ruleStyle>schematron</ruleStyle>
-    <ruleText>A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/5.0/}SimpleObjectAttributeGroup. A data type for a kind of passport.</ruleText>
+    <ruleText>A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/5.0/}SimpleObjectAttributeGroup.  A data type for a kind of passport.</ruleText>
     <ruleStatus>current</ruleStatus>
     <ruleSelector>NDR-5_0-rule_11-11</ruleSelector>
   </rule>

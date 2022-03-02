@@ -159,10 +159,32 @@
 
 -
   suiteID: HLVA
+  specVersion: "1.0"
+  specURL: https://reference.niem.gov/niem/specification/high-level-version-architecture/1.0/high-level-version-architecture-1.0.pdf
+  specYear: 2008
+  specApplicableReleases: NIEM 1.0 - NIEM 2.1
+  specChangeHistory:
+  specResources:
+  specExamples:
+  specStatus:
+
+-
+  suiteID: HLVA
   specVersion: "3.0"
   specURL: https://reference.niem.gov/niem/specification/high-level-version-architecture/3.0/high-level-version-architecture-3.0.html
   specYear: 2015
-  specApplicableReleases: NIEM 3.0 and later releases
+  specApplicableReleases: NIEM 3.0 - NIEM 4.2
+  specChangeHistory:
+  specResources:
+  specExamples:
+  specStatus:
+
+-
+  suiteID: HLVA
+  specVersion: "5.0"
+  specURL: https://reference.niem.gov/niem/specification/high-level-version-architecture/5.0/NIEM_HLVA_5.0.pdf
+  specYear: 2021
+  specApplicableReleases: NIEM 5.0 and later releases
   specChangeHistory:
   specResources:
   specExamples:

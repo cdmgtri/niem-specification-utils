@@ -4196,7 +4196,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "The name of a proxy type does not end in \"Type\". A type definition schema component that does not define a proxy type MUST have a name that ends in \"Type\".",
+    "ruleText": "The name of a proxy type does not end in \"Type\".  A type definition schema component that does not define a proxy type MUST have a name that ends in \"Type\".",
     "ruleStatus": null,
     "ruleSelector": "NDR-3_0-rule_11-1"
   },
@@ -4219,7 +4219,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "The name of a proxy type is not upper camel case. A type definition schema component that does not define a proxy type MUST be in upper camel case.",
+    "ruleText": "The name of a proxy type is not upper camel case.  A type definition schema component that does not define a proxy type MUST be in upper camel case.",
     "ruleStatus": null,
     "ruleSelector": "NDR-3_0-rule_11-2"
   },
@@ -4426,7 +4426,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/3.0/}SimpleObjectAttributeGroup.  A data type for a kind of passport.",
+    "ruleText": "A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/3.0/}SimpleObjectAttributeGroup.   A data type for a kind of passport.",
     "ruleStatus": null,
     "ruleSelector": "NDR-3_0-rule_11-11"
   },
@@ -4885,7 +4885,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "The data definition for an augmentation point element SHOULD begin with standard opening phrase \"an augmentation point...\". The data definition for an augmentation element SHOULD begin with the standard opening phrase \"supplements...\" or \"additional information about...\". The data definition for a metadata element SHOULD begin with the standard opening phrase \"metadata about...\" or \"information that further qualifies...\". The data defintion for an association element that is not abstract SHOULD begin with the standard opening phrase \"an (optional adjectives) (relationship|association)...\". The data defintion for an abstract element SHOULD begin with the standard opening phrase \"a data concept...\". The data defintion for an element with a date representation term SHOULD begin with the standard opening phrase \"a(n?) (optional adjectives) (date|month|year)...\". The data defintion for an element with a quantity representation term SHOULD begin with the standard opening phrase \"an (optional adjectives) (count|number)...\". The data defintion for an element with a picture representation term SHOULD begin with the standard opening phrase \"an (optional adjectives) (image|picture|photograph)\". The data defintion for an element with an indicator representation term SHOULD begin with the standard opening phrase \"true if ...; false (otherwise|if)...\". The data defintion for an element with an identification representation term SHOULD begin with the standard opening phrase \"(a|an) (optional adjectives) identification...\". The data defintion for an element with a name representation term SHOULD begin with the standard opening phrase \"(a|an) (optional adjectives) name...\". The data defintion for an element declaration with a name SHOULD begin with the standard opening phrase \"(a|an)\".",
+    "ruleText": "The data definition for an augmentation point element SHOULD begin with standard opening phrase \"an augmentation point...\".  The data definition for an augmentation element SHOULD begin with the standard opening phrase \"supplements...\" or \"additional information about...\".  The data definition for a metadata element SHOULD begin with the standard opening phrase \"metadata about...\" or \"information that further qualifies...\".  The data defintion for an association element that is not abstract SHOULD begin with the standard opening phrase \"an (optional adjectives) (relationship|association)...\".  The data defintion for an abstract element SHOULD begin with the standard opening phrase \"a data concept...\".  The data defintion for an element with a date representation term SHOULD begin with the standard opening phrase \"a(n?) (optional adjectives) (date|month|year)...\".  The data defintion for an element with a quantity representation term SHOULD begin with the standard opening phrase \"an (optional adjectives) (count|number)...\".  The data defintion for an element with a picture representation term SHOULD begin with the standard opening phrase \"an (optional adjectives) (image|picture|photograph)\".  The data defintion for an element with an indicator representation term SHOULD begin with the standard opening phrase \"true if ...; false (otherwise|if)...\".  The data defintion for an element with an identification representation term SHOULD begin with the standard opening phrase \"(a|an) (optional adjectives) identification...\".  The data defintion for an element with a name representation term SHOULD begin with the standard opening phrase \"(a|an) (optional adjectives) name...\".  The data defintion for an element declaration with a name SHOULD begin with the standard opening phrase \"(a|an)\".",
     "ruleStatus": null,
     "ruleSelector": "NDR-3_0-rule_11-31"
   },
@@ -4908,7 +4908,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "The data definition for an association type SHOULD begin with the standard opening phrase \"a datatype for (a relationship|an association)...\". The data definition for an augmentation type SHOULD begin with the standard opening phrase \"a data type (that supplements|for additional information about)...\". The data definition for a metadata type SHOULD begin with the standard opening phrase \"a data type for (metdata about|information that further qualifies)...\". The data definition for a type SHOULD begin with the standard opening phrase \"a data type...\".",
+    "ruleText": "The data definition for an association type SHOULD begin with the standard opening phrase \"a datatype for (a relationship|an association)...\".  The data definition for an augmentation type SHOULD begin with the standard opening phrase \"a data type (that supplements|for additional information about)...\".  The data definition for a metadata type SHOULD begin with the standard opening phrase \"a data type for (metdata about|information that further qualifies)...\".  The data definition for a type SHOULD begin with the standard opening phrase \"a data type...\".",
     "ruleStatus": null,
     "ruleSelector": "NDR-3_0-rule_11-32"
   },
@@ -7017,7 +7017,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "This rule does not constrain attribute uses that are required An element xs:attribute that is not a required attribute use MUST NOT have an attribute {}fixed.",
+    "ruleText": "This rule does not constrain attribute uses that are required  An element xs:attribute that is not a required attribute use MUST NOT have an attribute {}fixed.",
     "ruleStatus": null,
     "ruleSelector": "NDR-4_0-rule_9-58"
   },
@@ -9023,7 +9023,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "This rule does not apply to an attribute. This rule does not apply to a proxy types. Within the schema, an XML Schema component that is not an attribute declaration or proxy type MUST have a name that begins with an upper-case letter ('A'-'Z').",
+    "ruleText": "This rule does not apply to an attribute.  This rule does not apply to a proxy types.  Within the schema, an XML Schema component that is not an attribute declaration or proxy type MUST have a name that begins with an upper-case letter ('A'-'Z').",
     "ruleStatus": null,
     "ruleSelector": "NDR-4_0-rule_10-49"
   },
@@ -9690,7 +9690,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "The name of a proxy type does not end in \"Type\". A type definition schema component that does not define a proxy type MUST have a name that ends in \"Type\".",
+    "ruleText": "The name of a proxy type does not end in \"Type\".  A type definition schema component that does not define a proxy type MUST have a name that ends in \"Type\".",
     "ruleStatus": null,
     "ruleSelector": "NDR-4_0-rule_11-1"
   },
@@ -9897,7 +9897,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/4.0/}SimpleObjectAttributeGroup.  A data type for a kind of passport.",
+    "ruleText": "A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/4.0/}SimpleObjectAttributeGroup.   A data type for a kind of passport.",
     "ruleStatus": null,
     "ruleSelector": "NDR-4_0-rule_11-10"
   },
@@ -12853,7 +12853,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "This rule does not constrain attribute uses that are required An element xs:attribute that is not a required attribute use MUST NOT have an attribute {}fixed.",
+    "ruleText": "This rule does not constrain attribute uses that are required  An element xs:attribute that is not a required attribute use MUST NOT have an attribute {}fixed.",
     "ruleStatus": "current",
     "ruleSelector": "NDR-5_0-rule_9-58"
   },
@@ -14882,7 +14882,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "This rule does not apply to an attribute. This rule does not apply to a proxy types. Within the schema, an XML Schema component that is not an attribute declaration or proxy type MUST have a name that begins with an upper-case letter ('A'-'Z').",
+    "ruleText": "This rule does not apply to an attribute.  This rule does not apply to a proxy types.  Within the schema, an XML Schema component that is not an attribute declaration or proxy type MUST have a name that begins with an upper-case letter ('A'-'Z').",
     "ruleStatus": "current",
     "ruleSelector": "NDR-5_0-rule_10-50"
   },
@@ -15549,7 +15549,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "The name of a proxy type does not end in \"Type\". A type definition schema component that does not define a proxy type MUST have a name that ends in \"Type\".",
+    "ruleText": "The name of a proxy type does not end in \"Type\".  A type definition schema component that does not define a proxy type MUST have a name that ends in \"Type\".",
     "ruleStatus": "current",
     "ruleSelector": "NDR-5_0-rule_11-1"
   },
@@ -15572,7 +15572,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "A schema component with a name that ends in 'SimpleType' MUST be a simple type definition. A schema component with a name that ends in 'Type' and does not end in 'SimpleType' MUST be a complex type definition.",
+    "ruleText": "A schema component with a name that ends in 'SimpleType' MUST be a simple type definition.  A schema component with a name that ends in 'Type' and does not end in 'SimpleType' MUST be a complex type definition.",
     "ruleStatus": "current",
     "ruleSelector": "NDR-5_0-rule_11-2"
   },
@@ -15779,7 +15779,7 @@
     ],
     "ruleClassification": "Constraint",
     "ruleStyle": "schematron",
-    "ruleText": "A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/5.0/}SimpleObjectAttributeGroup.  A data type for a kind of passport.",
+    "ruleText": "A complex type definition with simple content schema component with a derivation method of extension that has a base type definition that is a simple type MUST incorporate the attribute group {http://release.niem.gov/niem/structures/5.0/}SimpleObjectAttributeGroup.   A data type for a kind of passport.",
     "ruleStatus": "current",
     "ruleSelector": "NDR-5_0-rule_11-11"
   },

@@ -41,7 +41,7 @@
     <definitionUID>JSON-4.0-definition_conformant_instance_XML_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#definition_conformant_instance_XML_document</definitionURL>
     <definitionTerm>conformant instance XML document</definitionTerm>
-    <definitionText>The term conformant instance XML document is a conformance target defined by the [NIEM NDR] Section 4.1.4, Instance documents and elements, which states: A conformant instance XML document is an XML document that is [an] instance document valid to a conformant schema document set.</definitionText>
+    <definitionText>The term conformant instance XML document is a conformance target defined by the [NIEM NDR] Section 4.1.4, Instance documents and elements, which states:  A conformant instance XML document is an XML document that is [an] instance document valid to a conformant schema document set.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus/>
   </definition>
@@ -56,7 +56,7 @@
     <definitionUID>JSON-4.0-definition_conformant_schema_document_set</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#definition_conformant_schema_document_set</definitionURL>
     <definitionTerm>conformant schema document set</definitionTerm>
-    <definitionText>The term conformant schema document set is a conformance target defined by the [NIEM NDR] Section 4.1.3, Schema document set, which states: A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document.</definitionText>
+    <definitionText>The term conformant schema document set is a conformance target defined by the [NIEM NDR] Section 4.1.3, Schema document set, which states:  A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus/>
   </definition>
@@ -116,7 +116,7 @@
     <definitionUID>JSON-4.0-definition_extension_schema_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#definition_extension_schema_document</definitionURL>
     <definitionTerm>extension schema document</definitionTerm>
-    <definitionText>The term extension schema document is a conformance target defined by the [NIEM NDR] Section 4.1.2, Extension schema document, which states: An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document.</definitionText>
+    <definitionText>The term extension schema document is a conformance target defined by the [NIEM NDR] Section 4.1.2, Extension schema document, which states:  An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus/>
   </definition>
@@ -131,7 +131,7 @@
     <definitionUID>JSON-4.0-definition_external_schema_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#definition_external_schema_document</definitionURL>
     <definitionTerm>external schema document</definitionTerm>
-    <definitionText>The term external schema document is defined by the [NIEM NDR] Section 10.2.3, External adapter types and external components, which states: An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.</definitionText>
+    <definitionText>The term external schema document is defined by the [NIEM NDR] Section 10.2.3, External adapter types and external components, which states:  An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus/>
   </definition>
@@ -341,7 +341,7 @@
     <definitionUID>JSON-4.0-definition_reference_schema_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v4.0/niem-json-spec.html#definition_reference_schema_document</definitionURL>
     <definitionTerm>reference schema document</definitionTerm>
-    <definitionText>The term reference schema document is a conformance target defined by the [NIEM NDR] Section 4.1.1, Reference schema document, which states: A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components.</definitionText>
+    <definitionText>The term reference schema document is a conformance target defined by the [NIEM NDR] Section 4.1.1, Reference schema document, which states:  A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus/>
   </definition>
@@ -386,7 +386,7 @@
     <definitionUID>JSON-5.0-definition_conformant_instance_XML_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#definition_conformant_instance_XML_document</definitionURL>
     <definitionTerm>conformant instance XML document</definitionTerm>
-    <definitionText>The term conformant instance XML document is a conformance target defined by the [NIEM NDR] Section 4.1.4, Instance documents and elements, which states: A conformant instance XML document is an XML document that is [an] instance document valid to a conformant schema document set.</definitionText>
+    <definitionText>The term conformant instance XML document is a conformance target defined by the [NIEM NDR] Section 4.1.4, Instance documents and elements, which states:  A conformant instance XML document is an XML document that is [an] instance document valid to a conformant schema document set.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus>current</definitionStatus>
   </definition>
@@ -401,7 +401,7 @@
     <definitionUID>JSON-5.0-definition_conformant_schema_document_set</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#definition_conformant_schema_document_set</definitionURL>
     <definitionTerm>conformant schema document set</definitionTerm>
-    <definitionText>The term conformant schema document set is a conformance target defined by the [NIEM NDR] Section 4.1.3, Schema document set, which states: A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document.</definitionText>
+    <definitionText>The term conformant schema document set is a conformance target defined by the [NIEM NDR] Section 4.1.3, Schema document set, which states:  A conformant schema document set is a collection of schema documents that together are capable of validating a conformant instance XML document.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus>current</definitionStatus>
   </definition>
@@ -461,7 +461,7 @@
     <definitionUID>JSON-5.0-definition_extension_schema_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#definition_extension_schema_document</definitionURL>
     <definitionTerm>extension schema document</definitionTerm>
-    <definitionText>The term extension schema document is a conformance target defined by the [NIEM NDR] Section 4.1.2, Extension schema document, which states: An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document.</definitionText>
+    <definitionText>The term extension schema document is a conformance target defined by the [NIEM NDR] Section 4.1.2, Extension schema document, which states:  An extension schema document is a schema document that is intended to provide definitions of schema components that are intended for reuse within a more narrow scope than those defined by a reference schema document.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus>current</definitionStatus>
   </definition>
@@ -476,7 +476,7 @@
     <definitionUID>JSON-5.0-definition_external_schema_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#definition_external_schema_document</definitionURL>
     <definitionTerm>external schema document</definitionTerm>
-    <definitionText>The term external schema document is defined by the [NIEM NDR] Section 10.2.3, External adapter types and external components, which states: An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.</definitionText>
+    <definitionText>The term external schema document is defined by the [NIEM NDR] Section 10.2.3, External adapter types and external components, which states:  An external schema document is any schema document that is not one of a reference schema document, an extension schema document, or a schema document that has the structures namespace as its target namespace.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus>current</definitionStatus>
   </definition>
@@ -701,7 +701,7 @@
     <definitionUID>JSON-5.0-definition_reference_schema_document</definitionUID>
     <definitionURL>https://niem.github.io/NIEM-JSON-Spec/v5.0/niem-json-spec.html#definition_reference_schema_document</definitionURL>
     <definitionTerm>reference schema document</definitionTerm>
-    <definitionText>The term reference schema document is a conformance target defined by the [NIEM NDR] Section 4.1.1, Reference schema document, which states: A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components.</definitionText>
+    <definitionText>The term reference schema document is a conformance target defined by the [NIEM NDR] Section 4.1.1, Reference schema document, which states:  A reference schema document is a schema document that is intended to provide the authoritative definitions of broadly reusable schema components.</definitionText>
     <definitionLocal>false</definitionLocal>
     <definitionStatus>current</definitionStatus>
   </definition>
