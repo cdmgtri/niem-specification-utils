@@ -11,28 +11,28 @@
   suiteID: NDR
   targetCode: REF
   targetName: Reference Schema Document
-  targetTutorial: /reference/specifications/ndr/#reference-schema-document-ref
+  targetTutorial: /reference/specifications/ndr/#ref
   targetDefinitionFragment: definition_reference_schema_document
   targetDescription: A NIEM schema that provides authoritative definitions of broadly reusable schema components and follows a stricter syntax. NIEM release schemas are REFs.
 -
   suiteID: NDR
   targetCode: EXT
   targetName: Extension Schema Document
-  targetTutorial: /reference/specifications/ndr/#extension-schema-document-ext
+  targetTutorial: /reference/specifications/ndr/#ext
   targetDefinitionFragment: definition_extension_schema_document
   targetDescription: A NIEM schema for special-purpose content with little reuse expected. EXTs may thus follow a slightly more relaxed syntax. IEPD extension schemas are often EXTs.
 -
   suiteID: NDR
   targetCode: SET
   targetName: Conformant Schema Document Set
-  targetTutorial: /reference/specifications/ndr/#conformant-schema-document-set-set
+  targetTutorial: /reference/specifications/ndr/#set
   targetDefinitionFragment: definition_conformant_schema_document_set
   targetDescription: A single conceptual XML schema that represents the sum of all rules and definitions within a collection of NIEM REF and EXT schemas, such as an IEPD.
 -
   suiteID: NDR
   targetCode: INS
   targetName: Conformant Instance Document
-  targetTutorial: /reference/specifications/ndr/#conformant-instance-document-ins
+  targetTutorial: /reference/specifications/ndr/#ins
   targetDefinitionFragment: definition_conformant_instance_XML_document
   targetDescription: An XML instance document which is valid against a conformant schema document set (SET).
 -

@@ -7,7 +7,7 @@
     "targetName": "Reference Schema Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/1.3/niem-ndr-1.3.pdf#definition_reference_schema_document",
     "targetDescription": "A NIEM schema that provides authoritative definitions of broadly reusable schema components and follows a stricter syntax. NIEM release schemas are REFs.",
-    "targetTutorial": "/reference/specifications/ndr/#reference-schema-document-ref",
+    "targetTutorial": "/reference/specifications/ndr/#ref",
     "targetStatus": null
   },
   {
@@ -18,7 +18,7 @@
     "targetName": "Extension Schema Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/1.3/niem-ndr-1.3.pdf#definition_extension_schema_document",
     "targetDescription": "A NIEM schema for special-purpose content with little reuse expected. EXTs may thus follow a slightly more relaxed syntax. IEPD extension schemas are often EXTs.",
-    "targetTutorial": "/reference/specifications/ndr/#extension-schema-document-ext",
+    "targetTutorial": "/reference/specifications/ndr/#ext",
     "targetStatus": null
   },
   {
@@ -29,7 +29,7 @@
     "targetName": "Conformant Schema Document Set",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/1.3/niem-ndr-1.3.pdf#definition_conformant_schema_document_set",
     "targetDescription": "A single conceptual XML schema that represents the sum of all rules and definitions within a collection of NIEM REF and EXT schemas, such as an IEPD.",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-schema-document-set-set",
+    "targetTutorial": "/reference/specifications/ndr/#set",
     "targetStatus": null
   },
   {
@@ -40,7 +40,7 @@
     "targetName": "Conformant Instance Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/1.3/niem-ndr-1.3.pdf#definition_conformant_instance_XML_document",
     "targetDescription": "An XML instance document which is valid against a conformant schema document set (SET).",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-instance-document-ins",
+    "targetTutorial": "/reference/specifications/ndr/#ins",
     "targetStatus": null
   },
   {
@@ -51,7 +51,7 @@
     "targetName": "Reference Schema Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_reference_schema_document",
     "targetDescription": "A NIEM schema that provides authoritative definitions of broadly reusable schema components and follows a stricter syntax. NIEM release schemas are REFs.",
-    "targetTutorial": "/reference/specifications/ndr/#reference-schema-document-ref",
+    "targetTutorial": "/reference/specifications/ndr/#ref",
     "targetStatus": null
   },
   {
@@ -62,7 +62,7 @@
     "targetName": "Extension Schema Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_extension_schema_document",
     "targetDescription": "A NIEM schema for special-purpose content with little reuse expected. EXTs may thus follow a slightly more relaxed syntax. IEPD extension schemas are often EXTs.",
-    "targetTutorial": "/reference/specifications/ndr/#extension-schema-document-ext",
+    "targetTutorial": "/reference/specifications/ndr/#ext",
     "targetStatus": null
   },
   {
@@ -73,7 +73,7 @@
     "targetName": "Conformant Schema Document Set",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformant_schema_document_set",
     "targetDescription": "A single conceptual XML schema that represents the sum of all rules and definitions within a collection of NIEM REF and EXT schemas, such as an IEPD.",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-schema-document-set-set",
+    "targetTutorial": "/reference/specifications/ndr/#set",
     "targetStatus": null
   },
   {
@@ -84,7 +84,7 @@
     "targetName": "Conformant Instance Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/3.0/niem-ndr-3.0.html#definition_conformant_instance_XML_document",
     "targetDescription": "An XML instance document which is valid against a conformant schema document set (SET).",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-instance-document-ins",
+    "targetTutorial": "/reference/specifications/ndr/#ins",
     "targetStatus": null
   },
   {
@@ -95,7 +95,7 @@
     "targetName": "Reference Schema Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_reference_schema_document",
     "targetDescription": "A NIEM schema that provides authoritative definitions of broadly reusable schema components and follows a stricter syntax. NIEM release schemas are REFs.",
-    "targetTutorial": "/reference/specifications/ndr/#reference-schema-document-ref",
+    "targetTutorial": "/reference/specifications/ndr/#ref",
     "targetStatus": null
   },
   {
@@ -106,7 +106,7 @@
     "targetName": "Extension Schema Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_extension_schema_document",
     "targetDescription": "A NIEM schema for special-purpose content with little reuse expected. EXTs may thus follow a slightly more relaxed syntax. IEPD extension schemas are often EXTs.",
-    "targetTutorial": "/reference/specifications/ndr/#extension-schema-document-ext",
+    "targetTutorial": "/reference/specifications/ndr/#ext",
     "targetStatus": null
   },
   {
@@ -117,7 +117,7 @@
     "targetName": "Conformant Schema Document Set",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformant_schema_document_set",
     "targetDescription": "A single conceptual XML schema that represents the sum of all rules and definitions within a collection of NIEM REF and EXT schemas, such as an IEPD.",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-schema-document-set-set",
+    "targetTutorial": "/reference/specifications/ndr/#set",
     "targetStatus": null
   },
   {
@@ -128,7 +128,7 @@
     "targetName": "Conformant Instance Document",
     "targetURL": "https://reference.niem.gov/niem/specification/naming-and-design-rules/4.0/niem-ndr-4.0.html#definition_conformant_instance_XML_document",
     "targetDescription": "An XML instance document which is valid against a conformant schema document set (SET).",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-instance-document-ins",
+    "targetTutorial": "/reference/specifications/ndr/#ins",
     "targetStatus": null
   },
   {
@@ -139,7 +139,7 @@
     "targetName": "Reference Schema Document",
     "targetURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_reference_schema_document",
     "targetDescription": "A NIEM schema that provides authoritative definitions of broadly reusable schema components and follows a stricter syntax. NIEM release schemas are REFs.",
-    "targetTutorial": "/reference/specifications/ndr/#reference-schema-document-ref",
+    "targetTutorial": "/reference/specifications/ndr/#ref",
     "targetStatus": "current"
   },
   {
@@ -150,7 +150,7 @@
     "targetName": "Extension Schema Document",
     "targetURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_extension_schema_document",
     "targetDescription": "A NIEM schema for special-purpose content with little reuse expected. EXTs may thus follow a slightly more relaxed syntax. IEPD extension schemas are often EXTs.",
-    "targetTutorial": "/reference/specifications/ndr/#extension-schema-document-ext",
+    "targetTutorial": "/reference/specifications/ndr/#ext",
     "targetStatus": "current"
   },
   {
@@ -161,7 +161,7 @@
     "targetName": "Conformant Schema Document Set",
     "targetURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformant_schema_document_set",
     "targetDescription": "A single conceptual XML schema that represents the sum of all rules and definitions within a collection of NIEM REF and EXT schemas, such as an IEPD.",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-schema-document-set-set",
+    "targetTutorial": "/reference/specifications/ndr/#set",
     "targetStatus": "current"
   },
   {
@@ -172,7 +172,7 @@
     "targetName": "Conformant Instance Document",
     "targetURL": "https://niem.github.io/NIEM-NDR/v5.0/niem-ndr.html#definition_conformant_instance_XML_document",
     "targetDescription": "An XML instance document which is valid against a conformant schema document set (SET).",
-    "targetTutorial": "/reference/specifications/ndr/#conformant-instance-document-ins",
+    "targetTutorial": "/reference/specifications/ndr/#ins",
     "targetStatus": "current"
   },
   {
